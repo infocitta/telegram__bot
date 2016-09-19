@@ -1,0 +1,16 @@
+[
+{
+    "ID":"HOME",
+    "Text":"Benvenuto nel BOT di Infocittà",
+    "Button":[
+               {"Text":"Versione","ID":"INFO"}
+             ]
+},
+{
+    "ID":"INFO",
+    "Text":"Versione 0.1/r/nby Paolo Fisco @ipersoft",
+    "Button":[
+               {"Text":"Menu precedente","ID":"HOME"}
+             ]
+}
+]
