@@ -1,7 +1,7 @@
 [
   {
     "ID": "HOME",
-    "Text": "Benvenuto nel BOT di Infocittà",
+    "Text": "Benvenuto nel BOT di Infocittà\n :arrow_down:Seleziona la tua città:arrow_down:",
     "Button": [
       {
         "Text": "Informazioni su ...",
