@@ -15,7 +15,7 @@
   		{ "Text": "Muggio'", "ID": "muggio" },
   		{ "Text": "Nova Milanese", "ID": "nova-milanese" },
   		{ "Text": "Seregno", "ID": "seregno" },
-  		{ "Text": "Varedo", "ID": "varedo"}      
+  		{ "Text": "Varedo", "ID": "varedo"},      
       { "Text": "Informazioni su ...", "ID": "INFO"}
     ]
   },
