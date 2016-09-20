@@ -13,8 +13,31 @@
   {
     "ID": "INFO",
     "Text": "Versione 0.1\nby Paolo Fisco @ipersoft",
+    "Button": [{"Text": ":back: Menu precedente","ID": "HOME"}]
+  },
+  {
+    "ID": "desio",
+    "Text": "Città di Desio\n:arrow_down:Seleziona una voce:arrow_down:",
     "Button": [
-      {"Text": ":back: Menu precedente","ID": "HOME"}
-    ]
+	{"Text": "Meteo", "ID": "desio_meteo" },
+	{"Text": ":back: Menu precedente","ID": "HOME"}
+	]
+  },
+  {
+    "ID": "desio_meteo",
+    "Text": "Sei nel menu Meteo Desio\n:arrow_down:Seleziona una voce:arrow_down:",
+    "Button": [
+	{"Text": "Situazione adesso", "ID": "desio_meteo_now" },
+	{"Text": ":back: Menu precedente","ID": "desio"}
+	]
+  },
+  {
+    "ID": "desio_meteo_now",
+    "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo.php?city=desio",
+    "Button": [
+	{"Text": "Desio", "ID": "desio" },
+	{"Text": ":back: Menu precedente","ID": "desio_meteo"}
+	]
   }
+  
 ]
