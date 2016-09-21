@@ -2,7 +2,7 @@
   {
     "ID": "HOME",
     "Text": "Benvenuto nel BOT di Infocittà\n :arrow_down:Seleziona la tua città:arrow_down:",
-	"Push": {"ID":"alluser","Enabled":true}
+	"Push": {"ID":"alluser","Enabled":true},
     "Button": [
     { "Text": "Desio", "ID": "desio" },
     { "Text": "Lissone", "ID": "lissone" },
