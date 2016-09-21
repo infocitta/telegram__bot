@@ -4,11 +4,11 @@
     "Text": "Benvenuto nel BOT di Infocittà\n :arrow_down:Seleziona la tua città:arrow_down:",
 	"Push": {"ID":"alluser","Enabled":true},
     "Button": [
-    { "Text": "Desio", "ID": "desio" },
-    { "Text": "Lissone", "ID": "lissone" },
-    { "Text": "Monza", "ID": "monza" },
-    { "Text": "Seregno", "ID": "seregno" },
-    { "Text": "Informazioni su ...", "ID": "INFO"}
+    { "Text": ":european_post_office: Desio", "ID": "desio" },
+    { "Text": ":european_post_office: Lissone", "ID": "lissone" },
+    { "Text": ":european_post_office: Monza", "ID": "monza" },
+    { "Text": ":european_post_office: Seregno", "ID": "seregno" },
+    { "Text": ":information_source: Informazioni su ...", "ID": "INFO"}
     ]
   },
   {
@@ -49,18 +49,12 @@
 	]
   },
   {
-    "ID": "desio_meteo_now",
-    "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo.php?city=desio",
-    "Button": [
-	{"Text": ":back: Menu precedente","ID": "desio_meteo"}
-	]
+    "ID": "desio_meteo_now", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo.php?city=desio",
+    "Button": [{"Text": ":back: Menu precedente","ID": "desio_meteo"}]
   },
   {
-    "ID": "monza_meteo_now",
-    "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo.php?city=monza",
-    "Button": [
-	{"Text": ":back: Menu precedente","ID": "monza_meteo"}
-	]
+    "ID": "monza_meteo_now","TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo.php?city=monza",
+    "Button": [{"Text": ":back: Menu precedente","ID": "monza_meteo"}]
   }
   
 ]
