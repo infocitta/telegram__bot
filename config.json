@@ -40,6 +40,7 @@
     "Text": "Sei nel menu Meteo Desio\n:arrow_down:Seleziona una voce:arrow_down:",
     "Button": [
 	{"Text": "Situazione adesso", "ID": "desio_meteo_now" },
+	{"Text": "Previsioni", "ID": "desio_meteo_forecast" },
 	{"Text": ":back: Menu precedente","ID": "desio"}
 	]
   },
@@ -57,6 +58,11 @@
     "ID": "desio_meteo_now", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=conditions&city=desio",
     "Button": [{"Text": ":back: Menu precedente","ID": "desio_meteo"}]
   },
+  {
+    "HidePrevKeyb":true,
+    "ID": "desio_meteo_forecast", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=forecast&city=desio",
+    "Button": [{"Text": ":back: Menu precedente","ID": "desio_meteo"}]
+  },  
   {
     "HidePrevKeyb":true,
     "ID": "monza_meteo_now","TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo.php?city=monza",
