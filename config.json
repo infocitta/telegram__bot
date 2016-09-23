@@ -54,7 +54,7 @@
   },
   {
     "HidePrevKeyb":true,
-    "ID": "desio_meteo_now", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo.php?city=desio",
+    "ID": "desio_meteo_now", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=conditions&city=desio",
     "Button": [{"Text": ":back: Menu precedente","ID": "desio_meteo"}]
   },
   {
