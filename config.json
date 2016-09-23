@@ -1,12 +1,11 @@
 [
   {
     "ID": "HOME",
-    "Text": "Benvenuto nel BOT di Infocittà\n :arrow_down:Seleziona la tua città:arrow_down:",
+    "Text": "Benvenuto nel BOT di Infocittà\n:arrow_down:Seleziona la tua città:arrow_down:",
     "Push": {"ID":"alluser","Enabled":true},
     "HidePrevKeyb":true,
     "Button": [
     { "Text": ":european_post_office: Desio", "ID": "desio" },
-    { "Text": ":european_post_office: Monza", "ID": "monza" },
     { "Text": ":information_source: Informazioni su ...", "ID": "INFO"}
     ]
   },
@@ -19,21 +18,32 @@
   {
     "ID": "desio",
     "HidePrevKeyb":true,
-    "Text": "Città di Desio\n:arrow_down:Seleziona una voce:arrow_down:",
+    "ParseMode":"Markdown",
+    "Text": "Citta: *Desio*\nMenu principale\n:arrow_down:Seleziona una voce:arrow_down:",
     "Button": [
 	{"Text": "Meteo", "ID": "desio_meteo" },
+	{"Text": "Ricezione dati", "ID": "push_desio" },
 	{"Text": ":back: Menu precedente","ID": "HOME"}
 	]
   },
   {
-    "ID": "monza",
-    "HidePrevKeyb":true,
-    "Text": "Città di Monza\n:arrow_down:Seleziona una voce:arrow_down:",
-    "Button": [
-	{"Text": "Meteo", "ID": "monza_meteo" },
-	{"Text": ":back: Menu precedente","ID": "HOME"}
-	]
+  	"ID": "push_desio",
+  	"HidePrevKeyb":true,
+	"Text": ":arrow_down:Seleziona cosa vuoi ricevere:arrow_down:",
+	"Button": [
+		{"Text": "Notizie FB Desio", "ID": "push_desio_fbdesio_on" },
+		{"Text": ":back: Menu precedente","ID": "desio"}
+		]	
   },
+   {
+      "ID":"push_desio_fbdesio_on",
+      "Text":"Ricezione abilitata",
+      "Push":
+         {"ID":"fbdesio","Enabled":true},
+         "Button": [
+		{"Text": ":back: Menu precedente","ID": "push_desio"}
+		]
+   },
   {
     "ID": "desio_meteo",
     "HidePrevKeyb":true,
@@ -45,15 +55,6 @@
 	]
   },
   {
-    "ID": "monza_meteo",
-    "HidePrevKeyb":true,
-    "Text": "Sei nel menu Meteo Monza\n:arrow_down:Seleziona una voce:arrow_down:",
-    "Button": [
-	{"Text": "Situazione adesso", "ID": "monza_meteo_now" },
-	{"Text": ":back: Menu precedente","ID": "monza"}
-	]
-  },
-  {
     "HidePrevKeyb":true,
     "ID": "desio_meteo_now", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=conditions&city=desio",
     "Button": [{"Text": ":back: Menu precedente","ID": "desio_meteo"}]
@@ -62,11 +63,5 @@
     "HidePrevKeyb":true,
     "ID": "desio_meteo_forecast", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=forecast&city=desio",
     "Button": [{"Text": ":back: Menu precedente","ID": "desio_meteo"}]
-  },  
-  {
-    "HidePrevKeyb":true,
-    "ID": "monza_meteo_now","TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo.php?city=monza",
-    "Button": [{"Text": ":back: Menu precedente","ID": "monza_meteo"}]
   }
-  
 ]
