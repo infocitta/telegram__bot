@@ -38,6 +38,7 @@
    {
       "ID":"push_desio_fbdesio_on",
       "Text":"Ricezione abilitata",
+      "HidePrevKeyb":true,
       "Push":
          {"ID":"fbdesio","Enabled":true},
          "Button": [
