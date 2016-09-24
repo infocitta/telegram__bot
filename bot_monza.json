@@ -7,14 +7,17 @@
     "Button": [
     	{"Text": "Meteo", "ID": "meteo" },
     	{"Text": "Ricezione dati", "ID": "push" },
-      {"Text": ":information_source: Informazioni su ...", "ID": "INFO"}
+        {"Text": ":information_source: Informazioni su ...", "ID": "INFO"}
     ]
   },
   {
     "ID": "INFO",
     "HidePrevKeyb":true,
     "Text": "Versione 0.1\nby Paolo Fisco @ipersoft",
-    "Button": [{"Text": ":back: Menu precedente","ID": "HOME"}]
+    "Button": [
+    	{"Text": "Gruppo chat per suggerimenti", "URL": "https://telegram.me/infocitta"},
+    	{"Text": "Sorgente menu su GitHub", "URL": "https://github.com/infocitta/telegram_bot/blob/master/bot_monza.json"},
+    	{"Text": ":back: Menu precedente","ID": "HOME"}]
   },
   {
   	"ID": "push",
