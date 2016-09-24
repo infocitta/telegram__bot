@@ -25,6 +25,7 @@
 	"Text": ":arrow_down:Seleziona cosa vuoi ricevere:arrow_down:",
 	"Button": [
 		{"Text": "Notizie FB Monza", "ID": "push_fbmonza_on" },
+		{"Text": "Meteo alle 7.30", "ID": "push_meteonow_on" },
 		{"Text": ":back: Menu precedente","ID": "HOME"}
 		]	
   },
@@ -34,6 +35,16 @@
       "HidePrevKeyb":true,
       "Push":
          {"ID":"fbmonza","Enabled":true},
+         "Button": [
+		{"Text": ":back: Menu precedente","ID": "push"}
+		]
+   },
+   {
+      "ID":"push_meteonow_on",
+      "Text":"Ricezione meteo abilitata",
+      "HidePrevKeyb":true,
+      "Push":
+         {"ID":"meteonow","Enabled":true},
          "Button": [
 		{"Text": ":back: Menu precedente","ID": "push"}
 		]
