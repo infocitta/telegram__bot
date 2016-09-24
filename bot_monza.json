@@ -1,0 +1,59 @@
+[
+  {
+    "ID": "HOME",
+    "Text": "Benvenuto nel BOT di Infocittà Monza\n:arrow_down:Seleziona una funzione:arrow_down:",
+    "Push": {"ID":"alluser","Enabled":true},
+    "HidePrevKeyb":true,
+    "Button": [
+    	{"Text": "Meteo", "ID": "meteo" },
+    	{"Text": "Ricezione dati", "ID": "push" },
+      {"Text": ":information_source: Informazioni su ...", "ID": "INFO"}
+    ]
+  },
+  {
+    "ID": "INFO",
+    "HidePrevKeyb":true,
+    "Text": "Versione 0.1\nby Paolo Fisco @ipersoft",
+    "Button": [{"Text": ":back: Menu precedente","ID": "HOME"}]
+  },
+  {
+  	"ID": "push",
+  	"HidePrevKeyb":true,
+	"Text": ":arrow_down:Seleziona cosa vuoi ricevere:arrow_down:",
+	"Button": [
+		{"Text": "Notizie FB Desio", "ID": "push_fbmonza_on" },
+		{"Text": ":back: Menu precedente","ID": "desio"}
+		]	
+  },
+   {
+      "ID":"push_fbmonza_on",
+      "Text":"Ricezione abilitata",
+      "HidePrevKeyb":true,
+      "Push":
+         {"ID":"fbmonza","Enabled":true},
+         "Button": [
+		{"Text": ":back: Menu precedente","ID": "push"}
+		]
+   },
+  {
+    "ID": "meteo",
+    "HidePrevKeyb":true,
+    "ParseMode":"Markdown",
+    "Text": "Sei nel menu *Meteo*\n:arrow_down:Seleziona una voce:arrow_down:",
+    "Button": [
+	{"Text": "Situazione adesso", "ID": "meteo_now" },
+	{"Text": "Previsioni", "ID": "meteo_forecast" },
+	{"Text": ":back: Menu precedente","ID": "desio"}
+	]
+  },
+  {
+    "HidePrevKeyb":true,
+    "ID": "meteo_now", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=conditions&city=monza",
+    "Button": [{"Text": ":back: Menu precedente","ID": "desio_meteo"}]
+  },
+  {
+    "HidePrevKeyb":true,
+    "ID": "meteo_forecast", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=forecast&city=monza",
+    "Button": [{"Text": ":back: Menu precedente","ID": "desio_meteo"}]
+  }
+]
