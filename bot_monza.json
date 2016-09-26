@@ -13,10 +13,11 @@
   {
     "ID": "INFO",
     "HidePrevKeyb":true,
-    "Text": "Versione 0.1\nby Paolo Fisco @ipersoft",
+    "Text": "Versione 1.16\nby Paolo Fisco @ipersoft",
     "Button": [
     	{"Text": "Gruppo chat per suggerimenti", "URL": "https://telegram.me/infocitta"},
     	{"Text": "Sorgente menu su GitHub", "URL": "https://github.com/infocitta/telegram_bot/blob/master/bot_monza.json"},
+	{"Text": "Wiki menu su GitHub", "URL": "https://github.com/ipersoft/telegram_bot/wiki"},
     	{"Text": ":back: Menu precedente","ID": "HOME"}]
   },
   {
@@ -30,24 +31,19 @@
 		]	
   },
    {
-      "ID":"push_fbmonza_on",
-      "Text":"Ricezione abilitata",
-      "HidePrevKeyb":true,
-      "Push":
-         {"ID":"fbmonza","Enabled":true},
-         "Button": [
-		{"Text": ":back: Menu precedente","ID": "push"}
-		]
+      	"ID":"push_fbmonza_on",
+	"IDNEXT":"push",
+      	"Text":"Ricezione abilitata",
+      	"HidePrevKeyb":true,
+      	"Push": {"ID":"fbmonza","Enabled":true}
    },
    {
-      "ID":"push_meteonow_on",
-      "Text":"Ricezione meteo abilitata",
-      "HidePrevKeyb":true,
-      "Push":
-         {"ID":"meteonow","Enabled":true},
-         "Button": [
-		{"Text": ":back: Menu precedente","ID": "push"}
-		]
+      	"ID":"push_meteonow_on",
+	"IDNEXT":"push",
+      	"Text":"Ricezione meteo abilitata",
+      	"HidePrevKeyb":true,
+      	"Push":{"ID":"meteonow","Enabled":true}
+
    },
   {
     "ID": "meteo",
@@ -61,13 +57,16 @@
 	]
   },
   {
-    "HidePrevKeyb":true,
-    "ID": "meteo_now", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=conditions&city=monza",
-    "Button": [{"Text": ":back: Menu precedente","ID": "meteo"}]
+    	"HidePrevKeyb":true,
+    	"ID": "meteo_now",
+	"IDNEXT":"meteo",
+	"TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=conditions&city=monza"
   },
   {
     "HidePrevKeyb":true,
-    "ID": "meteo_forecast", "TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=forecast&city=monza",
-    "Button": [{"Text": ":back: Menu precedente","ID": "meteo"}]
+    	"ID": "meteo_forecast",
+	"IDNEXT":"meteo",
+	"TextFromURL": "http://ipersoftserver.azurewebsites.net/infocitta/meteo/?type=forecast&city=monza"
+    
   }
 ]
