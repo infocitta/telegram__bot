@@ -1,0 +1,452 @@
+﻿[
+  {
+    "ID": "HOME",
+    "Text": "Benvenuti dal BOT Infocittà\r\nSeleziona una città",
+    "Button": [
+      {
+        "Text": "~ Utilità",
+        "ID": "utility"
+      },
+      {
+        "Text": "Bovisio Masciago",
+        "ID": "bovisio-masciago"
+      },
+      {
+        "Text": "Brugherio",
+        "ID": "brugherio"
+      },
+      {
+        "Text": "Carate Brianza",
+        "ID": "carate-brianza"
+      },
+      {
+        "Text": "Cesano Maderno",
+        "ID": "cesano-maderno"
+      },
+      {
+        "Text": "Desio",
+        "ID": "desio"
+      },
+      {
+        "Text": "Giussano",
+        "ID": "giussano"
+      },
+      {
+        "Text": "Limbiate",
+        "ID": "limbiate"
+      },
+      {
+        "Text": "Lissone",
+        "ID": "lissone"
+      },
+      {
+        "Text": "Monza",
+        "ID": "monza"
+      },
+      {
+        "Text": "Muggio'",
+        "ID": "muggio"
+      },
+      {
+        "Text": "Nova Milanese",
+        "ID": "nova-milanese"
+      },
+      {
+        "Text": "Seregno",
+        "ID": "seregno"
+      },
+      {
+        "Text": "Varedo",
+        "ID": "varedo"
+      }
+    ]
+  },
+  {
+    "ID": "limbiate",
+    "Text": "Città selezionata: Limbiate\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      }
+    ]
+  },
+  {
+    "ID": "lissone",
+    "Text": "Città selezionata: Lissone\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      },
+      {
+        "Text": "Sanitaria",
+        "ID": "sanitaria"
+      },
+      {
+        "Text": "~ Comune",
+        "ID": "comune"
+      }
+    ]
+  },
+  {
+    "ID": "desio",
+    "Text": "Città selezionata: Desio\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Locali NoSlot",
+        "ID": "no_slot"
+      },
+      {
+        "Text": "Libri in Transito",
+        "ID": "libri"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Prodotti per vegani",
+        "ID": "vegani"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Sanitaria",
+        "ID": "sanitaria"
+      },
+      {
+        "Text": "Servizi Telegram",
+        "ID": "telegram"
+      },
+      {
+        "Text": "Gestione Rifiuti",
+        "ID": "rifiuti"
+      },
+      {
+        "Text": "Uffici pubblici",
+        "ID": "ufficio_pubblico"
+      },
+      {
+        "Text": "Trasporti",
+        "ID": "trasporto"
+      },
+      {
+        "Text": "Veterinario",
+        "ID": "veterinario"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      },
+      {
+        "Text": "~ Comune",
+        "ID": "comune"
+      }
+    ]
+  },
+  {
+    "ID": "nova-milanese",
+    "Text": "Città selezionata: Nova Milanese\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      }
+    ]
+  },
+  {
+    "ID": "bovisio-masciago",
+    "Text": "Città selezionata: Bovisio Masciago\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      }
+    ]
+  },
+  {
+    "ID": "cesano-maderno",
+    "Text": "Città selezionata: Cesano Maderno\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      }
+    ]
+  },
+  {
+    "ID": "seregno",
+    "Text": "Città selezionata: Seregno\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      }
+    ]
+  },
+  {
+    "ID": "monza",
+    "Text": "Città selezionata: Monza\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      }
+    ]
+  },
+  {
+    "ID": "giussano",
+    "Text": "Città selezionata: Giussano\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      }
+    ]
+  },
+  {
+    "ID": "carate-brianza",
+    "Text": "Città selezionata: Carate Brianza\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      }
+    ]
+  },
+  {
+    "ID": "muggio",
+    "Text": "Città selezionata: Muggio'\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      },
+      {
+        "Text": "~ Comune",
+        "ID": "comune"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      }
+    ]
+  },
+  {
+    "ID": "brugherio",
+    "Text": "Città selezionata: Brugherio\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      }
+    ]
+  },
+  {
+    "ID": "varedo",
+    "Text": "Città selezionata: Varedo\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Medico di famiglia",
+        "ID": "medico"
+      },
+      {
+        "Text": "Asilo nido",
+        "ID": "asilo_nido"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "scuola_materna"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "pediatra"
+      },
+      {
+        "Text": "Mercati",
+        "ID": "mercato"
+      }
+    ]
+  },
+  {
+    "ID": "utility",
+    "Text": "Città selezionata: ~ Utilità\r\nSeleziona categoria",
+    "Button": [
+      {
+        "Text": "Calendario",
+        "ID": "calendario"
+      }
+    ]
+  }
+]
