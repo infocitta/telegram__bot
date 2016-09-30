@@ -1,7 +1,7 @@
 ﻿[
   {
     "ID": "HOME",
-    "Text": "Benvenuti dal BOT Infocittà\r\nSeleziona una città",
+    "Text": "Benvenuti dal BOT Infocittà\r\ncreato da Paolo Fisco @ipersoft\r\nSeleziona una città",
     "Button": [
       {
         "Text": "~ Utilità",
@@ -66,378 +66,4596 @@
     "Text": "Città selezionata: Limbiate\r\nSeleziona categoria",
     "Button": [
       {
+        "Text": "Asilo nido",
+        "ID": "limbiate_asilo_nido"
+      },
+      {
         "Text": "Medico di famiglia",
-        "ID": "medico"
+        "ID": "limbiate_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
-      },
-      {
-        "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "limbiate_mercato"
       },
       {
         "Text": "Pediatra",
-        "ID": "pediatra"
+        "ID": "limbiate_pediatra"
       },
       {
         "Text": "Scuola materna",
-        "ID": "scuola_materna"
+        "ID": "limbiate_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "limbiate_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. Barbieri Giorgio",
+        "ID": "50c27b04-b252-42a0-b650-51cb3bf49dc9"
+      },
+      {
+        "Text": "Dott. Buscemi Pino",
+        "ID": "7fea0cb0-6b4b-4005-b5b0-d3a3e83fa56a"
+      },
+      {
+        "Text": "Dott. Camerra Luciano",
+        "ID": "70e55386-0ea5-4143-b759-87e593ec9424"
+      },
+      {
+        "Text": "Dott. Canazzo Antonio Natale",
+        "ID": "4b88b2e8-53dd-4478-9a6c-bf242b3f987b"
+      },
+      {
+        "Text": "Dott. De Luca Raffaele",
+        "ID": "89f84ce6-b90e-4fe8-ba91-1a9a415a5629"
+      },
+      {
+        "Text": "Dott. Giacomini Valter",
+        "ID": "6d6cc098-4113-4cf0-b85c-d4748dc97f5e"
+      },
+      {
+        "Text": "Dott. Giugno Saverio",
+        "ID": "03508035-f209-46de-b9bb-5df39c24a5f7"
+      },
+      {
+        "Text": "Dott. Guzzetti Pierangelo",
+        "ID": "6c735bd4-ede7-48e8-8286-84d6a51e5b00"
+      },
+      {
+        "Text": "Dott. Muscianisi Carmelo",
+        "ID": "a58e583e-2dcc-4ae1-9214-48b46e00a1dd"
+      },
+      {
+        "Text": "Dott. Rocca Alberto",
+        "ID": "00de6615-e776-4876-aa69-f7b6122bf1f3"
+      },
+      {
+        "Text": "Dott. ssa NOVELLA MAPELLI",
+        "ID": "62840878-a80b-435f-8901-9f2b9c694495"
+      },
+      {
+        "Text": "Dott. Vallone Ennio",
+        "ID": "70c22236-af13-4b41-bcb9-14111d0c09fb"
+      },
+      {
+        "Text": "Dott.ssa Brambilla Maria Teresa",
+        "ID": "0f5e2cd3-3a34-4d80-aea4-0dd46dfe5480"
+      },
+      {
+        "Text": "Dott.ssa Brioschi Fiorella",
+        "ID": "c734a06d-a8d1-4e0f-9b72-b6be88dfa2c9"
+      },
+      {
+        "Text": "Dott.ssa Marini Enrica",
+        "ID": "d7709275-eaaf-43b5-9f40-d04666f6ddca"
+      },
+      {
+        "Text": "Dott.ssa Parravicini Lorena Rita",
+        "ID": "e60e7271-e96a-43aa-aad8-c9f9f562a778"
+      },
+      {
+        "Text": "Dott.ssa Schieppati Maria Luigia",
+        "ID": "e7143f9c-bcd2-4d56-acbf-91eb9d93638d"
+      },
+      {
+        "Text": "Dott.ssa Strada Sonia",
+        "ID": "f609040e-0db4-4f6b-a27c-63fc9b9848a0"
+      },
+      {
+        "Text": "Dott.ssa Tanzi Maria Cristina",
+        "ID": "38735cf8-724c-44db-8a18-fe68e96c7a26"
+      }
+    ]
+  },
+  {
+    "ID": "00de6615-e776-4876-aa69-f7b6122bf1f3",
   },
   {
     "ID": "lissone",
     "Text": "Città selezionata: Lissone\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
-      },
-      {
-        "Text": "Pediatra",
-        "ID": "pediatra"
+        "Text": "~ Comune",
+        "ID": "lissone_comune"
       },
       {
         "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "lissone_asilo_nido"
+      },
+      {
+        "Text": "Medico di famiglia",
+        "ID": "lissone_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "lissone_mercato"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "lissone_pediatra"
       },
       {
         "Text": "Sanitaria",
-        "ID": "sanitaria"
+        "ID": "lissone_sanitaria"
       },
       {
-        "Text": "~ Comune",
-        "ID": "comune"
+        "Text": "Scuola materna",
+        "ID": "lissone_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "lissone_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. CITTERIO TIZIANO",
+        "ID": "f8821a47-6add-422d-a5a4-a50478b774d7"
+      },
+      {
+        "Text": "Dott. COLOMBO FERRUCCIO",
+        "ID": "166789fe-2f32-479f-a736-e335558bf794"
+      },
+      {
+        "Text": "Dott. DASSI FABIO",
+        "ID": "6edca073-15c3-4947-b7ec-0a4ecd4e33c8"
+      },
+      {
+        "Text": "Dott. FOSSATI LUIGI",
+        "ID": "3aed1b55-ef84-4f74-b42f-a0681f93ee3e"
+      },
+      {
+        "Text": "Dott. Meazza Luigi Pietro",
+        "ID": "f6ed4e00-26fc-4333-8410-e0b43f615da0"
+      },
+      {
+        "Text": "Dott. Mili Sanzio Sandro Luca",
+        "ID": "6f948e1a-11a3-42db-8fef-411d76dcca1c"
+      },
+      {
+        "Text": "Dott. Ponti Edoardo",
+        "ID": "a06e8575-4399-4def-87b7-96e9ab28350c"
+      },
+      {
+        "Text": "Dott. Rivolta Enrico",
+        "ID": "1649a350-7ceb-4fc8-bbef-09c0d002a276"
+      },
+      {
+        "Text": "Dott. Sala Enzo",
+        "ID": "2da1055f-08a9-4bf0-b496-b79627f71c99"
+      },
+      {
+        "Text": "Dott. Tuccia Plinio",
+        "ID": "07ee9e67-9b61-41d0-bfe7-7b3a51584983"
+      },
+      {
+        "Text": "Dott. ZIZZO FILIPPO",
+        "ID": "5940f983-e11d-467d-ae50-8c3d1d09a148"
+      },
+      {
+        "Text": "Dott.ssa CAGLIO LORETTA",
+        "ID": "ce081ba7-a833-4317-8779-69af5c0769c2"
+      },
+      {
+        "Text": "Dott.ssa Mingozzi Silvia",
+        "ID": "6bed983d-7154-4d23-8aa0-821937b7b17c"
+      },
+      {
+        "Text": "Dott.ssa MONGUZZI MANUELA",
+        "ID": "94891e30-43fc-4cea-be2b-e08b6a01e34a"
+      },
+      {
+        "Text": "Dott.ssa Negretti Elena",
+        "ID": "07c1abc4-22ef-44fa-8054-fbfc3fb52196"
+      },
+      {
+        "Text": "Dott.ssa Ottavia Paccagnini",
+        "ID": "00e0b0e4-fdbc-4c0a-a9b2-eda9adee2d67"
+      },
+      {
+        "Text": "Dott.ssa PIAZZA LIDIA",
+        "ID": "8427ff09-131c-4952-bf03-93681d60960f"
+      },
+      {
+        "Text": "Dott.ssa Ricci Alessandra",
+        "ID": "7d060eb7-11dc-4916-a84d-8c330490aa45"
+      },
+      {
+        "Text": "Dott.ssa Zennaro Elisabetta Maria",
+        "ID": "6627029a-df05-4541-a1f1-2b8e24d0a744"
+      }
+    ]
+  },
+  {
+    "ID": "00e0b0e4-fdbc-4c0a-a9b2-eda9adee2d67",
   },
   {
     "ID": "desio",
     "Text": "Città selezionata: Desio\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Locali NoSlot",
-        "ID": "no_slot"
-      },
-      {
-        "Text": "Libri in Transito",
-        "ID": "libri"
-      },
-      {
-        "Text": "Pediatra",
-        "ID": "pediatra"
+        "Text": "~ Comune",
+        "ID": "desio_comune"
       },
       {
         "Text": "Asilo nido",
-        "ID": "asilo_nido"
-      },
-      {
-        "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
-        "Text": "Prodotti per vegani",
-        "ID": "vegani"
-      },
-      {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
-      },
-      {
-        "Text": "Sanitaria",
-        "ID": "sanitaria"
-      },
-      {
-        "Text": "Servizi Telegram",
-        "ID": "telegram"
+        "ID": "desio_asilo_nido"
       },
       {
         "Text": "Gestione Rifiuti",
-        "ID": "rifiuti"
+        "ID": "desio_rifiuti"
       },
       {
-        "Text": "Uffici pubblici",
-        "ID": "ufficio_pubblico"
+        "Text": "Libri in Transito",
+        "ID": "desio_libri"
       },
       {
-        "Text": "Trasporti",
-        "ID": "trasporto"
+        "Text": "Locali NoSlot",
+        "ID": "desio_no_slot"
       },
       {
-        "Text": "Veterinario",
-        "ID": "veterinario"
+        "Text": "Medico di famiglia",
+        "ID": "desio_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "desio_mercato"
       },
       {
-        "Text": "~ Comune",
-        "ID": "comune"
+        "Text": "Pediatra",
+        "ID": "desio_pediatra"
+      },
+      {
+        "Text": "Prodotti per vegani",
+        "ID": "desio_vegani"
+      },
+      {
+        "Text": "Sanitaria",
+        "ID": "desio_sanitaria"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "desio_scuola_materna"
+      },
+      {
+        "Text": "Servizi Telegram",
+        "ID": "desio_telegram"
+      },
+      {
+        "Text": "Trasporti",
+        "ID": "desio_trasporto"
+      },
+      {
+        "Text": "Uffici pubblici",
+        "ID": "desio_ufficio_pubblico"
+      },
+      {
+        "Text": "Veterinario",
+        "ID": "desio_veterinario"
       }
     ]
+  },
+  {
+    "ID": "desio_no_slot",
+    "Text": "Categoria selezionata: Locali NoSlot\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Bar Centrale",
+        "ID": "72d270f5-37b3-4a26-a22f-c47d8395bf39"
+      },
+      {
+        "Text": "CAFFÈ VERGNANO 1882",
+        "ID": "8569fe34-37a9-40ac-a4ed-0e51770abbd0"
+      },
+      {
+        "Text": "Caffettiamo",
+        "ID": "5ad6910f-689f-4306-a0bd-118c1e395f28"
+      },
+      {
+        "Text": "Desìo",
+        "ID": "ac037373-2064-4c2f-8dde-602e8a4417f1"
+      },
+      {
+        "Text": "Elisir Cafè",
+        "ID": "00e7fbb0-4a43-4d7a-abec-a0fdf4f216ce"
+      },
+      {
+        "Text": "Elite Cafè",
+        "ID": "719c7192-29eb-4114-b1dc-dcee67329e55"
+      },
+      {
+        "Text": "La piazzetta",
+        "ID": "b409d66d-d3ce-4545-a509-cd6975d36946"
+      },
+      {
+        "Text": "Madam Café",
+        "ID": "da25915b-b363-4548-9f24-c8cd6c2e6f64"
+      },
+      {
+        "Text": "MOMA CAFE DESIO",
+        "ID": "b29fc521-861c-42f0-b233-fed458450991"
+      },
+      {
+        "Text": "New Life Cafe'",
+        "ID": "331cf1ed-d15b-45b3-9635-b8b37b4e6a85"
+      },
+      {
+        "Text": "Officina del Caffè",
+        "ID": "628d19bd-4d99-4bae-b6a1-e766af4c67d6"
+      },
+      {
+        "Text": "Pan&cafe",
+        "ID": "b5611071-a6f6-4742-8eab-ad593620a0b1"
+      },
+      {
+        "Text": "Sottozero",
+        "ID": "de8b6a5d-47ed-4825-af0e-7b205145058a"
+      },
+      {
+        "Text": "Tabaccheria Di Simona Di Lin Leiying",
+        "ID": "ebe4de96-2712-4116-bfc2-eb2e6df2bf40"
+      },
+      {
+        "Text": "Torrefazione Brasilia",
+        "ID": "d8db9102-52ef-4a7c-b078-c4d55a9d7c17"
+      }
+    ]
+  },
+  {
+    "ID": "00e7fbb0-4a43-4d7a-abec-a0fdf4f216ce",
   },
   {
     "ID": "nova-milanese",
     "Text": "Città selezionata: Nova Milanese\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Medico di famiglia",
-        "ID": "medico"
+        "Text": "Asilo nido",
+        "ID": "nova-milanese_asilo_nido"
       },
       {
-        "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "Text": "Medico di famiglia",
+        "ID": "nova-milanese_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
-      },
-      {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
+        "ID": "nova-milanese_mercato"
       },
       {
         "Text": "Pediatra",
-        "ID": "pediatra"
+        "ID": "nova-milanese_pediatra"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "nova-milanese_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "nova-milanese_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. Bellotto Luigi",
+        "ID": "196c5c23-5716-4ea6-89fb-11f0f607adf0"
+      },
+      {
+        "Text": "Dott. Beretti Raul",
+        "ID": "8fd61510-1daf-4efa-9b00-5f77365a829f"
+      },
+      {
+        "Text": "Dott. Continanza Pietro",
+        "ID": "0148e5d8-0df5-43b6-bb83-b4ab15af5de6"
+      },
+      {
+        "Text": "Dott. Fabbrica Davide Riccardo",
+        "ID": "9172484a-3d05-4ba8-839b-ca6c7da6ced8"
+      },
+      {
+        "Text": "Dott. Manzoni Luigi Maria",
+        "ID": "6108bb48-4c18-4db2-b56a-e5412d8d456c"
+      },
+      {
+        "Text": "Dott. Naddeo Angelo",
+        "ID": "93a8cfb2-1488-4d84-b89c-60eecddc84b9"
+      },
+      {
+        "Text": "Dott. Negretto Ezio",
+        "ID": "f08457f5-61ff-4b98-83f8-7f0b7af7c2a8"
+      },
+      {
+        "Text": "Dott. Nicolussi Mario",
+        "ID": "84ccbfc5-c674-489b-985b-d0d6a1e846d8"
+      },
+      {
+        "Text": "Dott. Paletta Leonardo",
+        "ID": "a59bce95-ec57-4722-b160-2f9bd4d573ae"
+      },
+      {
+        "Text": "Dott. Re Massimo",
+        "ID": "f9bcf308-bdd4-4580-aa46-9e2900db2f3f"
+      },
+      {
+        "Text": "Dott.ssa Arosio Elisabetta Carla",
+        "ID": "89946052-ab43-4960-ab85-fbf83be10e9f"
+      },
+      {
+        "Text": "Dott.ssa Brenno Brunella",
+        "ID": "570ce1f3-739d-4124-98b7-5a1196f5ad82"
+      },
+      {
+        "Text": "Dott.ssa Revera Tiziana",
+        "ID": "5e2f5ea5-780a-4496-801b-cd94d4dcdebb"
+      }
+    ]
+  },
+  {
+    "ID": "0148e5d8-0df5-43b6-bb83-b4ab15af5de6",
   },
   {
     "ID": "bovisio-masciago",
     "Text": "Città selezionata: Bovisio Masciago\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Pediatra",
-        "ID": "pediatra"
-      },
-      {
         "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "bovisio-masciago_asilo_nido"
       },
       {
         "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
+        "ID": "bovisio-masciago_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "bovisio-masciago_mercato"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "bovisio-masciago_pediatra"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "bovisio-masciago_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "bovisio-masciago_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott Busso Bartolo",
+        "ID": "0154a91e-0eff-4a22-ac78-cc0f611b82c2"
+      },
+      {
+        "Text": "Dott Torre Rolando",
+        "ID": "2e543797-f1ec-4865-bb1e-95c9fc702da2"
+      }
+    ]
+  },
+  {
+    "ID": "0154a91e-0eff-4a22-ac78-cc0f611b82c2",
   },
   {
     "ID": "cesano-maderno",
     "Text": "Città selezionata: Cesano Maderno\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
+        "Text": "Asilo nido",
+        "ID": "cesano-maderno_asilo_nido"
       },
       {
         "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
-        "Text": "Pediatra",
-        "ID": "pediatra"
-      },
-      {
-        "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "cesano-maderno_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "cesano-maderno_mercato"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "cesano-maderno_pediatra"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "cesano-maderno_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "cesano-maderno_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Infanzia - L. Calastri",
+        "ID": "7d2d0c4e-4086-4532-9831-49d3e242d52a"
+      },
+      {
+        "Text": "Infanzia - Montessori",
+        "ID": "a97ed849-32f1-4eed-a8de-01b377161d13"
+      },
+      {
+        "Text": "Opera Pia Scuola Dell'infanzia Giuliana Ronzoni",
+        "ID": "022fdac6-811d-4da7-95ed-96e8d329b8b2"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Paritaria Parrocchiale Sant'anna",
+        "ID": "91781cd4-503d-42d3-ad1e-b78d47aa8aff"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Paritaria S. Pio X",
+        "ID": "f27fdb16-366e-4aa4-b37e-cf0b9df684a7"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Sant'eurosia",
+        "ID": "95a7d9b7-1627-4fc5-839a-6021b345a446"
+      }
+    ]
+  },
+  {
+    "ID": "022fdac6-811d-4da7-95ed-96e8d329b8b2",
+  },
+  {
+    "ID": "limbiate_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "LIMBIATE - PIAZZA A. MORO",
+        "ID": "5eb12367-89ad-4950-853b-85df68181066"
+      },
+      {
+        "Text": "LIMBIATE - PIAZZA WALTER TOBAGI",
+        "ID": "0230948c-5793-48c5-9374-0479e3c05dc5"
+      },
+      {
+        "Text": "LIMBIATE - PIAZZA XI SETTEMBRE",
+        "ID": "3d49b644-d577-4b94-9098-ab32fee9da64"
+      }
+    ]
+  },
+  {
+    "ID": "0230948c-5793-48c5-9374-0479e3c05dc5",
   },
   {
     "ID": "seregno",
     "Text": "Città selezionata: Seregno\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
         "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "seregno_asilo_nido"
       },
       {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
+        "Text": "Medico di famiglia",
+        "ID": "seregno_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "seregno_mercato"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "seregno_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "seregno_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. BALLABIO MAURIZIO",
+        "ID": "e2f43a12-ecdd-4e0e-8492-3d6596b2e6f5"
+      },
+      {
+        "Text": "Dott. CAPELLLI LUIGI",
+        "ID": "4c7698eb-42ba-45ff-93f8-a81366d5c411"
+      },
+      {
+        "Text": "Dott. CRETA CARMINE",
+        "ID": "bc96f10f-9754-4c8a-9e71-a48768416fda"
+      },
+      {
+        "Text": "Dott. Dall'omo Roberto",
+        "ID": "840dc57a-f2e3-40d8-b960-05a1ba90f2cd"
+      },
+      {
+        "Text": "Dott. DI MAURO MAURO ANTONIO",
+        "ID": "023e80b4-1bed-4ecf-9703-ffc675c2bc5f"
+      },
+      {
+        "Text": "Dott. FRANGI FERDINANDO GIOVANNI",
+        "ID": "1cf2ddf6-dc85-4840-916d-1f38c4b59e81"
+      },
+      {
+        "Text": "Dott. FRATTINI FABIO",
+        "ID": "790e97ae-db91-497a-93c3-39003d9a1398"
+      },
+      {
+        "Text": "Dott. GIUSSANI MAURIZIO",
+        "ID": "c319d587-f22e-4e3b-b936-0891b1368d9c"
+      },
+      {
+        "Text": "Dott. Giussani Roberto Leopoldo",
+        "ID": "3a7e6f6d-158c-4066-b520-8a8a8d6325aa"
+      },
+      {
+        "Text": "Dott. GRASSI ERNESTO",
+        "ID": "027605cf-a55f-4ed1-b384-5f61d9bf98d1"
+      },
+      {
+        "Text": "Dott. MARIANI EMILIO",
+        "ID": "d4037922-3b5d-4f63-ab20-613ded471468"
+      },
+      {
+        "Text": "Dott. MOLTENI LUCIANO",
+        "ID": "c5f5bb7a-3162-4e4b-86ac-1e5121fa4383"
+      },
+      {
+        "Text": "Dott. MOLTENI PAOLO ANGELO",
+        "ID": "7ec407f0-6c04-450a-8d58-38415fd4fe1b"
+      },
+      {
+        "Text": "Dott. NATELLI ANTONINO",
+        "ID": "ba19d8db-3e09-4696-968d-7a89c45044ce"
+      },
+      {
+        "Text": "Dott. NESPOLI TIZIANO",
+        "ID": "673aa2b4-b566-4d78-bfb5-3d6e8a0bd686"
+      },
+      {
+        "Text": "Dott. NOBILI GIANCARLO",
+        "ID": "f9433be5-abc5-4f8e-a7c8-b0d63faa3146"
+      },
+      {
+        "Text": "Dott. PARENTE ENRICO",
+        "ID": "60333323-61af-4201-aa1f-405854fa53fd"
+      },
+      {
+        "Text": "Dott. PASINI OMAR",
+        "ID": "cc0d96b2-b69e-456d-9499-c3632afd6b76"
+      },
+      {
+        "Text": "Dott. ROVEDA MARCO",
+        "ID": "0ca0d09e-556a-47c3-9693-4c63755c0c21"
+      },
+      {
+        "Text": "Dott. SABATO MARCO ROBERTO",
+        "ID": "70a6adbd-0219-4beb-b9d8-63821f240239"
+      },
+      {
+        "Text": "Dott. SCAMAZZO FRANCESCO",
+        "ID": "0b983ba7-e6f8-465c-93d2-6bd734c01024"
+      },
+      {
+        "Text": "Dott. SIRONI VITTORIO ALESSANDRO",
+        "ID": "42dd570f-d8a1-45fe-ad1b-6cbe44e60db6"
+      },
+      {
+        "Text": "Dott. ssa QUARANTA SANTINA",
+        "ID": "25874ef1-0e56-47ea-9d6b-d04121368195"
+      },
+      {
+        "Text": "Dott.ssa BERETTA ANTONELLA",
+        "ID": "a7480edb-4bd9-4698-842b-80c7cecf16e8"
+      },
+      {
+        "Text": "Dott.ssa CAJANI FRANCESCA",
+        "ID": "570fd178-c306-4583-90ae-b10187586d8a"
+      },
+      {
+        "Text": "Dott.ssa CAZZANIGA ELENA",
+        "ID": "b3d19abf-cc41-41d1-adbd-3be915ec5f46"
+      },
+      {
+        "Text": "Dott.ssa COLOMBO EMANUELA",
+        "ID": "7ac2630b-2093-4642-ad22-ab6cbf80cf93"
+      },
+      {
+        "Text": "Dott.ssa CRIPPA ANTONIA PAOLA",
+        "ID": "cdca436d-bbef-435c-aa02-3c1ecfa0519e"
+      },
+      {
+        "Text": "Dott.ssa MAMBRETTI GLORIA",
+        "ID": "9342f480-3572-4630-a85f-cd56e604482b"
+      },
+      {
+        "Text": "Dott.ssa MARIANI ROSA GIOVANNA",
+        "ID": "362fc903-ff1d-4e38-9f0f-488d29f07b37"
+      },
+      {
+        "Text": "Dott.ssa Rovati MariaTeresa",
+        "ID": "68771e74-ac6b-4fe8-98a3-8154784cfd82"
+      }
+    ]
+  },
+  {
+    "ID": "023e80b4-1bed-4ecf-9703-ffc675c2bc5f",
+  },
+  {
+    "ID": "027605cf-a55f-4ed1-b384-5f61d9bf98d1",
+  },
+  {
+    "ID": "bovisio-masciago_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO COMUNALE-BOVISIO MASCIAGO",
+        "ID": "fdffdccc-5869-4e88-a244-312713aeb92b"
+      },
+      {
+        "Text": "ATELIER DEI PICCOLI",
+        "ID": "5fe373b8-9069-46f9-a5d2-a49b79ce9943"
+      },
+      {
+        "Text": "IL NIDO DI WENDY 2",
+        "ID": "bee63679-0495-48c9-bdbe-ef7177376b62"
+      },
+      {
+        "Text": "L'ALBERO",
+        "ID": "03082314-c6c5-4167-8a6d-f98531d4cbee"
+      },
+      {
+        "Text": "NI-DO-RE",
+        "ID": "a1ac968e-799a-485c-babc-46f2b08839df"
+      },
+      {
+        "Text": "POLVERE DI FATA",
+        "ID": "1791e24c-a5fb-40f3-9ef9-1a696816d9eb"
+      }
+    ]
+  },
+  {
+    "ID": "03082314-c6c5-4167-8a6d-f98531d4cbee",
   },
   {
     "ID": "monza",
     "Text": "Città selezionata: Monza\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
+        "Text": "Asilo nido",
+        "ID": "monza_asilo_nido"
       },
       {
         "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
-        "Text": "Pediatra",
-        "ID": "pediatra"
-      },
-      {
-        "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "monza_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "monza_mercato"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "monza_pediatra"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "monza_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "monza_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Collegio Bianconi",
+        "ID": "03300c05-1f49-4096-ab70-99178cf2c4b5"
+      },
+      {
+        "Text": "Congregazione Delle Missionarie Dell'immacolata",
+        "ID": "2cd597d9-cf81-4713-9ada-0343e938d634"
+      },
+      {
+        "Text": "Ente Morale Scuola Dell'infanzia 'Umberto I'",
+        "ID": "95da9ba7-3498-445b-b205-890142421d35"
+      },
+      {
+        "Text": "Fondazione Opere Educative",
+        "ID": "f442a570-b7fe-4ad5-94d8-c2d68032de13"
+      },
+      {
+        "Text": "Infanzia - Cazzaniga",
+        "ID": "2534e989-85e6-4569-8d0d-6d4f87b418e5"
+      },
+      {
+        "Text": "Infanzia - Giotto",
+        "ID": "9a213618-8286-4951-b8eb-cf5b128cea89"
+      },
+      {
+        "Text": "Infanzia - Il Cartoccino",
+        "ID": "bbf2b764-33d0-4be2-aa3d-f7cdc57978f7"
+      },
+      {
+        "Text": "Infanzia - J.MirÃƒÂ²",
+        "ID": "838b014f-4a00-46a4-bdc4-d30e14b999e4"
+      },
+      {
+        "Text": "Infanzia - Papini",
+        "ID": "38bf7fdf-d715-42b8-b40e-a16afa7339d5"
+      },
+      {
+        "Text": "Infanzia - Sauro",
+        "ID": "d2f61600-5809-49ae-9129-b598578b4e65"
+      },
+      {
+        "Text": "Infanzia - via Sauro",
+        "ID": "c74dfef4-c8b8-45d3-9b0b-d8adbac4a97f"
+      },
+      {
+        "Text": "Istituto Sc. Compr. Paritario 'Preziosissimo Sangue' - Scuola Dell'infanzia G.Bruni",
+        "ID": "330c0001-8020-4f7c-a2a4-b818a63b1366"
+      },
+      {
+        "Text": "Parrocchia Regina Pacis Gestione Scuola Infanzia Paritaria",
+        "ID": "d5ee68e6-6262-4544-a919-05ea616537c5"
+      },
+      {
+        "Text": "Parrocchia San Biagio",
+        "ID": "df836bdd-f428-4991-bab0-33fbe8ad5c3f"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Angelo Custode",
+        "ID": "4f5d61f6-63bf-4cf5-b7cd-51a46a080e19"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Maddalena Di Canossa",
+        "ID": "cb239a08-3fd1-41cb-b283-252ce2781baa"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Paritaria 'Padre Di Francia'",
+        "ID": "f5f1c7c3-96cb-42b9-972a-785853e8eeba"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Paritaria S.Giuseppe",
+        "ID": "ecf827eb-520a-4690-8c49-6e2a24a7ee70"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Parrocchia S. Carlo",
+        "ID": "c3dadcca-359b-47b2-8372-d779eda7d9d7"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Parrocchiale San Rocco",
+        "ID": "df720823-b409-4b7d-99e6-01fedd474f4c"
+      },
+      {
+        "Text": "Scuola Dell'infanzia S. Anna",
+        "ID": "df086ee8-a151-4426-9d70-791190ac8498"
+      },
+      {
+        "Text": "Scuola Dell'infanzia S. Luca",
+        "ID": "71d16b07-2029-489a-bac8-cb42c21cd19d"
+      },
+      {
+        "Text": "SCUOLA Dell'infanzia San Luigi",
+        "ID": "e6956fd9-aff6-4cda-88a1-ef38b1426136"
+      },
+      {
+        "Text": "Scuola Infanzia Bachelet",
+        "ID": "c8135642-833c-4297-9efb-8efe7cb264d5"
+      },
+      {
+        "Text": "Scuola Materna Cuore Immacolato Di Maria",
+        "ID": "b988ff59-9368-47b3-b5be-0c592fc81047"
+      },
+      {
+        "Text": "Scuola Materna Sacra Famiglia",
+        "ID": "c272d573-8bdc-4d43-99c6-dbad7ff2f727"
+      },
+      {
+        "Text": "Scuola Paritaria Margherita Tonoli",
+        "ID": "867dff4b-3d2d-4713-afd6-5cb97a2414ee"
+      },
+      {
+        "Text": "Suore Francescane Missionarie Di Gesu' Bambino",
+        "ID": "fe6a78ca-c86a-44b3-80c4-08f8f7733061"
+      }
+    ]
+  },
+  {
+    "ID": "03300c05-1f49-4096-ab70-99178cf2c4b5",
+  },
+  {
+    "ID": "03508035-f209-46de-b9bb-5df39c24a5f7",
   },
   {
     "ID": "giussano",
     "Text": "Città selezionata: Giussano\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
-      },
-      {
         "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "giussano_asilo_nido"
+      },
+      {
+        "Text": "Medico di famiglia",
+        "ID": "giussano_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "giussano_mercato"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "giussano_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "giussano_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. Ballabio Fiorenzo Mario",
+        "ID": "9df72f54-f670-488d-8c61-51263cb0df3d"
+      },
+      {
+        "Text": "Dott. COGLIATI BRUNO",
+        "ID": "d20803fa-b438-4406-a6f4-ffc16813d9eb"
+      },
+      {
+        "Text": "Dott. COLOMBO CARLUCCIO",
+        "ID": "6f17f0b6-60c4-4a78-86b2-8141457cfc19"
+      },
+      {
+        "Text": "Dott. CONSIGLIO ANTONIO",
+        "ID": "df2f7e59-5c50-4050-b416-0097a3351a25"
+      },
+      {
+        "Text": "Dott. MARIANI GIOVANNI",
+        "ID": "80e996b6-f7b3-48bc-836b-3396482003c3"
+      },
+      {
+        "Text": "Dott.ssa Giussani Mariagrazia",
+        "ID": "55f91a17-6349-4a7e-a50c-4dd6cde3973a"
+      },
+      {
+        "Text": "Dott.ssa GRASSO MIRIAM",
+        "ID": "de831e61-bee5-47bb-8f59-a6debafed175"
+      },
+      {
+        "Text": "Dott.ssa MAURI LAURA",
+        "ID": "8fb24a3e-d805-4530-9520-e4657f0bb4e9"
+      },
+      {
+        "Text": "Dott.ssa PAGLIATO EMANUELA",
+        "ID": "0a1ab01f-d745-40b7-924f-4b14154aebb9"
+      },
+      {
+        "Text": "Dott.ssa ROTONDO ANGELINA",
+        "ID": "ed126ca1-b1d2-4071-9e0d-53cb512e5c13"
+      },
+      {
+        "Text": "Dott.ssa TESTI ANNAMARIA",
+        "ID": "e646eb67-a293-487e-9a95-ff4e334ad02e"
+      },
+      {
+        "Text": "Dtt.sa Brenna Emanuela Carla Maria",
+        "ID": "03aa94bf-eb4f-4a75-8680-560b096e4c22"
+      }
+    ]
+  },
+  {
+    "ID": "03aa94bf-eb4f-4a75-8680-560b096e4c22",
+  },
+  {
+    "ID": "lissone_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Asilo nido Tiglio",
+        "ID": "0bf5f5e4-ce35-4fb1-9f3f-4c55a317b18c"
+      },
+      {
+        "Text": "Infanzia - Cagnola",
+        "ID": "f801d825-77bd-40d9-bb02-6befcf852dd2"
+      },
+      {
+        "Text": "Infanzia - Penati",
+        "ID": "74f0ba93-0031-4721-8c15-869c44f25d31"
+      },
+      {
+        "Text": "Infanzia - Tiglio",
+        "ID": "b016e650-b3fa-4859-bb26-191510a9f24f"
+      },
+      {
+        "Text": "Infanzia - Volturno",
+        "ID": "05bfc517-bbf0-458d-9d4a-f9c021454949"
+      },
+      {
+        "Text": "Scuola Dell'infanzia 'Maria Bambina'",
+        "ID": "09543c27-571c-4003-8c97-0837eae97a10"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Paritaria 'Cuore Immacolato Di Maria'",
+        "ID": "25afd012-79e5-4eea-988a-3f06b442cc0f"
+      },
+      {
+        "Text": "Scuola Marterna Paritaria Mater Divinae Providentiae",
+        "ID": "d291c233-0c75-4814-88f5-1de787dc1aec"
+      }
+    ]
+  },
+  {
+    "ID": "05bfc517-bbf0-458d-9d4a-f9c021454949",
   },
   {
     "ID": "carate-brianza",
     "Text": "Città selezionata: Carate Brianza\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
-      },
-      {
         "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "carate-brianza_asilo_nido"
       },
       {
         "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
-        "Text": "Pediatra",
-        "ID": "pediatra"
+        "ID": "carate-brianza_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "carate-brianza_mercato"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "carate-brianza_pediatra"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "carate-brianza_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "carate-brianza_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Asilo Infantile Di Agliate Brianza",
+        "ID": "06085419-253b-4753-ae1e-2b0d5e1e9133"
+      },
+      {
+        "Text": "Associazione Scuola Dell'infanzia S. Maria",
+        "ID": "b1abd501-5b03-4196-be06-4efab430340c"
+      },
+      {
+        "Text": "Scuola Materna 'Marchesa Ida Stanga Busca'",
+        "ID": "8764aba1-b3c3-49d7-bb8d-6df7b21eb7bf"
+      }
+    ]
+  },
+  {
+    "ID": "06085419-253b-4753-ae1e-2b0d5e1e9133",
+  },
+  {
+    "ID": "seregno_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO AQUILONE",
+        "ID": "50030f6e-c1db-45d8-b1cf-edbc1b2b1d3b"
+      },
+      {
+        "Text": "ASILO NIDO COMUNALE-SEREGNO",
+        "ID": "792dd38d-545a-4e73-b004-98d791ffe0a7"
+      },
+      {
+        "Text": "BABY COLLEGE",
+        "ID": "ea2a2e54-9f31-4ff4-97ef-a57d5422d7f1"
+      },
+      {
+        "Text": "BABYSCHOOL-1 2 3 STELLA",
+        "ID": "1a30306c-d13f-48ec-9508-5dbbca4180ce"
+      },
+      {
+        "Text": "BETTY'S BABY CLUB",
+        "ID": "6b8b68e7-84be-4657-bc3c-9e3cbd414b29"
+      },
+      {
+        "Text": "DOLCENIDO",
+        "ID": "5641cf20-c105-475d-b2ef-d7bc6694fe34"
+      },
+      {
+        "Text": "FANTASILANDIA",
+        "ID": "e9e002d9-72fe-4bec-83b8-d4f88ef5b7f7"
+      },
+      {
+        "Text": "I CUCCIOLI DI ROBY",
+        "ID": "06229738-7451-4317-9bcd-31da0c0f9938"
+      },
+      {
+        "Text": "IL NIDO VERDE",
+        "ID": "7a008bc8-f262-4951-bbd2-f7f8af85e495"
+      },
+      {
+        "Text": "IL PAESE DEI BALOCCHI",
+        "ID": "cfd64544-04b1-4725-ab1a-694267b5ea77"
+      },
+      {
+        "Text": "LA CAROVANA",
+        "ID": "bab953b9-9d75-4d67-8e83-783ce4577af5"
+      },
+      {
+        "Text": "MARIA IMMACOLATA",
+        "ID": "28451f7e-59e2-4f19-97e5-c3e8039c6ce2"
+      },
+      {
+        "Text": "THE CHILDREN'S ISLAND",
+        "ID": "40ca6e4f-2822-493a-befb-de269281a730"
+      }
+    ]
+  },
+  {
+    "ID": "06229738-7451-4317-9bcd-31da0c0f9938",
+  },
+  {
+    "ID": "cesano-maderno_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. Bonadonna Domenico",
+        "ID": "3bb68da1-7379-431e-be0f-69f51fb3713a"
+      },
+      {
+        "Text": "Dott. Cazzaniga Marco Cesare",
+        "ID": "c6b8c5e8-7d80-4d8f-a5bb-2f1d48ef41be"
+      },
+      {
+        "Text": "Dott. Cicardi Carlo",
+        "ID": "a0849019-0fd1-4605-9310-7347a12e1d18"
+      },
+      {
+        "Text": "Dott. FASCI' ANTONIO MAURO",
+        "ID": "9bc1d852-6155-475a-b279-a6d58939e40a"
+      },
+      {
+        "Text": "Dott. INTERLANDI SALVATORE",
+        "ID": "86a78c05-49f9-460b-a774-c6789bedc4bf"
+      },
+      {
+        "Text": "Dott. Manenti Roberto",
+        "ID": "6606fbc7-2913-4ef4-adb3-5bddda2f44e2"
+      },
+      {
+        "Text": "Dott. Molteni Ruggero",
+        "ID": "305bca34-a1b8-4272-8d53-3a7043393e79"
+      },
+      {
+        "Text": "Dott. Monieri Silvio",
+        "ID": "5f42ea26-5941-44d0-9f2e-0518ee28781e"
+      },
+      {
+        "Text": "Dott. Palmaro Franco",
+        "ID": "1d1f82bc-ba24-4245-b7ce-806e0054d0f0"
+      },
+      {
+        "Text": "Dott. RIVA CESARE GIOVANNI",
+        "ID": "184927eb-0aa0-4c70-bde9-c15b73a7fa86"
+      },
+      {
+        "Text": "Dott. ssa OLTOLINI MARIA PIA",
+        "ID": "875b5ba2-0210-45cb-9795-fbe7a49ce55c"
+      },
+      {
+        "Text": "Dott. Tonetti Luigi",
+        "ID": "d1e0a769-905d-4d0e-a5bb-5d75bbe6a778"
+      },
+      {
+        "Text": "Dott. Vago Claudio Gianluigi",
+        "ID": "deb76529-f50b-4dea-aead-d1ac11739d50"
+      },
+      {
+        "Text": "Dott.ssa Andriku Maria",
+        "ID": "b0ecaa9d-4e5e-4a49-8080-40ac13a71bf1"
+      },
+      {
+        "Text": "Dott.ssa AUTUORI ANTONELLA",
+        "ID": "b5f0dfc5-e4fb-4242-b8f7-31dbbf0dae91"
+      },
+      {
+        "Text": "Dott.ssa Cogliati Ivana",
+        "ID": "894f8dae-a173-4866-9d9b-46f2b6fcac78"
+      },
+      {
+        "Text": "Dott.ssa Cultraro Daniela",
+        "ID": "6942179c-316e-441e-addb-47fa75c84be7"
+      },
+      {
+        "Text": "Dott.ssa De Toni Pamela",
+        "ID": "93d2f79b-4bfb-43f2-a832-56fda7c8a23b"
+      },
+      {
+        "Text": "Dott.ssa DELL'ORTO PIERANGELA",
+        "ID": "06c6e1be-0f71-4174-976e-f454798a4fdf"
+      },
+      {
+        "Text": "Dott.ssa Magagnato Franca",
+        "ID": "fa03a0ae-5324-490d-839a-383bd2fdd21d"
+      },
+      {
+        "Text": "Dott.ssa RADICE LAURA",
+        "ID": "8f67820c-d6aa-4fa5-bb4a-026a6d3ec90f"
+      },
+      {
+        "Text": "Dott.ssa Ronchi Ornella",
+        "ID": "1efecd5d-4762-4529-907a-34c82b10aa75"
+      }
+    ]
+  },
+  {
+    "ID": "06c6e1be-0f71-4174-976e-f454798a4fdf",
+  },
+  {
+    "ID": "nova-milanese_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO COMUNALE POLLICINO",
+        "ID": "84e5e175-8f35-444c-9c70-476eb4f09b4d"
+      },
+      {
+        "Text": "HAPPY NIDO",
+        "ID": "ab4390c6-f15c-4b6d-a02d-31c077e3a136"
+      },
+      {
+        "Text": "I PUFFETTI",
+        "ID": "eefbffb9-2e95-40cd-9e6c-3aaa57688215"
+      },
+      {
+        "Text": "IL MONDO DEI BIMBI   2",
+        "ID": "c08c3141-154b-4034-aeba-74f7721dca97"
+      },
+      {
+        "Text": "L'ARCA DI NOE'",
+        "ID": "0799594b-b621-413b-a0e3-4e94d37f9d7c"
+      },
+      {
+        "Text": "PICCOLI PASSI",
+        "ID": "210d7db6-ccde-4b5f-8728-95f4e5c3a47c"
+      }
+    ]
+  },
+  {
+    "ID": "0799594b-b621-413b-a0e3-4e94d37f9d7c",
+  },
+  {
+    "ID": "07c1abc4-22ef-44fa-8054-fbfc3fb52196",
+  },
+  {
+    "ID": "07ee9e67-9b61-41d0-bfe7-7b3a51584983",
+  },
+  {
+    "ID": "limbiate_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO BEE HAPPY",
+        "ID": "bb8db115-5b13-43a1-87aa-32ee9d139d40"
+      },
+      {
+        "Text": "ASILO NIDO BIANCA GALLONE",
+        "ID": "088702a5-0cdd-4081-a71d-810e109e8d70"
+      },
+      {
+        "Text": "FANTASIA",
+        "ID": "80439260-6cf6-44c3-95da-952da9edda9c"
+      },
+      {
+        "Text": "IL GRAPPOLO",
+        "ID": "973b6767-7320-4d47-95d0-c949b82c7050"
+      },
+      {
+        "Text": "MILLE COLORI",
+        "ID": "115583c1-80f7-4d79-92ea-aee08ea0e0c1"
+      }
+    ]
+  },
+  {
+    "ID": "088702a5-0cdd-4081-a71d-810e109e8d70",
+  },
+  {
+    "ID": "09543c27-571c-4003-8c97-0837eae97a10",
+  },
+  {
+    "ID": "giussano_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Infanzia - via D'Azeglio",
+        "ID": "b84d51d9-4d7d-456f-b181-b7ce35fc34f1"
+      },
+      {
+        "Text": "Scuola Dell'infanzia 'Divina Provvidenza'",
+        "ID": "5c54ed7e-d5b9-434f-b233-bbe5b9a356b9"
+      },
+      {
+        "Text": "Scuola Dell'infanzia 'G.Aliprandi'",
+        "ID": "096e71a0-640e-4145-aeaf-e558f782908b"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Parrocchiale 'L.Proserpio'",
+        "ID": "e9bf8ffb-8376-47ef-970d-d6227e052e1a"
+      },
+      {
+        "Text": "Scuola Materna Immacolata",
+        "ID": "a5cc27b3-d6a5-4232-9f7d-e19f01d3982a"
+      }
+    ]
+  },
+  {
+    "ID": "096e71a0-640e-4145-aeaf-e558f782908b",
+  },
+  {
+    "ID": "0a1ab01f-d745-40b7-924f-4b14154aebb9",
+  },
+  {
+    "ID": "limbiate_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott Ferrentino Raffaele",
+        "ID": "2bcb51cd-8ce1-4263-bef5-38666a64e09d"
+      },
+      {
+        "Text": "Dott.ssa  Mazzei Anna Maria",
+        "ID": "7f628b33-9034-453e-95c6-a873292d6186"
+      },
+      {
+        "Text": "Dott.ssa Bosco Monica",
+        "ID": "a2601b4c-f3a5-44d5-a1bd-4196f74c43e5"
+      },
+      {
+        "Text": "Dott.ssa Ferretti Lorena Maria",
+        "ID": "0a7f92c4-c07b-4756-8e2f-4241170c0c35"
+      },
+      {
+        "Text": "Dott.ssa TRISCARI  BINONI EMANUELA",
+        "ID": "c8231d4b-98cc-496e-ac44-b261c96dc2ef"
+      }
+    ]
+  },
+  {
+    "ID": "0a7f92c4-c07b-4756-8e2f-4241170c0c35",
+  },
+  {
+    "ID": "bovisio-masciago_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. Galimberti Roberto",
+        "ID": "4cc66272-4816-44f1-841f-c4dc832939c2"
+      },
+      {
+        "Text": "Dott. Gessaga Michele Maria",
+        "ID": "691a85ab-72d9-43dd-b4f7-79c672a27d94"
+      },
+      {
+        "Text": "Dott. Pagella Giancarlo",
+        "ID": "a3765106-4797-420e-b0cb-2c3b83db8c31"
+      },
+      {
+        "Text": "Dott. Pessina Ubaldo",
+        "ID": "0a9a2b5d-0f0d-4e52-9b6d-fa157038d693"
+      },
+      {
+        "Text": "Dott. Quarta Maurizio",
+        "ID": "8c83f6d3-5e63-4956-8487-5a0447f3a435"
+      },
+      {
+        "Text": "Dott. RASPANTI ANDREA",
+        "ID": "477822f3-ad4c-49e3-92cb-dabebcd39000"
+      },
+      {
+        "Text": "Dott. Scalfi Leonardo",
+        "ID": "8e0a8e6d-5803-4409-a266-fa70c7f859d6"
+      },
+      {
+        "Text": "Dott. Sgherzi Vittorio",
+        "ID": "204b4c0d-d4e7-401d-aea6-49060c481554"
+      },
+      {
+        "Text": "Dott. Vago Giuseppe",
+        "ID": "f5dc6d9e-bcd6-4bfe-b1d1-a4d38f35d5bc"
+      },
+      {
+        "Text": "Dott.ssa Comelli Elisabetta",
+        "ID": "16ed9e55-6bbf-4806-857f-ed2b39cc5821"
+      }
+    ]
+  },
+  {
+    "ID": "0a9a2b5d-0f0d-4e52-9b6d-fa157038d693",
+  },
+  {
+    "ID": "monza_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. AGOSTONI ROBERTO",
+        "ID": "9423b9f0-7c94-46ba-b10b-b366c86f7886"
+      },
+      {
+        "Text": "Dott. ARNABOLDI ADELIO",
+        "ID": "9cc1da1d-5970-4790-9fcc-b82e0a0f8b4b"
+      },
+      {
+        "Text": "Dott. Arosio Daniele Maria",
+        "ID": "5bc0fb7f-575c-4ec9-a502-0665acaa193e"
+      },
+      {
+        "Text": "Dott. BENATTI MAURO",
+        "ID": "35f02218-73ba-4c6d-862e-c1ec799d1fe6"
+      },
+      {
+        "Text": "Dott. BENEDUCCI ALBERTO",
+        "ID": "fcccc1aa-013a-486a-872e-18c0b8241fb1"
+      },
+      {
+        "Text": "Dott. BOGANI VITTORIO",
+        "ID": "3595b119-36c4-47c5-86ff-2c908a32cf69"
+      },
+      {
+        "Text": "Dott. BRAMBILLA GIORGIO",
+        "ID": "c6784b0c-94c8-4362-9ec7-53f7e0bc45dc"
+      },
+      {
+        "Text": "Dott. CAIMI VITTORIO",
+        "ID": "c03b3c02-1a29-48d8-b6d2-2de0d32a3a76"
+      },
+      {
+        "Text": "Dott. CALIENNO SERGIO",
+        "ID": "a21c965c-5dbc-4bae-a83e-58a024d713ab"
+      },
+      {
+        "Text": "Dott. Camagna Paolo Luigi",
+        "ID": "b393b889-8fcf-49c1-a2dd-bd1d79ac71c1"
+      },
+      {
+        "Text": "Dott. CAMBINI PIERLUIGI",
+        "ID": "f312dc03-51cb-4251-8fb1-37e18b23c969"
+      },
+      {
+        "Text": "Dott. Cappiello Arcangelo",
+        "ID": "83a72c4f-7537-49c6-822f-7597ed273915"
+      },
+      {
+        "Text": "Dott. CASIRAGHI EZIO",
+        "ID": "98a467f1-106e-4dda-806c-320adccfd07c"
+      },
+      {
+        "Text": "Dott. CAZZANIGA FRANCESCO",
+        "ID": "5f95d621-24f6-4d90-a4e7-5797331eb544"
+      },
+      {
+        "Text": "Dott. COLOMBO MARIO",
+        "ID": "be4c76ab-760e-45a6-8b17-b0131671bdca"
+      },
+      {
+        "Text": "Dott. Dell'Orto Paolo Carlo",
+        "ID": "f8d5f146-ca87-433b-85e4-50eec94759ab"
+      },
+      {
+        "Text": "Dott. FARINA ARMANDO",
+        "ID": "b880ecac-ebc5-42e0-80c4-5c4a4815f2b2"
+      },
+      {
+        "Text": "Dott. Gianfranco Filiberti",
+        "ID": "c089219c-c9d5-46dd-aedd-71b3591e99d0"
+      },
+      {
+        "Text": "Dott. JOPPOLO GIOVANNI",
+        "ID": "b0665dbf-21b2-4704-9038-209a2e68e89a"
+      },
+      {
+        "Text": "Dott. MARCONCINI PIETRO",
+        "ID": "6c5b0d58-9fd2-4a29-866f-3ba4641bce33"
+      },
+      {
+        "Text": "Dott. MARIANI MARCO MARIA",
+        "ID": "78c53202-d869-454d-9a70-8c12abd15951"
+      },
+      {
+        "Text": "Dott. MARINARO PASQUALE",
+        "ID": "ee03437c-74b5-48f3-8c04-a4b452a49f4f"
+      },
+      {
+        "Text": "Dott. MIGLIAVACCA PAOLO",
+        "ID": "e592333c-0521-45f1-8414-d13a29a76446"
+      },
+      {
+        "Text": "Dott. MOGRE MAURIZIO",
+        "ID": "0c7b3266-f752-4717-bc57-3be41bf8c24a"
+      },
+      {
+        "Text": "Dott. Monguzzi Alberto Lorenzo",
+        "ID": "25e32f70-96e3-4806-a491-ba1f48d6a602"
+      },
+      {
+        "Text": "Dott. Montrasio Giuseppe Carlo",
+        "ID": "48e66542-4f66-4b2f-9f4a-412dd6ac937b"
+      },
+      {
+        "Text": "Dott. MOSCA GIAMPIETRO",
+        "ID": "d3d88857-edac-49e6-83a0-2c7ad7e9934c"
+      },
+      {
+        "Text": "Dott. Noseda Enrico",
+        "ID": "8a6eecd8-48dc-402f-bdee-5be4e9a5cfea"
+      },
+      {
+        "Text": "Dott. Nova Pier Giorgio Maria",
+        "ID": "19d8d80f-a918-4d80-8111-3468cbf33c44"
+      },
+      {
+        "Text": "Dott. PEREGO CLAUDIO LUIGI",
+        "ID": "1cc86a31-6505-4b7b-b56e-414a764ea250"
+      },
+      {
+        "Text": "Dott. POGGIOLI GIAMPIERO",
+        "ID": "d8cbf3a8-8de7-4226-bb44-a24e0cd3a98e"
+      },
+      {
+        "Text": "Dott. REDAELLI VALENTINO",
+        "ID": "96da4068-a86a-4754-8015-57482f1248ad"
+      },
+      {
+        "Text": "Dott. RINARELLI RENATO",
+        "ID": "7b9ec500-a705-4640-a126-c1a8580f7075"
+      },
+      {
+        "Text": "Dott. RUSSO DAVIDE",
+        "ID": "3b7e39a3-9220-4c3b-909d-20cde04e9303"
+      },
+      {
+        "Text": "Dott. Schettino Francesco Carlo",
+        "ID": "c666b7c3-903f-41ab-a277-95b7f4edcfd5"
+      },
+      {
+        "Text": "Dott. SILVESTRI DARIO",
+        "ID": "f447502f-2fcf-4db9-b6b6-5edc6fc85784"
+      },
+      {
+        "Text": "Dott./Dott.ssa Gelosa Paolo Antonio",
+        "ID": "a39838aa-e85c-48c7-8cee-8c56f9db45d2"
+      },
+      {
+        "Text": "Dott.ssa ARIENTI ENRICA",
+        "ID": "74898830-ee3e-4edc-9ca9-8a73d0d02f9b"
+      },
+      {
+        "Text": "Dott.ssa BALESTRACCI LUCIA",
+        "ID": "9056f3ad-52ea-40b1-b51b-71acdf649948"
+      },
+      {
+        "Text": "Dott.ssa BARRECA GIUSEPPINA",
+        "ID": "0e8fc3b4-062b-4bed-b0bd-98052ed01c20"
+      },
+      {
+        "Text": "Dott.ssa BILLI LAURA",
+        "ID": "bfa341a6-b784-4ccc-b44a-1442ad3d7232"
+      },
+      {
+        "Text": "Dott.ssa BOSISIO MARINA",
+        "ID": "1a00ca56-3aac-42d2-bc84-3fa952d356ef"
+      },
+      {
+        "Text": "Dott.ssa Bramati Enrica",
+        "ID": "541cac5f-486d-49f4-87ff-1953aa7fea1a"
+      },
+      {
+        "Text": "Dott.ssa CIUCCI SIMONETTA",
+        "ID": "5c9b6284-2d15-4aed-9d23-5815a3f9ed86"
+      },
+      {
+        "Text": "Dott.ssa D'ascenzo Gabriella",
+        "ID": "af3ad3ff-6db4-403a-b40f-7ceb69ac4440"
+      },
+      {
+        "Text": "Dott.ssa FIACCABRINO VALERIA GIROLAMA",
+        "ID": "43c47a9d-0a47-49c1-909a-5c943063d3d2"
+      },
+      {
+        "Text": "Dott.ssa FOSSATI BIANCA",
+        "ID": "21763aad-4bcc-4239-ada9-cc53bef7b379"
+      },
+      {
+        "Text": "Dott.ssa GILTRI DONATA",
+        "ID": "8a20ab2f-4757-4255-b743-27552e664b50"
+      },
+      {
+        "Text": "Dott.ssa LAZZARI MARINA GRAZIA",
+        "ID": "65835068-7f5b-412b-b991-1305a3a456e5"
+      },
+      {
+        "Text": "Dott.ssa LISEI ELENA",
+        "ID": "2e32de0b-43c5-4ecc-932a-f8f484a14ca7"
+      },
+      {
+        "Text": "Dott.ssa Mangiagalli Monica",
+        "ID": "ad1db3fb-48a4-4808-ab57-5d3abf75d92e"
+      },
+      {
+        "Text": "Dott.ssa Medi Sira",
+        "ID": "ae85095a-ba45-41fa-b8eb-c78cc3f13968"
+      },
+      {
+        "Text": "Dott.ssa Merlini Desiree Chiara",
+        "ID": "69e0a5d4-f727-4df2-9898-abfbb0863d08"
+      },
+      {
+        "Text": "Dott.ssa Montani Maria",
+        "ID": "62f74119-3723-4b00-baa6-e39e18db9dbe"
+      },
+      {
+        "Text": "Dott.ssa PANDOLFI MARIA GRAZIA",
+        "ID": "316603c9-342f-43e0-a73b-1091338fbedf"
+      },
+      {
+        "Text": "Dott.ssa PANZERI MARTA",
+        "ID": "8044e9bd-e9ba-4e4d-90c6-dd806533c555"
+      },
+      {
+        "Text": "Dott.ssa Pessina Stefania Tiziana",
+        "ID": "eac37843-3f91-4b28-80ef-63a651970ded"
+      },
+      {
+        "Text": "Dott.ssa Piamarta Laura",
+        "ID": "bd91332e-c65c-43da-9bd6-95f3877717ac"
+      },
+      {
+        "Text": "Dott.ssa PIAZZA ALESSANDRA",
+        "ID": "733b7134-7ee4-4ad5-923f-270c5e2f9ab4"
+      },
+      {
+        "Text": "Dott.ssa PIVA ANNA STEFANIA",
+        "ID": "67c14813-f56e-4f20-898a-191ab6f96121"
+      },
+      {
+        "Text": "Dott.ssa PUCCINI SANDRA",
+        "ID": "a1f31f68-7241-4396-87ed-a82c6c9d895c"
+      },
+      {
+        "Text": "Dott.ssa Ricci Caterina",
+        "ID": "a5860dcc-d483-4779-8e6e-fdc5accd9472"
+      },
+      {
+        "Text": "Dott.ssa RIPAMONTI LUIGIA",
+        "ID": "c5b22d00-4d7e-4c78-9236-ef3a49743fab"
+      },
+      {
+        "Text": "Dott.ssa RIVA MARIA GRAZIA",
+        "ID": "f9da966c-e4a2-4608-8a00-5d29fe906db0"
+      },
+      {
+        "Text": "Dott.ssa TONELLI FLORA",
+        "ID": "0b0a1728-8198-43c4-a5d7-5c5b5e457601"
+      },
+      {
+        "Text": "Dott.ssa VILLA DANIELA LUCIA",
+        "ID": "b784e991-d5e9-4cf7-a63b-d3a4788985f0"
+      },
+      {
+        "Text": "Dott.ssa Villa Enrica",
+        "ID": "d08a2166-78b3-4d69-abf7-deb03b4fa050"
+      }
+    ]
+  },
+  {
+    "ID": "0b0a1728-8198-43c4-a5d7-5c5b5e457601",
   },
   {
     "ID": "muggio",
     "Text": "Città selezionata: Muggio'\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
-        "Text": "Pediatra",
-        "ID": "pediatra"
+        "Text": "~ Comune",
+        "ID": "muggio_comune"
       },
       {
         "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "muggio_asilo_nido"
+      },
+      {
+        "Text": "Medico di famiglia",
+        "ID": "muggio_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "muggio_mercato"
       },
       {
-        "Text": "~ Comune",
-        "ID": "comune"
+        "Text": "Pediatra",
+        "ID": "muggio_pediatra"
       },
       {
         "Text": "Scuola materna",
-        "ID": "scuola_materna"
+        "ID": "muggio_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "muggio_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott.  Morcelli  Erio",
+        "ID": "0b2fd835-f686-4056-8dc9-62296a7a8242"
+      },
+      {
+        "Text": "Dott. Appiani Gianluca",
+        "ID": "c0ef6218-5f53-4291-81ba-2607970d2aeb"
+      },
+      {
+        "Text": "Dott. Bizzi Gino Giovanni",
+        "ID": "178aab67-9f9a-4d96-889c-7a08a859642d"
+      },
+      {
+        "Text": "Dott. CASSINA TERENZIO",
+        "ID": "b1f47834-5451-433e-88be-c6d33a9cc290"
+      },
+      {
+        "Text": "Dott. Grendele Marco",
+        "ID": "704b9ddc-248e-4b7e-bed8-35d5c0f52d45"
+      },
+      {
+        "Text": "Dott. Mele Renato Arcangelo",
+        "ID": "c141f7f6-8c0c-4496-85a4-6052d1b6b9b5"
+      },
+      {
+        "Text": "Dott. Merati Beatrice ",
+        "ID": "7a65aeb5-078b-4813-95ac-727501b8bef7"
+      },
+      {
+        "Text": "Dott. Nobili Daniele",
+        "ID": "ea738df5-344b-481d-9f4d-d22bff687564"
+      },
+      {
+        "Text": "Dott. Scupilliti Eros Mario",
+        "ID": "3326524b-43c8-4ac7-b3c1-6f333c180973"
+      },
+      {
+        "Text": "Dott. Sironi Pierluigi",
+        "ID": "f906adca-ce39-4f39-b4bd-380d10fb91c9"
+      },
+      {
+        "Text": "Dott. Spinelli Dario",
+        "ID": "634b7164-0b52-4bb5-89f6-2946d8aea991"
+      },
+      {
+        "Text": "Dott.ssa  LAMBRUGHI CLAUDIA",
+        "ID": "e3ed4772-9108-43bf-bf20-c1c949f8e2d5"
+      },
+      {
+        "Text": "Dott.ssa LILIANA PERILLI",
+        "ID": "df44c1be-70c2-48b0-8a89-b05b7e913e4d"
+      },
+      {
+        "Text": "Dott.ssa SAVIAN CATIA LUISELLA",
+        "ID": "fc156f5d-6632-4e37-a365-79a1cb503d19"
+      }
+    ]
+  },
+  {
+    "ID": "0b2fd835-f686-4056-8dc9-62296a7a8242",
+  },
+  {
+    "ID": "0b983ba7-e6f8-465c-93d2-6bd734c01024",
+  },
+  {
+    "ID": "0bf5f5e4-ce35-4fb1-9f3f-4c55a317b18c",
+  },
+  {
+    "ID": "0c7b3266-f752-4717-bc57-3be41bf8c24a",
+  },
+  {
+    "ID": "0ca0d09e-556a-47c3-9693-4c63755c0c21",
+  },
+  {
+    "ID": "carate-brianza_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO COMUNALE  \"IL MIO PICCOLO NIDO \"",
+        "ID": "3761a4c3-8fa9-401d-a774-7603ba518480"
+      },
+      {
+        "Text": "LO SCARABOCCHIO",
+        "ID": "0d87982a-8aa5-48f6-b5ea-2ce1a7a5044e"
+      }
+    ]
+  },
+  {
+    "ID": "0d87982a-8aa5-48f6-b5ea-2ce1a7a5044e",
+  },
+  {
+    "ID": "monza_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. DEL BONO GIAN PIERO",
+        "ID": "59867e98-4392-45f3-ba0e-c4252569321b"
+      },
+      {
+        "Text": "Dott. Giuseppe Lietti",
+        "ID": "acdcf9a8-5a2f-49f3-b821-f2e9e77937a0"
+      },
+      {
+        "Text": "Dott.ssa Anna Arosio",
+        "ID": "192a5542-2ef9-4b8d-b670-3e7749b0ca1e"
+      },
+      {
+        "Text": "Dott.ssa BOVOLATO PAOLA",
+        "ID": "ac26e7d8-1def-420b-b15c-30a2b2628268"
+      },
+      {
+        "Text": "Dott.ssa CASTAGNETO MANUELA",
+        "ID": "895a982a-97dc-41ce-85d7-e570f4910d3e"
+      },
+      {
+        "Text": "Dott.ssa FUGA TIZIANA",
+        "ID": "c494c59b-4c22-4ced-bd2a-35c610496c62"
+      },
+      {
+        "Text": "Dott.ssa GALLO FLORIANA",
+        "ID": "0d9f4113-2381-4031-880b-3a75af63b44f"
+      },
+      {
+        "Text": "Dott.ssa ISOARDI PATRIZIA",
+        "ID": "86093dc0-250e-4f97-b9e5-749bdd4ae83f"
+      },
+      {
+        "Text": "Dott.ssa Nespoli Flavia",
+        "ID": "8b2c4b44-1759-4796-b2a4-c82b53d4903f"
+      },
+      {
+        "Text": "Dott.ssa SALA ELISABETTA",
+        "ID": "e22cc918-64cb-4015-9f35-49709a3c631c"
+      },
+      {
+        "Text": "Dott.ssa Villa Mariateresa Odette",
+        "ID": "3e2031cc-b589-4dbb-951b-3ae4d42c7a0c"
+      }
+    ]
+  },
+  {
+    "ID": "0d9f4113-2381-4031-880b-3a75af63b44f",
+  },
+  {
+    "ID": "0e8fc3b4-062b-4bed-b0bd-98052ed01c20",
+  },
+  {
+    "ID": "cesano-maderno_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott.ssa BONACINA MARIA",
+        "ID": "0ee5dc77-e5f4-4d98-9890-117f99bd352d"
+      },
+      {
+        "Text": "Dott.ssa Borgonovo Fernanda",
+        "ID": "cb2a1b00-12bc-4c27-84d4-c0082ad48639"
+      },
+      {
+        "Text": "Dott.ssa Colombo Marinella",
+        "ID": "3f63d3dd-e2a9-4cbd-82fc-4a1bec079b6f"
+      }
+    ]
+  },
+  {
+    "ID": "0ee5dc77-e5f4-4d98-9890-117f99bd352d",
+  },
+  {
+    "ID": "0f5e2cd3-3a34-4d80-aea4-0dd46dfe5480",
   },
   {
     "ID": "brugherio",
     "Text": "Città selezionata: Brugherio\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
-      },
-      {
         "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "brugherio_asilo_nido"
       },
       {
         "Text": "Medico di famiglia",
-        "ID": "medico"
+        "ID": "brugherio_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "brugherio_mercato"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "brugherio_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "brugherio_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Asilo Inf. Umberto I E Margherita",
+        "ID": "4f0f5bb7-e274-4ea4-a2cd-8bd8d519388f"
+      },
+      {
+        "Text": "IC Don Camagni",
+        "ID": "2e160a2c-aab8-47f6-9d16-5520ba9e207a"
+      },
+      {
+        "Text": "Infanzia - Grimm",
+        "ID": "0f6c5bf3-1214-4189-b037-f24d915f4a37"
+      },
+      {
+        "Text": "Infanzia - Pavan",
+        "ID": "c29f2fb5-880a-4a4f-93cc-247a9bb86bc8"
+      },
+      {
+        "Text": "Scuola Materna Maria Ausiliatrice",
+        "ID": "dedd4bc0-70e6-4e28-8338-395e1e98f77a"
+      }
+    ]
+  },
+  {
+    "ID": "0f6c5bf3-1214-4189-b037-f24d915f4a37",
+  },
+  {
+    "ID": "nova-milanese_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "NOVA MILANESE - VIA FIUME-PISACANE",
+        "ID": "0fd2035a-5969-405d-a3f6-d4d4bdcd982c"
+      },
+      {
+        "Text": "NOVA MILANESE - ZONA INCIRANO",
+        "ID": "13e60186-d66c-431e-96cb-3bdab07c80e5"
+      }
+    ]
+  },
+  {
+    "ID": "0fd2035a-5969-405d-a3f6-d4d4bdcd982c",
+  },
+  {
+    "ID": "monza_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO CAZZANIGA",
+        "ID": "185913d7-1b90-4845-b9ee-780dec583d0d"
+      },
+      {
+        "Text": "ASILO NIDO CEDERNA",
+        "ID": "ce1f180b-33a8-440d-b3d0-a8ffdf98970e"
+      },
+      {
+        "Text": "ASILO NIDO CENTRO",
+        "ID": "f0a8da83-d24f-41ce-84f3-76d1d5239e98"
+      },
+      {
+        "Text": "ASILO NIDO LIBERTA'",
+        "ID": "68924258-bf0c-4ddc-b691-549fcefff46e"
+      },
+      {
+        "Text": "ASILO NIDO MARAMEO",
+        "ID": "9ceb0649-2c35-4045-8184-afd5f447c1ca"
+      },
+      {
+        "Text": "ASILO NIDO SAN DONATO",
+        "ID": "36cef1cb-c40f-4c0b-b7d8-f9e053667b4b"
+      },
+      {
+        "Text": "ASILO NIDO SAN FRUTTUOSO",
+        "ID": "6d215b91-1aeb-461f-a0b9-15648351a143"
+      },
+      {
+        "Text": "ASILO NIDO SAN ROCCO",
+        "ID": "dada585c-5f7a-42df-946f-155749282eb8"
+      },
+      {
+        "Text": "ASILO NIDO TRIANTE",
+        "ID": "f61757ca-179c-4e00-86e1-2fbf47b3ee62"
+      },
+      {
+        "Text": "BEEâ€¦HAPPY!",
+        "ID": "108e7926-3a11-411b-986d-cb3416d474d7"
+      },
+      {
+        "Text": "BIDIBIBODIBIBU'",
+        "ID": "b97ad016-be43-4828-9406-effd33771b32"
+      },
+      {
+        "Text": "BIMBIINSIEME",
+        "ID": "c9584272-dc9c-4f25-8daa-02a98558d9f5"
+      },
+      {
+        "Text": "BIMBURRA'",
+        "ID": "37a50972-adc8-4522-9812-50f4e38ec707"
+      },
+      {
+        "Text": "BUM BUM",
+        "ID": "8622477e-4c28-4beb-8fc2-b9368973773b"
+      },
+      {
+        "Text": "CLUB DEGLI ALVEARI",
+        "ID": "3c6bf16d-6d6a-476a-9837-b6621fe2c8d3"
+      },
+      {
+        "Text": "COLLEGIO DELLA GUASTALLA",
+        "ID": "66ec960e-6e85-48c3-870b-848fbd91876f"
+      },
+      {
+        "Text": "COLLEGIO VILLORESI SAN GIUSEPPE",
+        "ID": "4a92c25e-69da-4fd8-8b9d-39d25b715f41"
+      },
+      {
+        "Text": "COLORE PASTELLO",
+        "ID": "86eb8c83-1cea-49b3-97f5-946097ea0008"
+      },
+      {
+        "Text": "DRILLY E COCCO AMICI DI SAN ROCCO",
+        "ID": "ba761eee-76d9-4a02-b890-50176307fba7"
+      },
+      {
+        "Text": "EFFEPI DI EFFEPI SRL",
+        "ID": "579f7f47-4800-4859-b1d9-a1b62252d9a4"
+      },
+      {
+        "Text": "I CUCCIOLI",
+        "ID": "6724b648-dbe5-4042-9e0a-04e989cda674"
+      },
+      {
+        "Text": "IL BOSCO DELLE MERAVIGLIE MONZA",
+        "ID": "384fd4f0-03e2-417a-b2f6-c236d4ea923c"
+      },
+      {
+        "Text": "IL GIARDINO SEGRETO",
+        "ID": "97cf488b-c367-4327-9f27-3ea85930edd9"
+      },
+      {
+        "Text": "IL MESTIERE DI CRESCERE",
+        "ID": "e7cea3be-472b-40e2-ba56-b4aa5b3248cc"
+      },
+      {
+        "Text": "IL PIANETA DEI BAMBINI",
+        "ID": "156bfdc5-fd28-415a-a4d6-f40c50c0d56a"
+      },
+      {
+        "Text": "L'ALBERO DELLE NOCCIOLE",
+        "ID": "aab3b0f1-4c91-4724-a9d1-f01f12c04cf4"
+      },
+      {
+        "Text": "L'ARCA DI CICCIO PASTICCIO",
+        "ID": "85474f17-e279-4fc3-9f9f-1b44d5171243"
+      },
+      {
+        "Text": "L'ARCOBALENO",
+        "ID": "16232bab-a2b1-43e6-b28d-e98603e34cbb"
+      },
+      {
+        "Text": "LE CILIEGINE",
+        "ID": "7f311c02-a9db-4709-a6d0-6d69c95b7b5a"
+      },
+      {
+        "Text": "LE MARGHERITINE",
+        "ID": "22b1c765-297d-437c-a946-3ccb4ddfbe1f"
+      },
+      {
+        "Text": "LILO NIDO",
+        "ID": "b2a4d6cc-7bd4-49f6-988d-5a8ca5539f5d"
+      },
+      {
+        "Text": "MARY POPPINS-VIA EDISON",
+        "ID": "35df0392-dd75-4493-bb77-c4bb46eeb097"
+      },
+      {
+        "Text": "NIDO SAN BIAGIO",
+        "ID": "1785d2d1-7187-4113-b479-5a19b3eda890"
+      },
+      {
+        "Text": "PAPPA COCCOLE E BALOCCHI",
+        "ID": "eb7df4b2-785d-4ef6-954a-8f03c1973f47"
+      },
+      {
+        "Text": "PICCOLE STELLE",
+        "ID": "448ce5b3-2fdf-45ca-b9e2-96ba188c9250"
+      },
+      {
+        "Text": "SPAZIO BIMBO",
+        "ID": "dd5082f9-1d68-45fa-b898-9e845c3321dd"
+      }
+    ]
+  },
+  {
+    "ID": "108e7926-3a11-411b-986d-cb3416d474d7",
+  },
+  {
+    "ID": "115583c1-80f7-4d79-92ea-aee08ea0e0c1",
+  },
+  {
+    "ID": "muggio_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott Ragazzon Ferdinando",
+        "ID": "fe02ae3a-10f6-451d-aa80-bd8e889a57d3"
+      },
+      {
+        "Text": "Dott.ssa Melzi Paola",
+        "ID": "11f09bce-581b-4060-996b-3dc0677f5db7"
+      },
+      {
+        "Text": "Dott.ssa Picco Patrizia",
+        "ID": "b24f4e8a-e059-4d2b-8ff7-6b1f85331fcf"
+      },
+      {
+        "Text": "Dott.ssa Pirola Ambrogina",
+        "ID": "addda1a3-713c-439e-b234-bb07c247ada6"
+      }
+    ]
+  },
+  {
+    "ID": "11f09bce-581b-4060-996b-3dc0677f5db7",
+  },
+  {
+    "ID": "seregno_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Infanzia - Nobili",
+        "ID": "3e18b8bf-83b3-4055-a3e8-b528b648ca87"
+      },
+      {
+        "Text": "Infanzia - Rodari",
+        "ID": "fdab0a06-7209-46b3-be91-7b2a9e7788b2"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Maria Immacolata",
+        "ID": "26844610-6524-4db6-b69b-a1eb1a58daf8"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Ottolina Silva",
+        "ID": "32e192a0-edfd-47b6-9d97-eda30571967f"
+      },
+      {
+        "Text": "Scuola Dell'infanzia San Carlo",
+        "ID": "a2dfd8f1-915c-4e29-a0b1-5646932d83f7"
+      },
+      {
+        "Text": "Scuola Materna Candia",
+        "ID": "ce975fae-cf22-4b62-b0a1-56d08672b6f9"
+      },
+      {
+        "Text": "Scuola Materna Ottavio Cabiati",
+        "ID": "645022a6-df90-4671-bae2-27140916a11f"
+      },
+      {
+        "Text": "Scuola Materna Ronzoni Silva",
+        "ID": "12219845-207f-4187-a03f-adee4b2f6579"
+      },
+      {
+        "Text": "Scuola Materna Santino Denova",
+        "ID": "d2372387-6483-4500-b29c-c7e74b239db4"
+      },
+      {
+        "Text": "Scuola Meterna Romeo E Gianna Mariani",
+        "ID": "67c2eaae-b072-40fe-ab27-c2943fdbf1fe"
+      }
+    ]
+  },
+  {
+    "ID": "12219845-207f-4187-a03f-adee4b2f6579",
+  },
+  {
+    "ID": "lissone_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott TERENGHI ALBINO",
+        "ID": "e40dae25-1e1f-44a7-9fa9-8f8912b68916"
+      },
+      {
+        "Text": "Dott.ssa CORBETTA ADELE ANNA",
+        "ID": "126bc506-791e-4ba1-9361-2716e059a2e7"
+      },
+      {
+        "Text": "Dott.ssa GERVASONI ROBERTA",
+        "ID": "3e44d01e-ae02-4550-abff-0042396cf057"
+      },
+      {
+        "Text": "Dott.ssa GOMIERO CLAUDIA",
+        "ID": "e0096cd6-5e92-46c5-870e-eccd71a3d7dc"
+      },
+      {
+        "Text": "Dott.ssa MARENZI KAREN SABRINA",
+        "ID": "6b06adf9-1f23-40b5-b672-d4922a853013"
+      },
+      {
+        "Text": "Dott.ssa SANTAMARIA MARZIA",
+        "ID": "22656b72-0115-4016-b901-a2612a48072c"
+      }
+    ]
+  },
+  {
+    "ID": "126bc506-791e-4ba1-9361-2716e059a2e7",
+  },
+  {
+    "ID": "brugherio_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO DEI PULCINI",
+        "ID": "127f0e5b-3b37-40bc-9365-71a7fd619fd5"
+      },
+      {
+        "Text": "ASILO NIDO COMUNALE-BRUNO MUNARI",
+        "ID": "2564be8d-73d6-4038-99e9-ef453182f791"
+      },
+      {
+        "Text": "ASILO NIDO COMUNALE-HANS CHRISTIAN ANDERSEN",
+        "ID": "56b19371-dc9c-45fa-ac64-4e97ea901e9b"
+      },
+      {
+        "Text": "ASILO NIDO SCARABOCCHIO",
+        "ID": "b2d82d93-b7f8-40eb-8663-7bd65ede8cab"
+      },
+      {
+        "Text": "IL PICCOLO MONDO DEGLI ANATROCCOLI",
+        "ID": "8630279a-3628-47c5-ab47-ef240f6f10c1"
+      },
+      {
+        "Text": "L' ISOLA CHE NON C'E'",
+        "ID": "97264874-060d-443b-8a99-b105a125c5f1"
+      },
+      {
+        "Text": "LA MAGNOLIA",
+        "ID": "b9ba2ea1-9895-4c39-b64f-fce7e425a387"
+      },
+      {
+        "Text": "RAGGI DI SOLE S.R.L.",
+        "ID": "fb3bd37a-f565-4396-8d59-474d45f63b30"
+      }
+    ]
+  },
+  {
+    "ID": "127f0e5b-3b37-40bc-9365-71a7fd619fd5",
+  },
+  {
+    "ID": "13e60186-d66c-431e-96cb-3bdab07c80e5",
   },
   {
     "ID": "varedo",
     "Text": "Città selezionata: Varedo\r\nSeleziona categoria",
     "Button": [
       {
-        "Text": "Medico di famiglia",
-        "ID": "medico"
-      },
-      {
         "Text": "Asilo nido",
-        "ID": "asilo_nido"
+        "ID": "varedo_asilo_nido"
       },
       {
-        "Text": "Scuola materna",
-        "ID": "scuola_materna"
-      },
-      {
-        "Text": "Pediatra",
-        "ID": "pediatra"
+        "Text": "Medico di famiglia",
+        "ID": "varedo_medico"
       },
       {
         "Text": "Mercati",
-        "ID": "mercato"
+        "ID": "varedo_mercato"
+      },
+      {
+        "Text": "Pediatra",
+        "ID": "varedo_pediatra"
+      },
+      {
+        "Text": "Scuola materna",
+        "ID": "varedo_scuola_materna"
       }
     ]
+  },
+  {
+    "ID": "varedo_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. Brambilla Danilo",
+        "ID": "d2984730-4b45-4de3-aec5-e7ce13cb0821"
+      },
+      {
+        "Text": "Dott. Cavallini Fernando",
+        "ID": "a73f8822-c97c-4824-9987-d1e7dddf6048"
+      },
+      {
+        "Text": "Dott. D'Errico Michele",
+        "ID": "92bf1031-a97e-494a-8ed3-2b31a737d3ee"
+      },
+      {
+        "Text": "Dott.ssa Casiero Antonietta",
+        "ID": "88b1345e-11c2-40e4-afc6-361032c5afd1"
+      },
+      {
+        "Text": "Dott.ssa Cavallini Anna Maria",
+        "ID": "c6ffe8ee-5c19-4ac6-8043-050154c47014"
+      },
+      {
+        "Text": "Dott.ssa Corda Rosaria",
+        "ID": "14871832-26d4-494e-99a4-295fddb18384"
+      },
+      {
+        "Text": "Dott.ssa Parravicini Maria Luisa",
+        "ID": "8e132b6b-14ec-42ba-a088-6f805d63f011"
+      },
+      {
+        "Text": "Dott.ssa Stabile Federica",
+        "ID": "228d65ab-b377-4780-a617-95f4984b3a86"
+      }
+    ]
+  },
+  {
+    "ID": "14871832-26d4-494e-99a4-295fddb18384",
+  },
+  {
+    "ID": "varedo_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO COMUNALE ARCOBALENO",
+        "ID": "4de8fa24-2993-450e-9111-76dbfe760d3a"
+      },
+      {
+        "Text": "IL NIDO DI WENDY",
+        "ID": "153804cb-b67b-497b-8ed3-e45e7b0a88ea"
+      }
+    ]
+  },
+  {
+    "ID": "153804cb-b67b-497b-8ed3-e45e7b0a88ea",
+  },
+  {
+    "ID": "156bfdc5-fd28-415a-a4d6-f40c50c0d56a",
+  },
+  {
+    "ID": "desio_libri",
+    "Text": "Categoria selezionata: Libri in Transito\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Abbigliamento Kids",
+        "ID": "527c5971-cdbb-48e5-a423-e13f370906bf"
+      },
+      {
+        "Text": "Bar Centrale",
+        "ID": "72d270f5-37b3-4a26-a22f-c47d8395bf39"
+      },
+      {
+        "Text": "BAR DEL CORSO",
+        "ID": "21d4430e-a51b-4874-84d4-0b20fd1b83d2"
+      },
+      {
+        "Text": "BFD di Marco Farina & C. Snc",
+        "ID": "3d511cb4-38de-4c0c-987d-aeca6a53b790"
+      },
+      {
+        "Text": "CAFFÈ VERGNANO 1882",
+        "ID": "8569fe34-37a9-40ac-a4ed-0e51770abbd0"
+      },
+      {
+        "Text": "Gastronomia Safràn",
+        "ID": "15940cbc-ac1f-46ef-b852-df6fd134d5af"
+      },
+      {
+        "Text": "GELATERIA IL PISTACCHIO",
+        "ID": "48a8466b-4e1d-4d55-b331-076e8f1d1954"
+      },
+      {
+        "Text": "GIUSSANI ABBIGLIAMENTO OLTRE LA 46",
+        "ID": "a65029fa-46b7-4256-90b4-27b00da99df2"
+      }
+    ]
+  },
+  {
+    "ID": "15940cbc-ac1f-46ef-b852-df6fd134d5af",
+  },
+  {
+    "ID": "16232bab-a2b1-43e6-b28d-e98603e34cbb",
+  },
+  {
+    "ID": "1649a350-7ceb-4fc8-bbef-09c0d002a276",
+  },
+  {
+    "ID": "166789fe-2f32-479f-a736-e335558bf794",
+  },
+  {
+    "ID": "16ed9e55-6bbf-4806-857f-ed2b39cc5821",
+  },
+  {
+    "ID": "1785d2d1-7187-4113-b479-5a19b3eda890",
+  },
+  {
+    "ID": "178aab67-9f9a-4d96-889c-7a08a859642d",
+  },
+  {
+    "ID": "1791e24c-a5fb-40f3-9ef9-1a696816d9eb",
+  },
+  {
+    "ID": "desio_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott Casati Mauro",
+        "ID": "ce24d753-9b03-4992-8418-03809f2dac62"
+      },
+      {
+        "Text": "Dott. ssa Cajani Maria Rita",
+        "ID": "e54b97c9-969b-4072-b772-68a185dc0367"
+      },
+      {
+        "Text": "Dott.ssa Natale Irene",
+        "ID": "4a99020e-1720-4959-a862-d6e655600e15"
+      },
+      {
+        "Text": "Dott.ssa Urbano Margherita",
+        "ID": "17dcbaec-8e14-475a-99db-98dc0b6c338e"
+      },
+      {
+        "Text": "Dott.ssa Vannini Paola Maria",
+        "ID": "61d42c7a-836b-4741-9415-16fe0defdb78"
+      }
+    ]
+  },
+  {
+    "ID": "17dcbaec-8e14-475a-99db-98dc0b6c338e",
+  },
+  {
+    "ID": "184927eb-0aa0-4c70-bde9-c15b73a7fa86",
+  },
+  {
+    "ID": "185913d7-1b90-4845-b9ee-780dec583d0d",
+  },
+  {
+    "ID": "192a5542-2ef9-4b8d-b670-3e7749b0ca1e",
+  },
+  {
+    "ID": "196c5c23-5716-4ea6-89fb-11f0f607adf0",
+  },
+  {
+    "ID": "19d8d80f-a918-4d80-8111-3468cbf33c44",
+  },
+  {
+    "ID": "1a00ca56-3aac-42d2-bc84-3fa952d356ef",
+  },
+  {
+    "ID": "1a30306c-d13f-48ec-9508-5dbbca4180ce",
+  },
+  {
+    "ID": "bovisio-masciago_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Asilo Infantile Leopoldo Marangoni",
+        "ID": "f262c8f0-6889-43e5-a3cb-0eb273139f37"
+      },
+      {
+        "Text": "Infanzia - via Montessori",
+        "ID": "1be6174f-eb4f-4cc7-87df-24cb348644d1"
+      }
+    ]
+  },
+  {
+    "ID": "1be6174f-eb4f-4cc7-87df-24cb348644d1",
+  },
+  {
+    "ID": "lissone_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO BILINGUE HAPPY CHILDREN",
+        "ID": "9b8b52be-8a2a-4555-86ba-00057407be3f"
+      },
+      {
+        "Text": "ASILO NIDO PICCOLO PRINCIPE",
+        "ID": "9424d6c8-a694-413c-8bc4-aa792d3073b5"
+      },
+      {
+        "Text": "ASSOCIAZIONE PETER PAN",
+        "ID": "40d8c04c-addf-4308-bb9b-950a51e65535"
+      },
+      {
+        "Text": "BIMBI & CO",
+        "ID": "86b68154-52e3-4f52-b58f-587c31069859"
+      },
+      {
+        "Text": "CIUF CIUF",
+        "ID": "6157974e-5274-41e7-acf6-7e1a07b7d3fa"
+      },
+      {
+        "Text": "COCCOLANDIA",
+        "ID": "1c33f544-e83a-4dda-9274-00a106185030"
+      },
+      {
+        "Text": "IL PIANETA DEI BAMBINI DI ADRIANA VIDUS ROSIN",
+        "ID": "ac9ab337-268f-4f50-9861-099441b615fa"
+      },
+      {
+        "Text": "IL PICCOLO LORD SNC DI PARLATO DEBORAH POSENATO VALERIA",
+        "ID": "43fdefe4-bc24-4757-8a82-f79756cd7e86"
+      },
+      {
+        "Text": "OFFICINA DELLE FIABE",
+        "ID": "55102fd6-1932-4389-a16c-b86cc6254eb3"
+      }
+    ]
+  },
+  {
+    "ID": "1c33f544-e83a-4dda-9274-00a106185030",
+  },
+  {
+    "ID": "lissone_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "LISSONE - P.ZZA DEGLI UMILIATI",
+        "ID": "1cac3127-869f-46e3-9256-2b6c0eb1042b"
+      },
+      {
+        "Text": "LISSONE - PIAZZA CADUTI DI VIA FANI",
+        "ID": "6a712745-f0d6-44e3-aec3-32158023ca04"
+      },
+      {
+        "Text": "LISSONE - PIAZZA DON DARIO CAMPORELLI (FRAZIONE SANTA MARGHERITA)",
+        "ID": "89b87ba8-73bc-4d4f-8aa9-af4e278cdae8"
+      },
+      {
+        "Text": "LISSONE - VIA PASCOLI",
+        "ID": "5a6667b3-34c7-407e-91cf-c000059df8b7"
+      }
+    ]
+  },
+  {
+    "ID": "1cac3127-869f-46e3-9256-2b6c0eb1042b",
+  },
+  {
+    "ID": "1cc86a31-6505-4b7b-b56e-414a764ea250",
+  },
+  {
+    "ID": "1cf2ddf6-dc85-4840-916d-1f38c4b59e81",
+  },
+  {
+    "ID": "1d1f82bc-ba24-4245-b7ce-806e0054d0f0",
+  },
+  {
+    "ID": "desio_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO COMUNALE VIA ADAMELLO",
+        "ID": "9089e0d4-d355-43ab-a3a0-99f294a0405a"
+      },
+      {
+        "Text": "ASILO NIDO COMUNALE VIA DIAZ",
+        "ID": "bd611481-6689-4707-a471-40092a2a9afc"
+      },
+      {
+        "Text": "IL NIDO DELLA CICOGNA",
+        "ID": "1d9a1913-3421-4e6a-9c0c-37da353fc380"
+      },
+      {
+        "Text": "IL PAESE DELLE MERAVIGLIE",
+        "ID": "77ededee-f1e5-4f9c-91c9-80d2a57e47f4"
+      },
+      {
+        "Text": "LA VISPA TERESA",
+        "ID": "bce52a27-eb3f-4894-a0df-f1c17883ac32"
+      },
+      {
+        "Text": "PICCOLE CANAGLIE",
+        "ID": "97f44b30-c706-4534-9329-24248bfcd692"
+      },
+      {
+        "Text": "PICCOLI SEGRETI",
+        "ID": "f09554bd-723f-429d-93ab-49baae348c92"
+      },
+      {
+        "Text": "SCUOLA MATERNA PARITARIA S. TERESA",
+        "ID": "31cf85d2-bfe2-4248-b20e-cdbffd687730"
+      }
+    ]
+  },
+  {
+    "ID": "1d9a1913-3421-4e6a-9c0c-37da353fc380",
+  },
+  {
+    "ID": "1efecd5d-4762-4529-907a-34c82b10aa75",
+  },
+  {
+    "ID": "cesano-maderno_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ABC NURSERY",
+        "ID": "55dc20ce-df22-40df-b7c6-8287292e0616"
+      },
+      {
+        "Text": "ASILO NIDO 1,2,3 STELLA BABY SCHOOL",
+        "ID": "951c0c80-56e8-4b0c-a093-00b624d259d2"
+      },
+      {
+        "Text": "ASILO NIDO COMUNALE-CESANO M",
+        "ID": "9e55f4e1-2824-4ece-b637-379595549b54"
+      },
+      {
+        "Text": "IL BOSCO DELLE MERAVIGLIE",
+        "ID": "6d30fd80-de65-4d69-acc1-7078e9f14f29"
+      },
+      {
+        "Text": "L'ISOLA DEI BIMBI",
+        "ID": "de704fd2-6cd0-4243-a30f-7f72c4c834d8"
+      },
+      {
+        "Text": "PASSI DI BIMBI",
+        "ID": "201eaf76-d6e3-4bbb-a5ec-6d8602484945"
+      },
+      {
+        "Text": "RONZONIDO",
+        "ID": "45ae2262-48a4-4c69-bd25-44bd47816e69"
+      },
+      {
+        "Text": "VOGLIA DI COCCOLE",
+        "ID": "ffe04c4d-f30b-4f7f-869d-208e034eebaf"
+      }
+    ]
+  },
+  {
+    "ID": "201eaf76-d6e3-4bbb-a5ec-6d8602484945",
+  },
+  {
+    "ID": "bovisio-masciago_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "BOVISIO-MASCIAGO - ANGOLO CORSO MILANO E VIA PAGANINI",
+        "ID": "2044391e-c7c8-4d0d-ab55-a89d9278748e"
+      }
+    ]
+  },
+  {
+    "ID": "2044391e-c7c8-4d0d-ab55-a89d9278748e",
+  },
+  {
+    "ID": "204b4c0d-d4e7-401d-aea6-49060c481554",
+  },
+  {
+    "ID": "brugherio_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. Beretta Dario Giuseppe",
+        "ID": "3656ba6b-0a16-4ed0-b3fc-f0a6271b4b9e"
+      },
+      {
+        "Text": "Dott. BRAMATI STEFANO",
+        "ID": "21010101-175b-483c-9608-f7551fd1f95b"
+      },
+      {
+        "Text": "Dott. Carafassi Antonio",
+        "ID": "d825a19f-535b-40e7-87f1-3cf28fb1800f"
+      },
+      {
+        "Text": "Dott. FACCHINI FABRIZIO",
+        "ID": "9337b7e6-2634-4f83-b69d-c4a4c4623844"
+      },
+      {
+        "Text": "Dott. Maderna Gianni",
+        "ID": "e7859681-4a2b-4570-9929-7a8867cced2d"
+      },
+      {
+        "Text": "Dott. Oliveri Francesco Giuseppe",
+        "ID": "8308492e-5a6c-4f7c-9414-633c1f67b044"
+      },
+      {
+        "Text": "Dott. Tarallo Umberto Giuseppe",
+        "ID": "3448d7ce-0e64-4ba0-ae2a-401c4ebbcc47"
+      },
+      {
+        "Text": "Dott. Valesi Vincenzo Ercole",
+        "ID": "fb75789f-59e2-482b-99a2-d1fe21c0d41e"
+      },
+      {
+        "Text": "Dott.ssa DI NARZO IDELBA LUCIA",
+        "ID": "e10c9e7c-f7e5-40b9-a0f3-570405295de3"
+      },
+      {
+        "Text": "Dott.ssa LEVI PATRIZIA",
+        "ID": "2a25100a-68f5-4106-892a-dc6757f6ad8c"
+      },
+      {
+        "Text": "Dott.ssa Longo Patrizia Angela",
+        "ID": "fc480ef8-3024-49e7-9f68-3e9df872bbd5"
+      },
+      {
+        "Text": "Dott.ssa Marinelli Raffaella",
+        "ID": "f66b14aa-e44f-423f-a2e7-5b91695fe3fe"
+      },
+      {
+        "Text": "Dott.ssa PALEARI MARINA",
+        "ID": "32a81a73-6065-47de-b6e9-c8e9bc8d57bb"
+      },
+      {
+        "Text": "Dott.ssa Paro Maria Serena",
+        "ID": "48658b5b-8e3d-4e0b-b3ce-cef0c214ff01"
+      },
+      {
+        "Text": "Dott.ssa Rossetti Gabriella Maria Orso",
+        "ID": "58c4c35a-f970-485d-a67a-690bd089f068"
+      },
+      {
+        "Text": "Dott.ssa SALA BARBARA",
+        "ID": "791e7deb-11b8-46b9-953e-7e3ab0496a0d"
+      },
+      {
+        "Text": "Dott.ssa Santagostino Lucia Liliana Maria",
+        "ID": "e516b4b3-0d19-4c07-92bc-990fa9486bf2"
+      },
+      {
+        "Text": "Dott.ssa Spadafora Graziella",
+        "ID": "6d62e51e-10d3-4fad-a01f-73d592caa6c1"
+      }
+    ]
+  },
+  {
+    "ID": "21010101-175b-483c-9608-f7551fd1f95b",
+  },
+  {
+    "ID": "210d7db6-ccde-4b5f-8728-95f4e5c3a47c",
+  },
+  {
+    "ID": "21763aad-4bcc-4239-ada9-cc53bef7b379",
+  },
+  {
+    "ID": "21d4430e-a51b-4874-84d4-0b20fd1b83d2",
+  },
+  {
+    "ID": "22656b72-0115-4016-b901-a2612a48072c",
+  },
+  {
+    "ID": "228d65ab-b377-4780-a617-95f4984b3a86",
+  },
+  {
+    "ID": "22b1c765-297d-437c-a946-3ccb4ddfbe1f",
+  },
+  {
+    "ID": "desio_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. Canali Raffaele",
+        "ID": "eccaa241-1428-4f75-9c44-b0e61069fa17"
+      },
+      {
+        "Text": "Dott. Formentoni Antonio",
+        "ID": "6b71e09c-167b-42af-b10d-2de42dff85cc"
+      },
+      {
+        "Text": "Dott. Longobardi Alfonso",
+        "ID": "2365d74e-2054-4e01-a084-f47416d319a5"
+      },
+      {
+        "Text": "Dott. Lucarelli Giambattista",
+        "ID": "a40f6426-7f1c-4fd0-a89d-54972210260b"
+      },
+      {
+        "Text": "Dott. Malberti Rodolfo",
+        "ID": "a5f2e9d8-0770-43e3-bd8f-c45e20c0f489"
+      },
+      {
+        "Text": "Dott. Maroni Paolo",
+        "ID": "d39a0f7b-454a-4091-ab3b-7086c24ab7c9"
+      },
+      {
+        "Text": "Dott. Napoleone Francesco",
+        "ID": "9e7eecee-dc2c-4476-85e6-08f5c9bbe04b"
+      },
+      {
+        "Text": "Dott. Pinnavaria Antonio",
+        "ID": "5ccc2c00-5bba-4da9-90fa-f9bda9a34d31"
+      },
+      {
+        "Text": "Dott. Rocca Adelio",
+        "ID": "25536bb5-0b6d-4ac3-ba4f-0149514353db"
+      },
+      {
+        "Text": "Dott. Rossi Alberto",
+        "ID": "a015aa39-109b-4e24-b563-91f1c0922980"
+      },
+      {
+        "Text": "Dott. Sala Silvio",
+        "ID": "f13b7b1b-1d42-4fab-ab26-940edb2efd8c"
+      },
+      {
+        "Text": "Dott. Sala Virginio",
+        "ID": "d4a3ecc9-cfba-406c-a158-ad1e0621aed2"
+      },
+      {
+        "Text": "Dott. Sala Vittorino",
+        "ID": "279c5434-a1a0-41f7-80af-e84b15a84910"
+      },
+      {
+        "Text": "Dott. Somaschini Claudio Maria",
+        "ID": "dba7d4cc-0cc6-4874-ae47-30658bde67ce"
+      },
+      {
+        "Text": "Dott. ssa CRIPPA LAURA",
+        "ID": "e1e5eb1b-cbd8-4c92-8e1d-423dacb983b2"
+      },
+      {
+        "Text": "Dott. ssa PERNA MARINA",
+        "ID": "27072d9b-d951-4936-a593-2fc5f1715f87"
+      },
+      {
+        "Text": "Dott. Tagliabue Primo",
+        "ID": "2360c042-8bff-4c02-92eb-c0fb225020fb"
+      },
+      {
+        "Text": "Dott. Tomasoni Ferdy",
+        "ID": "a4fefec4-3d97-461e-ba0b-0f2a760b6be7"
+      },
+      {
+        "Text": "Dott.Mazzacuva Nicola Antonio",
+        "ID": "e97125b4-733e-4ce3-93ac-68fd7644f88e"
+      },
+      {
+        "Text": "Dott.ssa Lappa Isabella",
+        "ID": "8ed283e0-ffc7-4dab-a735-b2af50451206"
+      },
+      {
+        "Text": "Dott.ssa Marinato Marina Milena",
+        "ID": "80643397-6e6a-4639-8913-f12ee5eb1a4b"
+      },
+      {
+        "Text": "Dott.ssa Putignano Pinuccia Stefania",
+        "ID": "fd5831da-b9b3-4421-bffa-d08c761df6eb"
+      },
+      {
+        "Text": "Dott.ssa Riboldi Claretta Maria",
+        "ID": "d9cd8106-44db-465d-8ae9-dc5e9ae08cc9"
+      },
+      {
+        "Text": "Dott.ssa Rivolta Marisa",
+        "ID": "4b1d8d86-ed65-4bce-83e7-7a750420ebed"
+      },
+      {
+        "Text": "Dott.ssa Santoro Giuseppa Silvana",
+        "ID": "3c3fcec0-5e2f-4e34-83f9-663c736f4cf8"
+      }
+    ]
+  },
+  {
+    "ID": "2360c042-8bff-4c02-92eb-c0fb225020fb",
+  },
+  {
+    "ID": "2365d74e-2054-4e01-a084-f47416d319a5",
+  },
+  {
+    "ID": "2534e989-85e6-4569-8d0d-6d4f87b418e5",
+  },
+  {
+    "ID": "25536bb5-0b6d-4ac3-ba4f-0149514353db",
+  },
+  {
+    "ID": "2564be8d-73d6-4038-99e9-ef453182f791",
+  },
+  {
+    "ID": "25874ef1-0e56-47ea-9d6b-d04121368195",
+  },
+  {
+    "ID": "25afd012-79e5-4eea-988a-3f06b442cc0f",
+  },
+  {
+    "ID": "25e32f70-96e3-4806-a491-ba1f48d6a602",
+  },
+  {
+    "ID": "26844610-6524-4db6-b69b-a1eb1a58daf8",
+  },
+  {
+    "ID": "27072d9b-d951-4936-a593-2fc5f1715f87",
+  },
+  {
+    "ID": "279c5434-a1a0-41f7-80af-e84b15a84910",
+  },
+  {
+    "ID": "28451f7e-59e2-4f19-97e5-c3e8039c6ce2",
+  },
+  {
+    "ID": "giussano_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO 123â€¦STELLA",
+        "ID": "7217a8d6-221a-4a05-bfed-144193d835d1"
+      },
+      {
+        "Text": "ASILO NIDO COMUNALE-L'ALBERO GRANDE",
+        "ID": "7c6e77f4-60a1-4b83-af71-4d00b1caa269"
+      },
+      {
+        "Text": "GHIRIGO'",
+        "ID": "b52263d1-ea1f-46dd-a742-35c186e07eb8"
+      },
+      {
+        "Text": "IL GIROTONDO",
+        "ID": "f8e4373e-e753-4be5-98f4-69586f9c998c"
+      },
+      {
+        "Text": "IL NIDO DI SIMONA",
+        "ID": "29423e65-3b67-4769-9384-44f2ff97c2e4"
+      },
+      {
+        "Text": "L'ISOLA CHE NON C'E'",
+        "ID": "8d40b25e-d840-45eb-ab42-10b33ad4dcdb"
+      },
+      {
+        "Text": "PRINCIPI E PRINCIPESSE",
+        "ID": "320ae5c1-82ec-45d1-982e-328cdf56605b"
+      }
+    ]
+  },
+  {
+    "ID": "29423e65-3b67-4769-9384-44f2ff97c2e4",
+  },
+  {
+    "ID": "desio_vegani",
+    "Text": "Categoria selezionata: Prodotti per vegani\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Al Gatto Che Ride",
+        "ID": "c5f648b2-b682-41a7-a27c-0335bf0d66a2"
+      },
+      {
+        "Text": "Bar Centrale",
+        "ID": "72d270f5-37b3-4a26-a22f-c47d8395bf39"
+      },
+      {
+        "Text": "CAFFÈ VERGNANO 1882",
+        "ID": "8569fe34-37a9-40ac-a4ed-0e51770abbd0"
+      },
+      {
+        "Text": "Crema & Cioccolato ",
+        "ID": "e5f6cb95-df3c-44c8-aad8-f6db25f5d070"
+      },
+      {
+        "Text": "Desìo",
+        "ID": "ac037373-2064-4c2f-8dde-602e8a4417f1"
+      },
+      {
+        "Text": "La Birreria Italiana",
+        "ID": "61e51330-da01-4899-88fc-b15a2bf4bcd7"
+      },
+      {
+        "Text": "Pane e Dintorni",
+        "ID": "405eaed8-8ee6-44a7-9a48-8abf1ea0d891"
+      },
+      {
+        "Text": "Panificio Di Vara",
+        "ID": "29cd4196-0e50-45ce-9958-8cd7b0c64eea"
+      }
+    ]
+  },
+  {
+    "ID": "29cd4196-0e50-45ce-9958-8cd7b0c64eea",
+  },
+  {
+    "ID": "2a25100a-68f5-4106-892a-dc6757f6ad8c",
+  },
+  {
+    "ID": "2bcb51cd-8ce1-4263-bef5-38666a64e09d",
+  },
+  {
+    "ID": "2cd597d9-cf81-4713-9ada-0343e938d634",
+  },
+  {
+    "ID": "2da1055f-08a9-4bf0-b496-b79627f71c99",
+  },
+  {
+    "ID": "2e160a2c-aab8-47f6-9d16-5520ba9e207a",
+  },
+  {
+    "ID": "2e32de0b-43c5-4ecc-932a-f8f484a14ca7",
+  },
+  {
+    "ID": "2e543797-f1ec-4865-bb1e-95c9fc702da2",
+  },
+  {
+    "ID": "desio_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Infanzia - Dolomiti",
+        "ID": "6045afef-b9a3-446f-ab57-f8911c75648d"
+      },
+      {
+        "Text": "Infanzia - Santa Maria",
+        "ID": "ef2be077-b3f8-46d1-859a-6b70b0db47cb"
+      },
+      {
+        "Text": "Opera Pia Sacro Cuore Di Gesu'",
+        "ID": "69ceb0fa-51ee-4f46-8867-4b172a906239"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Collegio Pio Xi",
+        "ID": "e5d5e51f-63cc-4fa1-9908-3bb56d76cf21"
+      },
+      {
+        "Text": "Scuola Dell'infanzia Paritaria San Giuseppe",
+        "ID": "94f4a78a-5827-4a05-8af4-9ed219c1f3a9"
+      },
+      {
+        "Text": "Scuola Dell'infanzia 'San Giorgio'",
+        "ID": "7fb02ce2-7d58-4f37-8fd9-cdb7392a615e"
+      },
+      {
+        "Text": "Scuola Dell'infanzia San Vincenzo",
+        "ID": "2f0852b8-ba6e-48d3-9f91-fee7428e41f8"
+      },
+      {
+        "Text": "Scuola Materna San Teresa",
+        "ID": "cb10965a-0627-4954-bf68-d19fc542edf0"
+      },
+      {
+        "Text": "Scuola Materna Umberto I",
+        "ID": "3ec53c87-f120-47b5-88ce-97e9bc66aba0"
+      }
+    ]
+  },
+  {
+    "ID": "2f0852b8-ba6e-48d3-9f91-fee7428e41f8",
+  },
+  {
+    "ID": "monza_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "MONZA - PIAZZA CAMBIAGHI",
+        "ID": "2f43dfa6-3e3c-4ef8-b441-53b0d065e345"
+      },
+      {
+        "Text": "MONZA - PIAZZA TRENTO",
+        "ID": "72ddebb7-d0d0-485f-89de-91ba0166eb41"
+      },
+      {
+        "Text": "MONZA - VIA NIEVO",
+        "ID": "bca7aba7-6cb4-4ed7-8872-1d472523aaad"
+      },
+      {
+        "Text": "MONZA - VIA PAISIELLO",
+        "ID": "946b3e8f-3d74-4b1b-bdf0-f2e71ef0dd2f"
+      },
+      {
+        "Text": "MONZA - VIA PO",
+        "ID": "89079dae-0dfd-4231-b219-04a526c285b5"
+      },
+      {
+        "Text": "MONZA - VIA S.ANDREA",
+        "ID": "67751986-8793-4136-960e-94b266ec1100"
+      }
+    ]
+  },
+  {
+    "ID": "2f43dfa6-3e3c-4ef8-b441-53b0d065e345",
+  },
+  {
+    "ID": "305bca34-a1b8-4272-8d53-3a7043393e79",
+  },
+  {
+    "ID": "316603c9-342f-43e0-a73b-1091338fbedf",
+  },
+  {
+    "ID": "desio_sanitaria",
+    "Text": "Categoria selezionata: Sanitaria\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "MB - Guardia Medica",
+        "ID": "31a0c21d-019c-4ca8-ba22-b2ab77968d77"
+      },
+      {
+        "Text": "Postazione con defibrillatore DAE - Desio",
+        "ID": "f6650da8-41ad-4bc7-bd4d-8b55f05d9f71"
+      }
+    ]
+  },
+  {
+    "ID": "31a0c21d-019c-4ca8-ba22-b2ab77968d77",
+  },
+  {
+    "ID": "seregno_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "SEREGNO - PIAZZA LINATE",
+        "ID": "31a50d65-2a81-4a0c-a74a-18f055411874"
+      },
+      {
+        "Text": "SEREGNO - VIA SILVA",
+        "ID": "ccc134cf-1bc8-422a-b365-602cf6af51b9"
+      }
+    ]
+  },
+  {
+    "ID": "31a50d65-2a81-4a0c-a74a-18f055411874",
+  },
+  {
+    "ID": "31cf85d2-bfe2-4248-b20e-cdbffd687730",
+  },
+  {
+    "ID": "320ae5c1-82ec-45d1-982e-328cdf56605b",
+  },
+  {
+    "ID": "muggio_asilo_nido",
+    "Text": "Categoria selezionata: Asilo nido\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASILO NIDO COMUNALE",
+        "ID": "325b8d23-2cc9-4ec9-bd9f-f70f13104418"
+      },
+      {
+        "Text": "ASILO NIDO ZUCCHERO FILATO",
+        "ID": "f658bc16-1ec6-4f98-8653-b360898aac34"
+      },
+      {
+        "Text": "IL MONDO DEI BIMBI",
+        "ID": "871f0ced-b7cd-4512-9d9b-bc3655272423"
+      }
+    ]
+  },
+  {
+    "ID": "325b8d23-2cc9-4ec9-bd9f-f70f13104418",
+  },
+  {
+    "ID": "limbiate_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Fondazione Scuola Dell'infanzia Regina Margherita",
+        "ID": "58265cb8-156f-4937-b7cc-07982da4e42b"
+      },
+      {
+        "Text": "Infanzia - Bruno Munari",
+        "ID": "326e4fdf-b274-4c67-9341-3ee5d83cc432"
+      },
+      {
+        "Text": "Infanzia - Collodi",
+        "ID": "d5b1d476-4e1a-48d1-b5bc-c4f7bea677d1"
+      },
+      {
+        "Text": "Infanzia - Don Lorenzo Milani",
+        "ID": "e4dba54f-8671-434c-aa9e-fa91ab76928d"
+      },
+      {
+        "Text": "Infanzia - Don Zeno",
+        "ID": "8f58d32a-074b-4305-bc51-ee1db049657f"
+      },
+      {
+        "Text": "Infanzia - Madre Teresa di Calcutta",
+        "ID": "feb8de48-ff43-4599-9916-2829395e56f0"
+      },
+      {
+        "Text": "Infanzia - Marco Polo",
+        "ID": "53e33de8-224f-4996-8376-cd9a8adc7e7f"
+      },
+      {
+        "Text": "Scuola Materna Autorizzata 'Felice Solaro'",
+        "ID": "b3036a96-ccc1-4918-82f0-d405f4167191"
+      }
+    ]
+  },
+  {
+    "ID": "326e4fdf-b274-4c67-9341-3ee5d83cc432",
+  },
+  {
+    "ID": "brugherio_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "BRUGHERIO - CAPOLUOGO",
+        "ID": "329f9fd5-701a-463c-89f9-2fa1f018bfe3"
+      },
+      {
+        "Text": "BRUGHERIO - SAN DAMIANO",
+        "ID": "40235f4c-8807-4949-99e8-31e36cc4b00a"
+      }
+    ]
+  },
+  {
+    "ID": "329f9fd5-701a-463c-89f9-2fa1f018bfe3",
+  },
+  {
+    "ID": "32a81a73-6065-47de-b6e9-c8e9bc8d57bb",
+  },
+  {
+    "ID": "32e192a0-edfd-47b6-9d97-eda30571967f",
+  },
+  {
+    "ID": "330c0001-8020-4f7c-a2a4-b818a63b1366",
+  },
+  {
+    "ID": "331cf1ed-d15b-45b3-9635-b8b37b4e6a85",
+  },
+  {
+    "ID": "3326524b-43c8-4ac7-b3c1-6f333c180973",
+  },
+  {
+    "ID": "3448d7ce-0e64-4ba0-ae2a-401c4ebbcc47",
+  },
+  {
+    "ID": "3595b119-36c4-47c5-86ff-2c908a32cf69",
+  },
+  {
+    "ID": "35df0392-dd75-4493-bb77-c4bb46eeb097",
+  },
+  {
+    "ID": "35f02218-73ba-4c6d-862e-c1ec799d1fe6",
+  },
+  {
+    "ID": "362fc903-ff1d-4e38-9f0f-488d29f07b37",
+  },
+  {
+    "ID": "3656ba6b-0a16-4ed0-b3fc-f0a6271b4b9e",
+  },
+  {
+    "ID": "36cef1cb-c40f-4c0b-b7d8-f9e053667b4b",
+  },
+  {
+    "ID": "3761a4c3-8fa9-401d-a774-7603ba518480",
+  },
+  {
+    "ID": "37a50972-adc8-4522-9812-50f4e38ec707",
+  },
+  {
+    "ID": "384fd4f0-03e2-417a-b2f6-c236d4ea923c",
+  },
+  {
+    "ID": "38735cf8-724c-44db-8a18-fe68e96c7a26",
+  },
+  {
+    "ID": "38bf7fdf-d715-42b8-b40e-a16afa7339d5",
+  },
+  {
+    "ID": "3a7e6f6d-158c-4066-b520-8a8a8d6325aa",
+  },
+  {
+    "ID": "3aed1b55-ef84-4f74-b42f-a0681f93ee3e",
+  },
+  {
+    "ID": "3b7e39a3-9220-4c3b-909d-20cde04e9303",
+  },
+  {
+    "ID": "giussano_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "GIUSSANO - PIAZZALE CATTANEO",
+        "ID": "3bae0ab7-f2bf-40fa-9b01-5bfa960065dc"
+      },
+      {
+        "Text": "GIUSSANO - VIA DEI CERTOSINI",
+        "ID": "bb42366c-ffbc-4e35-9ab4-f7b1dc1bad08"
+      },
+      {
+        "Text": "GIUSSANO - VIA LONGONI",
+        "ID": "be959d93-c4fe-409a-932a-f5350e531193"
+      }
+    ]
+  },
+  {
+    "ID": "3bae0ab7-f2bf-40fa-9b01-5bfa960065dc",
+  },
+  {
+    "ID": "3bb68da1-7379-431e-be0f-69f51fb3713a",
+  },
+  {
+    "ID": "3c3fcec0-5e2f-4e34-83f9-663c736f4cf8",
+  },
+  {
+    "ID": "3c6bf16d-6d6a-476a-9837-b6621fe2c8d3",
+  },
+  {
+    "ID": "3d49b644-d577-4b94-9098-ab32fee9da64",
+  },
+  {
+    "ID": "3d511cb4-38de-4c0c-987d-aeca6a53b790",
+  },
+  {
+    "ID": "3e18b8bf-83b3-4055-a3e8-b528b648ca87",
+  },
+  {
+    "ID": "3e2031cc-b589-4dbb-951b-3ae4d42c7a0c",
+  },
+  {
+    "ID": "3e44d01e-ae02-4550-abff-0042396cf057",
+  },
+  {
+    "ID": "3ec53c87-f120-47b5-88ce-97e9bc66aba0",
+  },
+  {
+    "ID": "desio_telegram",
+    "Text": "Categoria selezionata: Servizi Telegram\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Telegram Desio",
+        "ID": "3f46d8c0-d89c-4871-a898-1f776e1d4c8e"
+      }
+    ]
+  },
+  {
+    "ID": "3f46d8c0-d89c-4871-a898-1f776e1d4c8e",
+  },
+  {
+    "ID": "3f63d3dd-e2a9-4cbd-82fc-4a1bec079b6f",
+  },
+  {
+    "ID": "40235f4c-8807-4949-99e8-31e36cc4b00a",
+  },
+  {
+    "ID": "405eaed8-8ee6-44a7-9a48-8abf1ea0d891",
+  },
+  {
+    "ID": "40ca6e4f-2822-493a-befb-de269281a730",
+  },
+  {
+    "ID": "40d8c04c-addf-4308-bb9b-950a51e65535",
+  },
+  {
+    "ID": "varedo_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Infanzia - Andersen",
+        "ID": "61c79ff1-ed6d-44d9-ae59-51cff946b7a8"
+      },
+      {
+        "Text": "Infanzia - Donizzetti",
+        "ID": "419e4eef-5846-4c80-80e8-a2dd10c907fc"
+      }
+    ]
+  },
+  {
+    "ID": "419e4eef-5846-4c80-80e8-a2dd10c907fc",
+  },
+  {
+    "ID": "desio_rifiuti",
+    "Text": "Categoria selezionata: Gestione Rifiuti\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Desio - Calendario ritiro verde",
+        "ID": "41d56e21-2060-4018-864b-a78f9e439ed6"
+      },
+      {
+        "Text": "Piattaforma Ecologica",
+        "ID": "938dbb11-64a3-4b30-bfaf-9501d7a42263"
+      },
+      {
+        "Text": "Raccolta Rifiuti",
+        "ID": "51c10197-6999-45c9-b08a-df4eeed6c60f"
+      }
+    ]
+  },
+  {
+    "ID": "41d56e21-2060-4018-864b-a78f9e439ed6",
+  },
+  {
+    "ID": "42dd570f-d8a1-45fe-ad1b-6cbe44e60db6",
+  },
+  {
+    "ID": "43c47a9d-0a47-49c1-909a-5c943063d3d2",
+  },
+  {
+    "ID": "43fdefe4-bc24-4757-8a82-f79756cd7e86",
+  },
+  {
+    "ID": "448ce5b3-2fdf-45ca-b9e2-96ba188c9250",
+  },
+  {
+    "ID": "45ae2262-48a4-4c69-bd25-44bd47816e69",
+  },
+  {
+    "ID": "477822f3-ad4c-49e3-92cb-dabebcd39000",
+  },
+  {
+    "ID": "carate-brianza_medico",
+    "Text": "Categoria selezionata: Medico di famiglia\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. CALDERINI STEFANO",
+        "ID": "d94a5009-ab1d-4662-97c0-eae96ef3ccc6"
+      },
+      {
+        "Text": "Dott. CAMESASCA CARLO FERNANDO",
+        "ID": "b342df33-ccae-4a93-89af-1c0cdbd393c9"
+      },
+      {
+        "Text": "Dott. CORBETTA ENRICO",
+        "ID": "47b3d877-6c25-43fc-8f37-bf292ea1df39"
+      },
+      {
+        "Text": "Dott. MASCHERONI GIOVANNI",
+        "ID": "6fc6fc63-f18d-4875-a2ac-5492afeadbe8"
+      },
+      {
+        "Text": "Dott. Pedicino Marco Ottorino",
+        "ID": "9d4ffc9d-fe4e-4fbb-976d-46921367b02f"
+      },
+      {
+        "Text": "Dott./Dott.ssa Bozzi Gionata",
+        "ID": "74f07424-f7ac-4209-9e0a-547d7d3920dc"
+      },
+      {
+        "Text": "Dott.ssa GHEZZI ANTONELLA",
+        "ID": "fff8c543-51b4-4d7f-93d4-13599caea0c1"
+      },
+      {
+        "Text": "Dott.ssa MOTTA CARMEN",
+        "ID": "4844d6cf-2684-47d3-ad2e-124849fb02ab"
+      },
+      {
+        "Text": "Dott.ssa SIRTORI MARINA",
+        "ID": "e985f5b4-5368-4997-a7f5-939ddd073f63"
+      }
+    ]
+  },
+  {
+    "ID": "47b3d877-6c25-43fc-8f37-bf292ea1df39",
+  },
+  {
+    "ID": "4844d6cf-2684-47d3-ad2e-124849fb02ab",
+  },
+  {
+    "ID": "48658b5b-8e3d-4e0b-b3ce-cef0c214ff01",
+  },
+  {
+    "ID": "48a8466b-4e1d-4d55-b331-076e8f1d1954",
+  },
+  {
+    "ID": "48e66542-4f66-4b2f-9f4a-412dd6ac937b",
+  },
+  {
+    "ID": "4a92c25e-69da-4fd8-8b9d-39d25b715f41",
+  },
+  {
+    "ID": "4a99020e-1720-4959-a862-d6e655600e15",
+  },
+  {
+    "ID": "4b1d8d86-ed65-4bce-83e7-7a750420ebed",
+  },
+  {
+    "ID": "4b88b2e8-53dd-4478-9a6c-bf242b3f987b",
+  },
+  {
+    "ID": "4c7698eb-42ba-45ff-93f8-a81366d5c411",
+  },
+  {
+    "ID": "4cc66272-4816-44f1-841f-c4dc832939c2",
+  },
+  {
+    "ID": "4de8fa24-2993-450e-9111-76dbfe760d3a",
+  },
+  {
+    "ID": "4f0f5bb7-e274-4ea4-a2cd-8bd8d519388f",
+  },
+  {
+    "ID": "4f5d61f6-63bf-4cf5-b7cd-51a46a080e19",
+  },
+  {
+    "ID": "50030f6e-c1db-45d8-b1cf-edbc1b2b1d3b",
+  },
+  {
+    "ID": "50c27b04-b252-42a0-b650-51cb3bf49dc9",
+  },
+  {
+    "ID": "desio_ufficio_pubblico",
+    "Text": "Categoria selezionata: Uffici pubblici\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Agenzia delle Entrate Desio",
+        "ID": "516a0914-4e8c-4338-b7cd-0de5309b052c"
+      },
+      {
+        "Text": "BrianzAcque",
+        "ID": "5749b4d6-3e1c-4e67-a965-0ac88cd7346c"
+      }
+    ]
+  },
+  {
+    "ID": "516a0914-4e8c-4338-b7cd-0de5309b052c",
+  },
+  {
+    "ID": "51c10197-6999-45c9-b08a-df4eeed6c60f",
+  },
+  {
+    "ID": "527c5971-cdbb-48e5-a423-e13f370906bf",
+  },
+  {
+    "ID": "53e33de8-224f-4996-8376-cd9a8adc7e7f",
+  },
+  {
+    "ID": "541cac5f-486d-49f4-87ff-1953aa7fea1a",
+  },
+  {
+    "ID": "55102fd6-1932-4389-a16c-b86cc6254eb3",
+  },
+  {
+    "ID": "varedo_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott.ssa Brioschi Manuela",
+        "ID": "f126172a-975d-42de-b20f-523c0100f28f"
+      },
+      {
+        "Text": "Dott.ssa Dell'Orto Mariagrazia",
+        "ID": "5516dcec-bb24-4056-a548-753414fe93fb"
+      }
+    ]
+  },
+  {
+    "ID": "5516dcec-bb24-4056-a548-753414fe93fb",
+  },
+  {
+    "ID": "55dc20ce-df22-40df-b7c6-8287292e0616",
+  },
+  {
+    "ID": "55f91a17-6349-4a7e-a50c-4dd6cde3973a",
+  },
+  {
+    "ID": "5641cf20-c105-475d-b2ef-d7bc6694fe34",
+  },
+  {
+    "ID": "56b19371-dc9c-45fa-ac64-4e97ea901e9b",
+  },
+  {
+    "ID": "570ce1f3-739d-4124-98b7-5a1196f5ad82",
+  },
+  {
+    "ID": "570fd178-c306-4583-90ae-b10187586d8a",
+  },
+  {
+    "ID": "5749b4d6-3e1c-4e67-a965-0ac88cd7346c",
+  },
+  {
+    "ID": "579f7f47-4800-4859-b1d9-a1b62252d9a4",
+  },
+  {
+    "ID": "lissone_sanitaria",
+    "Text": "Categoria selezionata: Sanitaria\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Postazione con defibrillatore DAE - Lissone",
+        "ID": "5820ee76-0ef5-4b08-9201-9e50a70d1734"
+      }
+    ]
+  },
+  {
+    "ID": "5820ee76-0ef5-4b08-9201-9e50a70d1734",
+  },
+  {
+    "ID": "58265cb8-156f-4937-b7cc-07982da4e42b",
+  },
+  {
+    "ID": "58c4c35a-f970-485d-a67a-690bd089f068",
+  },
+  {
+    "ID": "5940f983-e11d-467d-ae50-8c3d1d09a148",
+  },
+  {
+    "ID": "59867e98-4392-45f3-ba0e-c4252569321b",
+  },
+  {
+    "ID": "5a6667b3-34c7-407e-91cf-c000059df8b7",
+  },
+  {
+    "ID": "5ad6910f-689f-4306-a0bd-118c1e395f28",
+  },
+  {
+    "ID": "5bc0fb7f-575c-4ec9-a502-0665acaa193e",
+  },
+  {
+    "ID": "5c54ed7e-d5b9-434f-b233-bbe5b9a356b9",
+  },
+  {
+    "ID": "5c9b6284-2d15-4aed-9d23-5815a3f9ed86",
+  },
+  {
+    "ID": "5ccc2c00-5bba-4da9-90fa-f9bda9a34d31",
+  },
+  {
+    "ID": "5e2f5ea5-780a-4496-801b-cd94d4dcdebb",
+  },
+  {
+    "ID": "5eb12367-89ad-4950-853b-85df68181066",
+  },
+  {
+    "ID": "5f42ea26-5941-44d0-9f2e-0518ee28781e",
+  },
+  {
+    "ID": "5f95d621-24f6-4d90-a4e7-5797331eb544",
+  },
+  {
+    "ID": "5fe373b8-9069-46f9-a5d2-a49b79ce9943",
+  },
+  {
+    "ID": "60333323-61af-4201-aa1f-405854fa53fd",
+  },
+  {
+    "ID": "6045afef-b9a3-446f-ab57-f8911c75648d",
+  },
+  {
+    "ID": "6108bb48-4c18-4db2-b56a-e5412d8d456c",
+  },
+  {
+    "ID": "6157974e-5274-41e7-acf6-7e1a07b7d3fa",
+  },
+  {
+    "ID": "61c79ff1-ed6d-44d9-ae59-51cff946b7a8",
+  },
+  {
+    "ID": "61d42c7a-836b-4741-9415-16fe0defdb78",
+  },
+  {
+    "ID": "61e51330-da01-4899-88fc-b15a2bf4bcd7",
+  },
+  {
+    "ID": "nova-milanese_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Infanzia - A. Grandi",
+        "ID": "6222d71a-0ef6-4b54-a425-abc41c6d2267"
+      },
+      {
+        "Text": "Infanzia - Arcobaleno",
+        "ID": "9c77b90e-afd5-4467-aa59-341e0749743d"
+      },
+      {
+        "Text": "Infanzia - B.Munari",
+        "ID": "8ee8ec64-e13c-4417-b634-a39b6d507f7e"
+      },
+      {
+        "Text": "Infanzia - G. Rodari",
+        "ID": "c57e3c00-e4c2-44d6-901c-9e524e8b6889"
+      },
+      {
+        "Text": "Infanzia - Milite Ignoto",
+        "ID": "80a8ce53-9f2b-4c32-b14b-a6e8526a51a0"
+      }
+    ]
+  },
+  {
+    "ID": "6222d71a-0ef6-4b54-a425-abc41c6d2267",
+  },
+  {
+    "ID": "carate-brianza_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott. DI STEFANO PASCAL",
+        "ID": "72851662-58c9-46df-8c6d-4047000f591a"
+      },
+      {
+        "Text": "Dott.ssa CAZZANIGA GIUSI",
+        "ID": "62699556-1457-4c86-a688-bd539fa4f141"
+      },
+      {
+        "Text": "Dott.ssa MONICA LIMONTA",
+        "ID": "a66c5563-bea7-4ad2-b87f-4f84c66d0854"
+      }
+    ]
+  },
+  {
+    "ID": "62699556-1457-4c86-a688-bd539fa4f141",
+  },
+  {
+    "ID": "62840878-a80b-435f-8901-9f2b9c694495",
+  },
+  {
+    "ID": "628d19bd-4d99-4bae-b6a1-e766af4c67d6",
+  },
+  {
+    "ID": "62f74119-3723-4b00-baa6-e39e18db9dbe",
+  },
+  {
+    "ID": "634b7164-0b52-4bb5-89f6-2946d8aea991",
+  },
+  {
+    "ID": "645022a6-df90-4671-bae2-27140916a11f",
+  },
+  {
+    "ID": "65835068-7f5b-412b-b991-1305a3a456e5",
+  },
+  {
+    "ID": "6606fbc7-2913-4ef4-adb3-5bddda2f44e2",
+  },
+  {
+    "ID": "6627029a-df05-4541-a1f1-2b8e24d0a744",
+  },
+  {
+    "ID": "66ec960e-6e85-48c3-870b-848fbd91876f",
+  },
+  {
+    "ID": "6724b648-dbe5-4042-9e0a-04e989cda674",
+  },
+  {
+    "ID": "673aa2b4-b566-4d78-bfb5-3d6e8a0bd686",
+  },
+  {
+    "ID": "67751986-8793-4136-960e-94b266ec1100",
+  },
+  {
+    "ID": "67c14813-f56e-4f20-898a-191ab6f96121",
+  },
+  {
+    "ID": "67c2eaae-b072-40fe-ab27-c2943fdbf1fe",
+  },
+  {
+    "ID": "68771e74-ac6b-4fe8-98a3-8154784cfd82",
+  },
+  {
+    "ID": "68924258-bf0c-4ddc-b691-549fcefff46e",
+  },
+  {
+    "ID": "desio_trasporto",
+    "Text": "Categoria selezionata: Trasporti\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "ASF Autolinee",
+        "ID": "7ab91894-a76f-48ae-878f-da438c02cab7"
+      },
+      {
+        "Text": "ATM",
+        "ID": "68cc18cd-b050-4193-bf09-57ba4512cdb8"
+      },
+      {
+        "Text": "Autoguidovie",
+        "ID": "e82d0e09-0e55-4a7e-8f90-dd46cc94012b"
+      },
+      {
+        "Text": "Trenord",
+        "ID": "f480fef7-6a93-4518-a9dd-0eaa4d40f46e"
+      }
+    ]
+  },
+  {
+    "ID": "68cc18cd-b050-4193-bf09-57ba4512cdb8",
+  },
+  {
+    "ID": "691a85ab-72d9-43dd-b4f7-79c672a27d94",
+  },
+  {
+    "ID": "6942179c-316e-441e-addb-47fa75c84be7",
+  },
+  {
+    "ID": "69ceb0fa-51ee-4f46-8867-4b172a906239",
+  },
+  {
+    "ID": "69e0a5d4-f727-4df2-9898-abfbb0863d08",
+  },
+  {
+    "ID": "6a712745-f0d6-44e3-aec3-32158023ca04",
+  },
+  {
+    "ID": "6b06adf9-1f23-40b5-b672-d4922a853013",
+  },
+  {
+    "ID": "6b71e09c-167b-42af-b10d-2de42dff85cc",
+  },
+  {
+    "ID": "6b8b68e7-84be-4657-bc3c-9e3cbd414b29",
+  },
+  {
+    "ID": "6bed983d-7154-4d23-8aa0-821937b7b17c",
+  },
+  {
+    "ID": "6c5b0d58-9fd2-4a29-866f-3ba4641bce33",
+  },
+  {
+    "ID": "6c735bd4-ede7-48e8-8286-84d6a51e5b00",
+  },
+  {
+    "ID": "6d215b91-1aeb-461f-a0b9-15648351a143",
+  },
+  {
+    "ID": "6d30fd80-de65-4d69-acc1-7078e9f14f29",
+  },
+  {
+    "ID": "6d62e51e-10d3-4fad-a01f-73d592caa6c1",
+  },
+  {
+    "ID": "6d6cc098-4113-4cf0-b85c-d4748dc97f5e",
+  },
+  {
+    "ID": "6edca073-15c3-4947-b7ec-0a4ecd4e33c8",
+  },
+  {
+    "ID": "6f17f0b6-60c4-4a78-86b2-8141457cfc19",
+  },
+  {
+    "ID": "6f948e1a-11a3-42db-8fef-411d76dcca1c",
+  },
+  {
+    "ID": "6fc6fc63-f18d-4875-a2ac-5492afeadbe8",
+  },
+  {
+    "ID": "704b9ddc-248e-4b7e-bed8-35d5c0f52d45",
+  },
+  {
+    "ID": "70a6adbd-0219-4beb-b9d8-63821f240239",
+  },
+  {
+    "ID": "70c22236-af13-4b41-bcb9-14111d0c09fb",
+  },
+  {
+    "ID": "70e55386-0ea5-4143-b759-87e593ec9424",
+  },
+  {
+    "ID": "desio_veterinario",
+    "Text": "Categoria selezionata: Veterinario\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Ambulatorio Veterinario Gaia",
+        "ID": "71409751-62fd-4df8-a4c0-1ed1e267c559"
+      },
+      {
+        "Text": "Studio Veterinario Associato DR. BRENNA CALCATERRA ELLI",
+        "ID": "c481ac42-2cd4-4c73-886e-9743a3767abd"
+      }
+    ]
+  },
+  {
+    "ID": "71409751-62fd-4df8-a4c0-1ed1e267c559",
+  },
+  {
+    "ID": "719c7192-29eb-4114-b1dc-dcee67329e55",
+  },
+  {
+    "ID": "71d16b07-2029-489a-bac8-cb42c21cd19d",
+  },
+  {
+    "ID": "7217a8d6-221a-4a05-bfed-144193d835d1",
+  },
+  {
+    "ID": "72851662-58c9-46df-8c6d-4047000f591a",
+  },
+  {
+    "ID": "72d270f5-37b3-4a26-a22f-c47d8395bf39",
+  },
+  {
+    "ID": "72ddebb7-d0d0-485f-89de-91ba0166eb41",
+  },
+  {
+    "ID": "733b7134-7ee4-4ad5-923f-270c5e2f9ab4",
+  },
+  {
+    "ID": "74898830-ee3e-4edc-9ca9-8a73d0d02f9b",
+  },
+  {
+    "ID": "74f07424-f7ac-4209-9e0a-547d7d3920dc",
+  },
+  {
+    "ID": "74f0ba93-0031-4721-8c15-869c44f25d31",
+  },
+  {
+    "ID": "77ededee-f1e5-4f9c-91c9-80d2a57e47f4",
+  },
+  {
+    "ID": "78c53202-d869-454d-9a70-8c12abd15951",
+  },
+  {
+    "ID": "790e97ae-db91-497a-93c3-39003d9a1398",
+  },
+  {
+    "ID": "791e7deb-11b8-46b9-953e-7e3ab0496a0d",
+  },
+  {
+    "ID": "792dd38d-545a-4e73-b004-98d791ffe0a7",
+  },
+  {
+    "ID": "7a008bc8-f262-4951-bbd2-f7f8af85e495",
+  },
+  {
+    "ID": "7a65aeb5-078b-4813-95ac-727501b8bef7",
+  },
+  {
+    "ID": "7ab91894-a76f-48ae-878f-da438c02cab7",
+  },
+  {
+    "ID": "7ac2630b-2093-4642-ad22-ab6cbf80cf93",
+  },
+  {
+    "ID": "7b9ec500-a705-4640-a126-c1a8580f7075",
+  },
+  {
+    "ID": "7c6e77f4-60a1-4b83-af71-4d00b1caa269",
+  },
+  {
+    "ID": "7d060eb7-11dc-4916-a84d-8c330490aa45",
+  },
+  {
+    "ID": "7d2d0c4e-4086-4532-9831-49d3e242d52a",
+  },
+  {
+    "ID": "7ec407f0-6c04-450a-8d58-38415fd4fe1b",
+  },
+  {
+    "ID": "7f311c02-a9db-4709-a6d0-6d69c95b7b5a",
+  },
+  {
+    "ID": "7f628b33-9034-453e-95c6-a873292d6186",
+  },
+  {
+    "ID": "desio_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "DESIO - MERCATO \"NORD\" - PIAZZA GIOVANNI XXIII",
+        "ID": "a19c410a-76dc-4d08-ac04-a76bcc1b64bd"
+      },
+      {
+        "Text": "DESIO - MERCATO \"SUD\" - VIA PRATI",
+        "ID": "7f71d01e-99f7-4bdf-b797-5572baf13f93"
+      }
+    ]
+  },
+  {
+    "ID": "7f71d01e-99f7-4bdf-b797-5572baf13f93",
+  },
+  {
+    "ID": "7fb02ce2-7d58-4f37-8fd9-cdb7392a615e",
+  },
+  {
+    "ID": "7fea0cb0-6b4b-4005-b5b0-d3a3e83fa56a",
+  },
+  {
+    "ID": "80439260-6cf6-44c3-95da-952da9edda9c",
+  },
+  {
+    "ID": "8044e9bd-e9ba-4e4d-90c6-dd806533c555",
+  },
+  {
+    "ID": "80643397-6e6a-4639-8913-f12ee5eb1a4b",
+  },
+  {
+    "ID": "lissone_comune",
+    "Text": "Categoria selezionata: ~ Comune\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Ufficio Servizi Demografici - Lissone",
+        "ID": "8083be6e-3263-4fa4-b055-550c905fa894"
+      }
+    ]
+  },
+  {
+    "ID": "8083be6e-3263-4fa4-b055-550c905fa894",
+  },
+  {
+    "ID": "80a8ce53-9f2b-4c32-b14b-a6e8526a51a0",
+  },
+  {
+    "ID": "80e996b6-f7b3-48bc-836b-3396482003c3",
+  },
+  {
+    "ID": "cesano-maderno_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "CESANO MADERNO - CAPOLUOGO",
+        "ID": "cb93b3fe-ca6c-486e-b270-f5dced8979e2"
+      },
+      {
+        "Text": "CESANO MADERNO - VIA MONCENISIO",
+        "ID": "c8aa6279-eaed-436a-af54-8733824e17c3"
+      },
+      {
+        "Text": "CESANO MADERNO - VILLAGGIO SNIA",
+        "ID": "82f8f80f-8b12-43d3-ab63-dd94d09133b7"
+      }
+    ]
+  },
+  {
+    "ID": "82f8f80f-8b12-43d3-ab63-dd94d09133b7",
+  },
+  {
+    "ID": "8308492e-5a6c-4f7c-9414-633c1f67b044",
+  },
+  {
+    "ID": "838b014f-4a00-46a4-bdc4-d30e14b999e4",
+  },
+  {
+    "ID": "83a72c4f-7537-49c6-822f-7597ed273915",
+  },
+  {
+    "ID": "840dc57a-f2e3-40d8-b960-05a1ba90f2cd",
+  },
+  {
+    "ID": "8427ff09-131c-4952-bf03-93681d60960f",
+  },
+  {
+    "ID": "84ccbfc5-c674-489b-985b-d0d6a1e846d8",
+  },
+  {
+    "ID": "84e5e175-8f35-444c-9c70-476eb4f09b4d",
+  },
+  {
+    "ID": "85474f17-e279-4fc3-9f9f-1b44d5171243",
+  },
+  {
+    "ID": "8569fe34-37a9-40ac-a4ed-0e51770abbd0",
+  },
+  {
+    "ID": "86093dc0-250e-4f97-b9e5-749bdd4ae83f",
+  },
+  {
+    "ID": "8622477e-4c28-4beb-8fc2-b9368973773b",
+  },
+  {
+    "ID": "8630279a-3628-47c5-ab47-ef240f6f10c1",
+  },
+  {
+    "ID": "867dff4b-3d2d-4713-afd6-5cb97a2414ee",
+  },
+  {
+    "ID": "86a78c05-49f9-460b-a774-c6789bedc4bf",
+  },
+  {
+    "ID": "86b68154-52e3-4f52-b58f-587c31069859",
+  },
+  {
+    "ID": "86eb8c83-1cea-49b3-97f5-946097ea0008",
+  },
+  {
+    "ID": "871f0ced-b7cd-4512-9d9b-bc3655272423",
+  },
+  {
+    "ID": "875b5ba2-0210-45cb-9795-fbe7a49ce55c",
+  },
+  {
+    "ID": "8764aba1-b3c3-49d7-bb8d-6df7b21eb7bf",
+  },
+  {
+    "ID": "nova-milanese_pediatra",
+    "Text": "Categoria selezionata: Pediatra\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Dott.ssa MICHELA FUSI",
+        "ID": "87cdcd5d-2e75-4316-896a-515f07540809"
+      },
+      {
+        "Text": "Dott.ssa Montalti Maria Grazia",
+        "ID": "8b80215e-4290-4c73-9f5a-9f3054ecf09f"
+      }
+    ]
+  },
+  {
+    "ID": "87cdcd5d-2e75-4316-896a-515f07540809",
+  },
+  {
+    "ID": "88b1345e-11c2-40e4-afc6-361032c5afd1",
+  },
+  {
+    "ID": "89079dae-0dfd-4231-b219-04a526c285b5",
+  },
+  {
+    "ID": "894f8dae-a173-4866-9d9b-46f2b6fcac78",
+  },
+  {
+    "ID": "895a982a-97dc-41ce-85d7-e570f4910d3e",
+  },
+  {
+    "ID": "89946052-ab43-4960-ab85-fbf83be10e9f",
+  },
+  {
+    "ID": "89b87ba8-73bc-4d4f-8aa9-af4e278cdae8",
+  },
+  {
+    "ID": "89f84ce6-b90e-4fe8-ba91-1a9a415a5629",
+  },
+  {
+    "ID": "8a20ab2f-4757-4255-b743-27552e664b50",
+  },
+  {
+    "ID": "8a6eecd8-48dc-402f-bdee-5be4e9a5cfea",
+  },
+  {
+    "ID": "8b2c4b44-1759-4796-b2a4-c82b53d4903f",
+  },
+  {
+    "ID": "8b80215e-4290-4c73-9f5a-9f3054ecf09f",
+  },
+  {
+    "ID": "8c83f6d3-5e63-4956-8487-5a0447f3a435",
+  },
+  {
+    "ID": "8d40b25e-d840-45eb-ab42-10b33ad4dcdb",
+  },
+  {
+    "ID": "8e0a8e6d-5803-4409-a266-fa70c7f859d6",
+  },
+  {
+    "ID": "8e132b6b-14ec-42ba-a088-6f805d63f011",
+  },
+  {
+    "ID": "8ed283e0-ffc7-4dab-a735-b2af50451206",
+  },
+  {
+    "ID": "8ee8ec64-e13c-4417-b634-a39b6d507f7e",
+  },
+  {
+    "ID": "8f58d32a-074b-4305-bc51-ee1db049657f",
+  },
+  {
+    "ID": "8f67820c-d6aa-4fa5-bb4a-026a6d3ec90f",
+  },
+  {
+    "ID": "8fb24a3e-d805-4530-9520-e4657f0bb4e9",
+  },
+  {
+    "ID": "8fd61510-1daf-4efa-9b00-5f77365a829f",
+  },
+  {
+    "ID": "9056f3ad-52ea-40b1-b51b-71acdf649948",
+  },
+  {
+    "ID": "9089e0d4-d355-43ab-a3a0-99f294a0405a",
+  },
+  {
+    "ID": "9172484a-3d05-4ba8-839b-ca6c7da6ced8",
+  },
+  {
+    "ID": "91781cd4-503d-42d3-ad1e-b78d47aa8aff",
+  },
+  {
+    "ID": "92bf1031-a97e-494a-8ed3-2b31a737d3ee",
+  },
+  {
+    "ID": "9337b7e6-2634-4f83-b69d-c4a4c4623844",
+  },
+  {
+    "ID": "9342f480-3572-4630-a85f-cd56e604482b",
+  },
+  {
+    "ID": "938dbb11-64a3-4b30-bfaf-9501d7a42263",
+  },
+  {
+    "ID": "93a8cfb2-1488-4d84-b89c-60eecddc84b9",
+  },
+  {
+    "ID": "93d2f79b-4bfb-43f2-a832-56fda7c8a23b",
+  },
+  {
+    "ID": "9423b9f0-7c94-46ba-b10b-b366c86f7886",
+  },
+  {
+    "ID": "9424d6c8-a694-413c-8bc4-aa792d3073b5",
+  },
+  {
+    "ID": "muggio_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "MUGGIO' - V.LE RIMEMBRANZE",
+        "ID": "94421378-a054-4837-bf92-e5bed2991fb9"
+      },
+      {
+        "Text": "MUGGIO' - VIA LEONCAVALLO",
+        "ID": "bc2e2269-687e-467c-9e5e-db166ea80ccc"
+      }
+    ]
+  },
+  {
+    "ID": "94421378-a054-4837-bf92-e5bed2991fb9",
+  },
+  {
+    "ID": "946b3e8f-3d74-4b1b-bdf0-f2e71ef0dd2f",
+  },
+  {
+    "ID": "94891e30-43fc-4cea-be2b-e08b6a01e34a",
+  },
+  {
+    "ID": "94f4a78a-5827-4a05-8af4-9ed219c1f3a9",
+  },
+  {
+    "ID": "951c0c80-56e8-4b0c-a093-00b624d259d2",
+  },
+  {
+    "ID": "95a7d9b7-1627-4fc5-839a-6021b345a446",
+  },
+  {
+    "ID": "95da9ba7-3498-445b-b205-890142421d35",
+  },
+  {
+    "ID": "96da4068-a86a-4754-8015-57482f1248ad",
+  },
+  {
+    "ID": "97264874-060d-443b-8a99-b105a125c5f1",
+  },
+  {
+    "ID": "973b6767-7320-4d47-95d0-c949b82c7050",
+  },
+  {
+    "ID": "97cf488b-c367-4327-9f27-3ea85930edd9",
+  },
+  {
+    "ID": "97f44b30-c706-4534-9329-24248bfcd692",
+  },
+  {
+    "ID": "98a467f1-106e-4dda-806c-320adccfd07c",
+  },
+  {
+    "ID": "9a213618-8286-4951-b8eb-cf5b128cea89",
+  },
+  {
+    "ID": "9b8b52be-8a2a-4555-86ba-00057407be3f",
+  },
+  {
+    "ID": "9bc1d852-6155-475a-b279-a6d58939e40a",
+  },
+  {
+    "ID": "9c77b90e-afd5-4467-aa59-341e0749743d",
+  },
+  {
+    "ID": "9cc1da1d-5970-4790-9fcc-b82e0a0f8b4b",
+  },
+  {
+    "ID": "9ceb0649-2c35-4045-8184-afd5f447c1ca",
+  },
+  {
+    "ID": "9d4ffc9d-fe4e-4fbb-976d-46921367b02f",
+  },
+  {
+    "ID": "9df72f54-f670-488d-8c61-51263cb0df3d",
+  },
+  {
+    "ID": "9e55f4e1-2824-4ece-b637-379595549b54",
+  },
+  {
+    "ID": "9e7eecee-dc2c-4476-85e6-08f5c9bbe04b",
+  },
+  {
+    "ID": "a015aa39-109b-4e24-b563-91f1c0922980",
+  },
+  {
+    "ID": "a06e8575-4399-4def-87b7-96e9ab28350c",
+  },
+  {
+    "ID": "a0849019-0fd1-4605-9310-7347a12e1d18",
+  },
+  {
+    "ID": "a19c410a-76dc-4d08-ac04-a76bcc1b64bd",
+  },
+  {
+    "ID": "a1ac968e-799a-485c-babc-46f2b08839df",
+  },
+  {
+    "ID": "a1f31f68-7241-4396-87ed-a82c6c9d895c",
+  },
+  {
+    "ID": "a21c965c-5dbc-4bae-a83e-58a024d713ab",
+  },
+  {
+    "ID": "a2601b4c-f3a5-44d5-a1bd-4196f74c43e5",
+  },
+  {
+    "ID": "a2dfd8f1-915c-4e29-a0b1-5646932d83f7",
+  },
+  {
+    "ID": "a3765106-4797-420e-b0cb-2c3b83db8c31",
+  },
+  {
+    "ID": "a39838aa-e85c-48c7-8cee-8c56f9db45d2",
+  },
+  {
+    "ID": "a40f6426-7f1c-4fd0-a89d-54972210260b",
+  },
+  {
+    "ID": "a4fefec4-3d97-461e-ba0b-0f2a760b6be7",
+  },
+  {
+    "ID": "a5860dcc-d483-4779-8e6e-fdc5accd9472",
+  },
+  {
+    "ID": "a58e583e-2dcc-4ae1-9214-48b46e00a1dd",
+  },
+  {
+    "ID": "a59bce95-ec57-4722-b160-2f9bd4d573ae",
+  },
+  {
+    "ID": "a5cc27b3-d6a5-4232-9f7d-e19f01d3982a",
+  },
+  {
+    "ID": "a5f2e9d8-0770-43e3-bd8f-c45e20c0f489",
+  },
+  {
+    "ID": "a65029fa-46b7-4256-90b4-27b00da99df2",
+  },
+  {
+    "ID": "a66c5563-bea7-4ad2-b87f-4f84c66d0854",
+  },
+  {
+    "ID": "a73f8822-c97c-4824-9987-d1e7dddf6048",
+  },
+  {
+    "ID": "a7480edb-4bd9-4698-842b-80c7cecf16e8",
+  },
+  {
+    "ID": "a97ed849-32f1-4eed-a8de-01b377161d13",
+  },
+  {
+    "ID": "aab3b0f1-4c91-4724-a9d1-f01f12c04cf4",
+  },
+  {
+    "ID": "ab4390c6-f15c-4b6d-a02d-31c077e3a136",
+  },
+  {
+    "ID": "ac037373-2064-4c2f-8dde-602e8a4417f1",
+  },
+  {
+    "ID": "ac26e7d8-1def-420b-b15c-30a2b2628268",
+  },
+  {
+    "ID": "ac9ab337-268f-4f50-9861-099441b615fa",
+  },
+  {
+    "ID": "acdcf9a8-5a2f-49f3-b821-f2e9e77937a0",
+  },
+  {
+    "ID": "ad1db3fb-48a4-4808-ab57-5d3abf75d92e",
+  },
+  {
+    "ID": "addda1a3-713c-439e-b234-bb07c247ada6",
+  },
+  {
+    "ID": "ae85095a-ba45-41fa-b8eb-c78cc3f13968",
+  },
+  {
+    "ID": "varedo_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "VAREDO - VIA REBUZZINI",
+        "ID": "af35a445-e717-4099-9c7e-b47f245f1ee8"
+      }
+    ]
+  },
+  {
+    "ID": "af35a445-e717-4099-9c7e-b47f245f1ee8",
+  },
+  {
+    "ID": "af3ad3ff-6db4-403a-b40f-7ceb69ac4440",
+  },
+  {
+    "ID": "b016e650-b3fa-4859-bb26-191510a9f24f",
+  },
+  {
+    "ID": "b0665dbf-21b2-4704-9038-209a2e68e89a",
+  },
+  {
+    "ID": "b0ecaa9d-4e5e-4a49-8080-40ac13a71bf1",
+  },
+  {
+    "ID": "b1abd501-5b03-4196-be06-4efab430340c",
+  },
+  {
+    "ID": "b1f47834-5451-433e-88be-c6d33a9cc290",
+  },
+  {
+    "ID": "b24f4e8a-e059-4d2b-8ff7-6b1f85331fcf",
+  },
+  {
+    "ID": "b29fc521-861c-42f0-b233-fed458450991",
+  },
+  {
+    "ID": "b2a4d6cc-7bd4-49f6-988d-5a8ca5539f5d",
+  },
+  {
+    "ID": "b2d82d93-b7f8-40eb-8663-7bd65ede8cab",
+  },
+  {
+    "ID": "b3036a96-ccc1-4918-82f0-d405f4167191",
+  },
+  {
+    "ID": "b342df33-ccae-4a93-89af-1c0cdbd393c9",
+  },
+  {
+    "ID": "b393b889-8fcf-49c1-a2dd-bd1d79ac71c1",
+  },
+  {
+    "ID": "b3d19abf-cc41-41d1-adbd-3be915ec5f46",
+  },
+  {
+    "ID": "b409d66d-d3ce-4545-a509-cd6975d36946",
+  },
+  {
+    "ID": "b52263d1-ea1f-46dd-a742-35c186e07eb8",
+  },
+  {
+    "ID": "b5611071-a6f6-4742-8eab-ad593620a0b1",
+  },
+  {
+    "ID": "muggio_comune",
+    "Text": "Categoria selezionata: ~ Comune\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Ufficio Servizi Demografici - Muggiò",
+        "ID": "b585ca91-8ee1-4a0d-92e9-f4740abb9a67"
+      }
+    ]
+  },
+  {
+    "ID": "b585ca91-8ee1-4a0d-92e9-f4740abb9a67",
+  },
+  {
+    "ID": "b5f0dfc5-e4fb-4242-b8f7-31dbbf0dae91",
+  },
+  {
+    "ID": "b784e991-d5e9-4cf7-a63b-d3a4788985f0",
+  },
+  {
+    "ID": "b84d51d9-4d7d-456f-b181-b7ce35fc34f1",
+  },
+  {
+    "ID": "b880ecac-ebc5-42e0-80c4-5c4a4815f2b2",
+  },
+  {
+    "ID": "b97ad016-be43-4828-9406-effd33771b32",
+  },
+  {
+    "ID": "b988ff59-9368-47b3-b5be-0c592fc81047",
+  },
+  {
+    "ID": "b9ba2ea1-9895-4c39-b64f-fce7e425a387",
+  },
+  {
+    "ID": "ba19d8db-3e09-4696-968d-7a89c45044ce",
+  },
+  {
+    "ID": "ba761eee-76d9-4a02-b890-50176307fba7",
+  },
+  {
+    "ID": "bab953b9-9d75-4d67-8e83-783ce4577af5",
+  },
+  {
+    "ID": "bb42366c-ffbc-4e35-9ab4-f7b1dc1bad08",
+  },
+  {
+    "ID": "bb8db115-5b13-43a1-87aa-32ee9d139d40",
+  },
+  {
+    "ID": "bbf2b764-33d0-4be2-aa3d-f7cdc57978f7",
+  },
+  {
+    "ID": "bc2e2269-687e-467c-9e5e-db166ea80ccc",
+  },
+  {
+    "ID": "bc96f10f-9754-4c8a-9e71-a48768416fda",
+  },
+  {
+    "ID": "bca7aba7-6cb4-4ed7-8872-1d472523aaad",
+  },
+  {
+    "ID": "bce52a27-eb3f-4894-a0df-f1c17883ac32",
+  },
+  {
+    "ID": "bd611481-6689-4707-a471-40092a2a9afc",
+  },
+  {
+    "ID": "bd91332e-c65c-43da-9bd6-95f3877717ac",
+  },
+  {
+    "ID": "be4c76ab-760e-45a6-8b17-b0131671bdca",
+  },
+  {
+    "ID": "be959d93-c4fe-409a-932a-f5350e531193",
+  },
+  {
+    "ID": "bee63679-0495-48c9-bdbe-ef7177376b62",
+  },
+  {
+    "ID": "bfa341a6-b784-4ccc-b44a-1442ad3d7232",
+  },
+  {
+    "ID": "c03b3c02-1a29-48d8-b6d2-2de0d32a3a76",
+  },
+  {
+    "ID": "c089219c-c9d5-46dd-aedd-71b3591e99d0",
+  },
+  {
+    "ID": "c08c3141-154b-4034-aeba-74f7721dca97",
+  },
+  {
+    "ID": "c0ef6218-5f53-4291-81ba-2607970d2aeb",
+  },
+  {
+    "ID": "c141f7f6-8c0c-4496-85a4-6052d1b6b9b5",
+  },
+  {
+    "ID": "muggio_scuola_materna",
+    "Text": "Categoria selezionata: Scuola materna\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Parrocchia San Giusepe S.M. Palo VI",
+        "ID": "c2574571-ba8f-4a7d-97df-09de7a371c57"
+      }
+    ]
+  },
+  {
+    "ID": "c2574571-ba8f-4a7d-97df-09de7a371c57",
+  },
+  {
+    "ID": "c272d573-8bdc-4d43-99c6-dbad7ff2f727",
+  },
+  {
+    "ID": "c29f2fb5-880a-4a4f-93cc-247a9bb86bc8",
+  },
+  {
+    "ID": "c319d587-f22e-4e3b-b936-0891b1368d9c",
+  },
+  {
+    "ID": "c3dadcca-359b-47b2-8372-d779eda7d9d7",
+  },
+  {
+    "ID": "c481ac42-2cd4-4c73-886e-9743a3767abd",
+  },
+  {
+    "ID": "c494c59b-4c22-4ced-bd2a-35c610496c62",
+  },
+  {
+    "ID": "c57e3c00-e4c2-44d6-901c-9e524e8b6889",
+  },
+  {
+    "ID": "c5b22d00-4d7e-4c78-9236-ef3a49743fab",
+  },
+  {
+    "ID": "c5f5bb7a-3162-4e4b-86ac-1e5121fa4383",
+  },
+  {
+    "ID": "c5f648b2-b682-41a7-a27c-0335bf0d66a2",
+  },
+  {
+    "ID": "c666b7c3-903f-41ab-a277-95b7f4edcfd5",
+  },
+  {
+    "ID": "c6784b0c-94c8-4362-9ec7-53f7e0bc45dc",
+  },
+  {
+    "ID": "c6b8c5e8-7d80-4d8f-a5bb-2f1d48ef41be",
+  },
+  {
+    "ID": "c6ffe8ee-5c19-4ac6-8043-050154c47014",
+  },
+  {
+    "ID": "c734a06d-a8d1-4e0f-9b72-b6be88dfa2c9",
+  },
+  {
+    "ID": "c74dfef4-c8b8-45d3-9b0b-d8adbac4a97f",
+  },
+  {
+    "ID": "c8135642-833c-4297-9efb-8efe7cb264d5",
+  },
+  {
+    "ID": "c8231d4b-98cc-496e-ac44-b261c96dc2ef",
+  },
+  {
+    "ID": "c8aa6279-eaed-436a-af54-8733824e17c3",
+  },
+  {
+    "ID": "c9584272-dc9c-4f25-8daa-02a98558d9f5",
   },
   {
     "ID": "utility",
@@ -445,8 +4663,410 @@
     "Button": [
       {
         "Text": "Calendario",
-        "ID": "calendario"
+        "ID": "utility_calendario"
       }
     ]
+  },
+  {
+    "ID": "utility_calendario",
+    "Text": "Categoria selezionata: Calendario\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Festività Italiane",
+        "ID": "caa980b0-a9e2-48ad-8b30-eb7ed16a4274"
+      }
+    ]
+  },
+  {
+    "ID": "caa980b0-a9e2-48ad-8b30-eb7ed16a4274",
+  },
+  {
+    "ID": "cb10965a-0627-4954-bf68-d19fc542edf0",
+  },
+  {
+    "ID": "cb239a08-3fd1-41cb-b283-252ce2781baa",
+  },
+  {
+    "ID": "cb2a1b00-12bc-4c27-84d4-c0082ad48639",
+  },
+  {
+    "ID": "cb93b3fe-ca6c-486e-b270-f5dced8979e2",
+  },
+  {
+    "ID": "cc0d96b2-b69e-456d-9499-c3632afd6b76",
+  },
+  {
+    "ID": "ccc134cf-1bc8-422a-b365-602cf6af51b9",
+  },
+  {
+    "ID": "cdca436d-bbef-435c-aa02-3c1ecfa0519e",
+  },
+  {
+    "ID": "ce081ba7-a833-4317-8779-69af5c0769c2",
+  },
+  {
+    "ID": "ce1f180b-33a8-440d-b3d0-a8ffdf98970e",
+  },
+  {
+    "ID": "ce24d753-9b03-4992-8418-03809f2dac62",
+  },
+  {
+    "ID": "ce975fae-cf22-4b62-b0a1-56d08672b6f9",
+  },
+  {
+    "ID": "cfd64544-04b1-4725-ab1a-694267b5ea77",
+  },
+  {
+    "ID": "d08a2166-78b3-4d69-abf7-deb03b4fa050",
+  },
+  {
+    "ID": "d1e0a769-905d-4d0e-a5bb-5d75bbe6a778",
+  },
+  {
+    "ID": "d20803fa-b438-4406-a6f4-ffc16813d9eb",
+  },
+  {
+    "ID": "d2372387-6483-4500-b29c-c7e74b239db4",
+  },
+  {
+    "ID": "d291c233-0c75-4814-88f5-1de787dc1aec",
+  },
+  {
+    "ID": "d2984730-4b45-4de3-aec5-e7ce13cb0821",
+  },
+  {
+    "ID": "d2f61600-5809-49ae-9129-b598578b4e65",
+  },
+  {
+    "ID": "d39a0f7b-454a-4091-ab3b-7086c24ab7c9",
+  },
+  {
+    "ID": "d3d88857-edac-49e6-83a0-2c7ad7e9934c",
+  },
+  {
+    "ID": "d4037922-3b5d-4f63-ab20-613ded471468",
+  },
+  {
+    "ID": "d4a3ecc9-cfba-406c-a158-ad1e0621aed2",
+  },
+  {
+    "ID": "d5b1d476-4e1a-48d1-b5bc-c4f7bea677d1",
+  },
+  {
+    "ID": "d5ee68e6-6262-4544-a919-05ea616537c5",
+  },
+  {
+    "ID": "d7709275-eaaf-43b5-9f40-d04666f6ddca",
+  },
+  {
+    "ID": "d825a19f-535b-40e7-87f1-3cf28fb1800f",
+  },
+  {
+    "ID": "d8cbf3a8-8de7-4226-bb44-a24e0cd3a98e",
+  },
+  {
+    "ID": "d8db9102-52ef-4a7c-b078-c4d55a9d7c17",
+  },
+  {
+    "ID": "d94a5009-ab1d-4662-97c0-eae96ef3ccc6",
+  },
+  {
+    "ID": "d9cd8106-44db-465d-8ae9-dc5e9ae08cc9",
+  },
+  {
+    "ID": "da25915b-b363-4548-9f24-c8cd6c2e6f64",
+  },
+  {
+    "ID": "dada585c-5f7a-42df-946f-155749282eb8",
+  },
+  {
+    "ID": "dba7d4cc-0cc6-4874-ae47-30658bde67ce",
+  },
+  {
+    "ID": "dd5082f9-1d68-45fa-b898-9e845c3321dd",
+  },
+  {
+    "ID": "de704fd2-6cd0-4243-a30f-7f72c4c834d8",
+  },
+  {
+    "ID": "de831e61-bee5-47bb-8f59-a6debafed175",
+  },
+  {
+    "ID": "de8b6a5d-47ed-4825-af0e-7b205145058a",
+  },
+  {
+    "ID": "deb76529-f50b-4dea-aead-d1ac11739d50",
+  },
+  {
+    "ID": "dedd4bc0-70e6-4e28-8338-395e1e98f77a",
+  },
+  {
+    "ID": "df086ee8-a151-4426-9d70-791190ac8498",
+  },
+  {
+    "ID": "df2f7e59-5c50-4050-b416-0097a3351a25",
+  },
+  {
+    "ID": "df44c1be-70c2-48b0-8a89-b05b7e913e4d",
+  },
+  {
+    "ID": "df720823-b409-4b7d-99e6-01fedd474f4c",
+  },
+  {
+    "ID": "df836bdd-f428-4991-bab0-33fbe8ad5c3f",
+  },
+  {
+    "ID": "e0096cd6-5e92-46c5-870e-eccd71a3d7dc",
+  },
+  {
+    "ID": "e10c9e7c-f7e5-40b9-a0f3-570405295de3",
+  },
+  {
+    "ID": "e1e5eb1b-cbd8-4c92-8e1d-423dacb983b2",
+  },
+  {
+    "ID": "e22cc918-64cb-4015-9f35-49709a3c631c",
+  },
+  {
+    "ID": "e2f43a12-ecdd-4e0e-8492-3d6596b2e6f5",
+  },
+  {
+    "ID": "e3ed4772-9108-43bf-bf20-c1c949f8e2d5",
+  },
+  {
+    "ID": "e40dae25-1e1f-44a7-9fa9-8f8912b68916",
+  },
+  {
+    "ID": "e4dba54f-8671-434c-aa9e-fa91ab76928d",
+  },
+  {
+    "ID": "e516b4b3-0d19-4c07-92bc-990fa9486bf2",
+  },
+  {
+    "ID": "e54b97c9-969b-4072-b772-68a185dc0367",
+  },
+  {
+    "ID": "e592333c-0521-45f1-8414-d13a29a76446",
+  },
+  {
+    "ID": "e5d5e51f-63cc-4fa1-9908-3bb56d76cf21",
+  },
+  {
+    "ID": "e5f6cb95-df3c-44c8-aad8-f6db25f5d070",
+  },
+  {
+    "ID": "e60e7271-e96a-43aa-aad8-c9f9f562a778",
+  },
+  {
+    "ID": "e646eb67-a293-487e-9a95-ff4e334ad02e",
+  },
+  {
+    "ID": "e6956fd9-aff6-4cda-88a1-ef38b1426136",
+  },
+  {
+    "ID": "e7143f9c-bcd2-4d56-acbf-91eb9d93638d",
+  },
+  {
+    "ID": "e7859681-4a2b-4570-9929-7a8867cced2d",
+  },
+  {
+    "ID": "e7cea3be-472b-40e2-ba56-b4aa5b3248cc",
+  },
+  {
+    "ID": "e82d0e09-0e55-4a7e-8f90-dd46cc94012b",
+  },
+  {
+    "ID": "e97125b4-733e-4ce3-93ac-68fd7644f88e",
+  },
+  {
+    "ID": "e985f5b4-5368-4997-a7f5-939ddd073f63",
+  },
+  {
+    "ID": "e9bf8ffb-8376-47ef-970d-d6227e052e1a",
+  },
+  {
+    "ID": "e9e002d9-72fe-4bec-83b8-d4f88ef5b7f7",
+  },
+  {
+    "ID": "ea2a2e54-9f31-4ff4-97ef-a57d5422d7f1",
+  },
+  {
+    "ID": "ea738df5-344b-481d-9f4d-d22bff687564",
+  },
+  {
+    "ID": "eac37843-3f91-4b28-80ef-63a651970ded",
+  },
+  {
+    "ID": "eb7df4b2-785d-4ef6-954a-8f03c1973f47",
+  },
+  {
+    "ID": "ebe4de96-2712-4116-bfc2-eb2e6df2bf40",
+  },
+  {
+    "ID": "eccaa241-1428-4f75-9c44-b0e61069fa17",
+  },
+  {
+    "ID": "ecf827eb-520a-4690-8c49-6e2a24a7ee70",
+  },
+  {
+    "ID": "ed126ca1-b1d2-4071-9e0d-53cb512e5c13",
+  },
+  {
+    "ID": "ee03437c-74b5-48f3-8c04-a4b452a49f4f",
+  },
+  {
+    "ID": "carate-brianza_mercato",
+    "Text": "Categoria selezionata: Mercati\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "CARATE BRIANZA - PIAZZA CADUTI PER LA LIBERAZIONE",
+        "ID": "eee7eb4e-b198-469f-9ab6-c3152c3e214c"
+      }
+    ]
+  },
+  {
+    "ID": "eee7eb4e-b198-469f-9ab6-c3152c3e214c",
+  },
+  {
+    "ID": "eefbffb9-2e95-40cd-9e6c-3aaa57688215",
+  },
+  {
+    "ID": "ef2be077-b3f8-46d1-859a-6b70b0db47cb",
+  },
+  {
+    "ID": "f08457f5-61ff-4b98-83f8-7f0b7af7c2a8",
+  },
+  {
+    "ID": "f09554bd-723f-429d-93ab-49baae348c92",
+  },
+  {
+    "ID": "f0a8da83-d24f-41ce-84f3-76d1d5239e98",
+  },
+  {
+    "ID": "f126172a-975d-42de-b20f-523c0100f28f",
+  },
+  {
+    "ID": "f13b7b1b-1d42-4fab-ab26-940edb2efd8c",
+  },
+  {
+    "ID": "f262c8f0-6889-43e5-a3cb-0eb273139f37",
+  },
+  {
+    "ID": "f27fdb16-366e-4aa4-b37e-cf0b9df684a7",
+  },
+  {
+    "ID": "f312dc03-51cb-4251-8fb1-37e18b23c969",
+  },
+  {
+    "ID": "f442a570-b7fe-4ad5-94d8-c2d68032de13",
+  },
+  {
+    "ID": "f447502f-2fcf-4db9-b6b6-5edc6fc85784",
+  },
+  {
+    "ID": "f480fef7-6a93-4518-a9dd-0eaa4d40f46e",
+  },
+  {
+    "ID": "f5dc6d9e-bcd6-4bfe-b1d1-a4d38f35d5bc",
+  },
+  {
+    "ID": "f5f1c7c3-96cb-42b9-972a-785853e8eeba",
+  },
+  {
+    "ID": "f609040e-0db4-4f6b-a27c-63fc9b9848a0",
+  },
+  {
+    "ID": "f61757ca-179c-4e00-86e1-2fbf47b3ee62",
+  },
+  {
+    "ID": "f658bc16-1ec6-4f98-8653-b360898aac34",
+  },
+  {
+    "ID": "f6650da8-41ad-4bc7-bd4d-8b55f05d9f71",
+  },
+  {
+    "ID": "f66b14aa-e44f-423f-a2e7-5b91695fe3fe",
+  },
+  {
+    "ID": "f6ed4e00-26fc-4333-8410-e0b43f615da0",
+  },
+  {
+    "ID": "f801d825-77bd-40d9-bb02-6befcf852dd2",
+  },
+  {
+    "ID": "f8821a47-6add-422d-a5a4-a50478b774d7",
+  },
+  {
+    "ID": "f8d5f146-ca87-433b-85e4-50eec94759ab",
+  },
+  {
+    "ID": "f8e4373e-e753-4be5-98f4-69586f9c998c",
+  },
+  {
+    "ID": "f906adca-ce39-4f39-b4bd-380d10fb91c9",
+  },
+  {
+    "ID": "f9433be5-abc5-4f8e-a7c8-b0d63faa3146",
+  },
+  {
+    "ID": "f9bcf308-bdd4-4580-aa46-9e2900db2f3f",
+  },
+  {
+    "ID": "f9da966c-e4a2-4608-8a00-5d29fe906db0",
+  },
+  {
+    "ID": "fa03a0ae-5324-490d-839a-383bd2fdd21d",
+  },
+  {
+    "ID": "fb3bd37a-f565-4396-8d59-474d45f63b30",
+  },
+  {
+    "ID": "fb75789f-59e2-482b-99a2-d1fe21c0d41e",
+  },
+  {
+    "ID": "fc156f5d-6632-4e37-a365-79a1cb503d19",
+  },
+  {
+    "ID": "fc480ef8-3024-49e7-9f68-3e9df872bbd5",
+  },
+  {
+    "ID": "fcccc1aa-013a-486a-872e-18c0b8241fb1",
+  },
+  {
+    "ID": "desio_comune",
+    "Text": "Categoria selezionata: ~ Comune\r\nSeleziona elemento",
+    "Button": [
+      {
+        "Text": "Ufficio Servizi Demografici - Desio",
+        "ID": "fcfff603-cd54-4360-8311-9ee055063d76"
+      }
+    ]
+  },
+  {
+    "ID": "fcfff603-cd54-4360-8311-9ee055063d76",
+  },
+  {
+    "ID": "fd5831da-b9b3-4421-bffa-d08c761df6eb",
+  },
+  {
+    "ID": "fdab0a06-7209-46b3-be91-7b2a9e7788b2",
+  },
+  {
+    "ID": "fdffdccc-5869-4e88-a244-312713aeb92b",
+  },
+  {
+    "ID": "fe02ae3a-10f6-451d-aa80-bd8e889a57d3",
+  },
+  {
+    "ID": "fe6a78ca-c86a-44b3-80c4-08f8f7733061",
+  },
+  {
+    "ID": "feb8de48-ff43-4599-9916-2829395e56f0",
+  },
+  {
+    "ID": "ffe04c4d-f30b-4f7f-869d-208e034eebaf",
+  },
+  {
+    "ID": "fff8c543-51b4-4d7f-93d4-13599caea0c1",
   }
 ]
