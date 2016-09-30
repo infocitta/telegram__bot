@@ -18,6 +18,7 @@
     	{"Text": "Gruppo chat per suggerimenti", "URL": "https://telegram.me/infocitta"},
     	{"Text": "Sorgente menu su GitHub", "URL": "https://github.com/infocitta/telegram_bot/blob/master/bot_monza.json"},
 	{"Text": "Wiki menu su GitHub", "URL": "https://github.com/ipersoft/telegram_bot/wiki"},
+	{"Text": "BOT Demo funzionalità", "URL": "https://telegram.me/DemoIpersoftBot"},
     	{"Text": ":back: Menu precedente","ID": "HOME"}]
   },
   {
