@@ -76,7 +76,7 @@
 ,
   {
     "ID": "monza",
-    "Text": "Seleziona categoria",
+    "Text": "Seleziona categoria\nDati Open Lombardia",
     "Button": [
       {
         "Text": "Asilo nido",
