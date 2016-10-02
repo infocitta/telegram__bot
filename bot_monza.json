@@ -72,8 +72,7 @@
     
   }
 
-
-,
+ ,
   {
     "ID": "monza",
     "Text": "Seleziona categoria\nDati Open Lombardia",
@@ -87,128 +86,8 @@
         "ID": "monza_materna"
       },
       {
-        "Text": "Scuola primaria",
-        "ID": "monza_elementare"
-      },
-      {
-        "Text": "Scuola secondaria di primo grado",
-        "ID": "monza_medie"
-      },
-      {
-        "Text": "Scuola secondaria di secondo grado",
-        "ID": "monza_superiori"
-      },
-      {
         "Text": ":back: Indietro",
         "ID": "HOME"
-      }
-    ]
-  },
-  {
-    "ID": "monza_elementare",
-    "Text": "Categoria selezionata: Scuola primaria\r\nSeleziona elemento",
-    "Button": [
-      {
-        "Text": "Elementare  De Amicis",
-        "ID": "DB7141EA-323A-4BBF-BD12-75A153532A2B"
-      },
-      {
-        "Text": "Primaria -   Anzani 2",
-        "ID": "2A017882-450B-4CD5-A23A-9BDA9943B9CD"
-      },
-      {
-        "Text": "Primaria -   Iqbal Masih",
-        "ID": "765C4D6C-15A8-406B-8605-3F0ADA17248D"
-      },
-      {
-        "Text": "Primaria -   Raiberti",
-        "ID": "6C0D46BF-8501-4BF6-950C-A2F429C8AD80"
-      },
-      {
-        "Text": "Primaria -   Rodari",
-        "ID": "2AA61F2B-BC1D-4DE2-8D50-B01192421A9F"
-      },
-      {
-        "Text": "Primaria -   Rubinowicz",
-        "ID": "00454123-D7DF-42F3-B8DB-D9ACCA849DA9"
-      },
-      {
-        "Text": "Primaria - Alfieri",
-        "ID": "13350347-D25D-4D19-81CC-8AD170D8A87C"
-      },
-      {
-        "Text": "Primaria - Bachelet",
-        "ID": "E852FFBB-66D5-4F1C-B603-41E11B0C5EEE"
-      },
-      {
-        "Text": "Primaria - Buonarroti",
-        "ID": "B05827D0-B3B2-4272-B7EC-C376108D1F97"
-      },
-      {
-        "Text": "Primaria - C O Istituto Osped. S. Gerardo",
-        "ID": "E3DCAB01-8885-491C-841E-CE1133427A4F"
-      },
-      {
-        "Text": "Primaria - Citterio",
-        "ID": "F05F926F-C883-4777-B019-72B12E1D3B57"
-      },
-      {
-        "Text": "Primaria - Dante",
-        "ID": "5F24D3A1-E045-4FAB-9EE7-A1485F4578D3"
-      },
-      {
-        "Text": "Primaria - Don Lorenzo Milani",
-        "ID": "8561039E-5851-43B5-B608-F80254095B67"
-      },
-      {
-        "Text": "Primaria - Manzoni",
-        "ID": "E7826179-9D4C-40BE-94C8-51E6E31CAD02"
-      },
-      {
-        "Text": "Primaria - Munari",
-        "ID": "2F144DE6-8B2F-489E-870C-B3086C0C27F4"
-      },
-      {
-        "Text": "Primaria - Puecher",
-        "ID": "BC4BAA8F-6B2D-4B3B-8D2B-CE206B72CF28"
-      },
-      {
-        "Text": "Primaria - S. Alessandro",
-        "ID": "46F830A4-11A2-4DFD-BDB1-22EA4086B396"
-      },
-      {
-        "Text": "Primaria - S. Alessandro",
-        "ID": "967B7F74-57D9-404B-B093-43998229E85E"
-      },
-      {
-        "Text": "Primaria - Salvo D'Acquisto",
-        "ID": "45005E61-85BB-4A3D-9462-43A692FF2120"
-      },
-      {
-        "Text": "Primaria - Tacoli",
-        "ID": "99DDFFC9-ED0B-4568-B251-6ECE3E45C1D2"
-      },
-      {
-        "Text": "Primaria - Volta",
-        "ID": "60972086-F834-41F2-A0CD-09E547557E21"
-      },
-      {
-        "Text": "Primaria - Zara",
-        "ID": "83CBC324-6C61-4877-9357-6FC4CA5C7796"
-      },
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza"
-      }
-    ]
-  },
-  {
-    "ID": "00454123-D7DF-42F3-B8DB-D9ACCA849DA9",
-    "Text": "Primaria -   Rubinowicz\r\n\r\nIndirizzo\r\nVIA MAGELLANO 44 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
       }
     ]
   },
@@ -381,210 +260,12 @@
     ]
   },
   {
-    "ID": "monza_medie",
-    "Text": "Categoria selezionata: Scuola secondaria di primo grado\r\nSeleziona elemento",
-    "Button": [
-      {
-        "Text": "Scuola Media  c/o IstitutoS. Gerardo",
-        "ID": "6E5AA3D7-D225-4067-9C63-E1616621D41F"
-      },
-      {
-        "Text": "Secondaria Primo Grado - ArdigÃ² Bellani",
-        "ID": "0FF26D54-A8AA-4238-B949-33BA63E7ED35"
-      },
-      {
-        "Text": "Secondaria Primo Grado - Confalonieri",
-        "ID": "B5A0A49F-C448-4AF2-BF94-8ABB1A2F5744"
-      },
-      {
-        "Text": "Secondaria Primo Grado - Elisa Sala",
-        "ID": "0EADE3DB-E74A-4193-96AD-BEE343FCAC12"
-      },
-      {
-        "Text": "Secondaria Primo Grado - Pertini",
-        "ID": "1F80B8A9-94FE-43E6-80BE-B4F81A28DFD9"
-      },
-      {
-        "Text": "Secondaria Primo Grado - Sabin",
-        "ID": "97B43B0C-5309-440D-80AB-AE79455B4D8E"
-      },
-      {
-        "Text": "Secondaria Primo Grado - Zucchi",
-        "ID": "81B1279C-95D6-4D58-9068-50E9B6921398"
-      },
-      {
-        "Text": "Secondaria Primo Grado ArdigÃ² Bellani",
-        "ID": "DABBCA14-E453-4B96-B045-198CF796D48C"
-      },
-      {
-        "Text": "Secondaria Primo Grado Confalonieri",
-        "ID": "482DD672-639E-491B-8D30-4016DE420170"
-      },
-      {
-        "Text": "Secondaria Primo Grado L. da Vinci",
-        "ID": "1007E83D-7FFF-42BE-97B6-C1BD00F832CC"
-      },
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza"
-      }
-    ]
-  },
-  {
-    "ID": "0EADE3DB-E74A-4193-96AD-BEE343FCAC12",
-    "Text": "Secondaria Primo Grado - Elisa Sala\r\n\r\nTelefono\r\n39386471\r\n\r\nFax\r\n39386471\r\n\r\nIndirizzo\r\nVIA SGAMBATI  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
-      }
-    ]
-  },
-  {
-    "ID": "0FF26D54-A8AA-4238-B949-33BA63E7ED35",
-    "Text": "Secondaria Primo Grado - ArdigÃ² Bellani\r\n\r\nIndirizzo\r\nVIA MAGELLANO  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
-      }
-    ]
-  },
-  {
-    "ID": "1007E83D-7FFF-42BE-97B6-C1BD00F832CC",
-    "Text": "Secondaria Primo Grado L. da Vinci\r\n\r\nIndirizzo\r\nVIA MONTE AMIATA  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
-      }
-    ]
-  },
-  {
     "ID": "12165477-3534-4771-8AC8-4DA68994E628",
     "Text": "LE CILIEGINE\r\n\r\nTelefono\r\n039 2339104\r\n\r\nFax\r\n02 4237239\r\n\r\nEmail\r\nleciliegine@hsgerardo.org\r\n\r\nIndirizzo\r\nVIA PERGOLESI G.  33 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_asilonido"
-      }
-    ]
-  },
-  {
-    "ID": "13350347-D25D-4D19-81CC-8AD170D8A87C",
-    "Text": "Primaria - Alfieri\r\n\r\nIndirizzo\r\nVIA S. FRUTTUOSO 15 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
-    "ID": "monza_superiori",
-    "Text": "Categoria selezionata: Scuola secondaria di secondo grado\r\nSeleziona elemento",
-    "Button": [
-      {
-        "Text": "I. P. Servizi - Olivetti",
-        "ID": "42A45E64-16FB-46CB-9629-744D1AE13EA0"
-      },
-      {
-        "Text": "I. P. Servizi - Olivetti (serale)",
-        "ID": "A02F3BDA-3DF4-437E-9D0E-D13C948DB457"
-      },
-      {
-        "Text": "I. T. Economico e tecnologico - Mapelli",
-        "ID": "8AB25C7C-9E16-4223-B166-8F76A61F14F8"
-      },
-      {
-        "Text": "I.P.Industria e Artigianato -Monza",
-        "ID": "5D47A4E9-1284-49A6-A13F-AB08077753EC"
-      },
-      {
-        "Text": "I.P.Industria e Artigianato -Monza (serale)",
-        "ID": "A660A6A7-E040-4239-BCB5-073EE4B6E859"
-      },
-      {
-        "Text": "I.T. Tecnologico -  Hensemberger",
-        "ID": "245448A6-E46A-4189-BBD7-3A38CFC887FA"
-      },
-      {
-        "Text": "I.T. Tecnologico -  Hensemberger",
-        "ID": "C7945DA4-5A65-4C3E-B4C2-C8232F55317D"
-      },
-      {
-        "Text": "I.T. Tecnologico - Hensemberger (serale)",
-        "ID": "BC882663-3BAB-4AB7-98B0-589D1A992E96"
-      },
-      {
-        "Text": "I.T. Tecnologico - Monza",
-        "ID": "CABEBCF4-A84E-46F0-A49D-D319343B6666"
-      },
-      {
-        "Text": "I.T.Economico e Tecnologico - G. Bianchi",
-        "ID": "70D0E9EE-8954-49DE-B591-826834780C40"
-      },
-      {
-        "Text": "I.T.Economico e Tecnologico - G. Bianchi (serale)",
-        "ID": "6CF2B0BC-C3A9-4EF4-88A8-04E750221837"
-      },
-      {
-        "Text": "L. Artistico - di Monza Via Magenta",
-        "ID": "832BD494-1A69-48D1-9C64-820654AB4DDD"
-      },
-      {
-        "Text": "L. Artistico - Monza Via Boccaccio",
-        "ID": "63EE2565-363C-457D-9D2D-07DFF35B79EE"
-      },
-      {
-        "Text": "L. Classico - Zucchi",
-        "ID": "CEEEC69D-8B26-43B5-8C7F-55DC9A58DDEE"
-      },
-      {
-        "Text": "L. Musicale - Zucchi",
-        "ID": "52DCE7F9-7019-42D1-AAA5-D4F82A71D73B"
-      },
-      {
-        "Text": "L. Scientifico - -Frisi",
-        "ID": "DFA8228F-40DE-4592-8883-9550DB47E026"
-      },
-      {
-        "Text": "L. Scientifico Frisi",
-        "ID": "8FB6C518-9DB1-4077-9E26-7ECFEDE96AEC"
-      },
-      {
-        "Text": "L. Scientifico Mapelli",
-        "ID": "BA9CFF88-7977-4357-9739-E765014DB6FB"
-      },
-      {
-        "Text": "L. Scienze Umane - Porta",
-        "ID": "1F278ED2-4B6C-4B5A-B4CF-2F5F6B4B951E"
-      },
-      {
-        "Text": "L.Linguistico -  Bianchi",
-        "ID": "9593D23B-DFAD-437A-954E-DDF3BE0EB8E8"
-      },
-      {
-        "Text": "L.Linguistico - Porta",
-        "ID": "7E63302F-E5EC-400B-A8DE-0A4052F0B777"
-      },
-      {
-        "Text": "L.Scientifico -  Hensemberger",
-        "ID": "138AC2E6-FF34-47E2-AB32-2CA3C66458CF"
-      },
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza"
-      }
-    ]
-  },
-  {
-    "ID": "138AC2E6-FF34-47E2-AB32-2CA3C66458CF",
-    "Text": "L.Scientifico -  Hensemberger\r\n\r\nIndirizzo\r\nVIA BERCHET 2 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
       }
     ]
   },
@@ -769,42 +450,12 @@
     ]
   },
   {
-    "ID": "1F278ED2-4B6C-4B5A-B4CF-2F5F6B4B951E",
-    "Text": "L. Scienze Umane - Porta\r\n\r\nIndirizzo\r\nVIA POLIZIANO 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
-    "ID": "1F80B8A9-94FE-43E6-80BE-B4F81A28DFD9",
-    "Text": "Secondaria Primo Grado - Pertini\r\n\r\nFax\r\n392003037\r\n\r\nEmail\r\nkoine.monza@tiscali.it\r\n\r\nIndirizzo\r\nVIA GENTILI 20 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
-      }
-    ]
-  },
-  {
     "ID": "23E9E0D0-6F69-444D-8D6B-731C4E7B8984",
     "Text": "Collegio Bianconi\r\n\r\nTelefono\r\n039363381\r\n\r\nEmail\r\nsegreteria@collegio-bianconi.it\r\n\r\nIndirizzo\r\nVIA Q.SELLA 6 A MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_materna"
-      }
-    ]
-  },
-  {
-    "ID": "245448A6-E46A-4189-BBD7-3A38CFC887FA",
-    "Text": "I.T. Tecnologico -  Hensemberger\r\n\r\nFax\r\n39322122\r\n\r\nEmail\r\ninfo@hensemberger.it\r\n\r\nIndirizzo\r\nVIA BERCHET 2 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
       }
     ]
   },
@@ -819,16 +470,6 @@
     ]
   },
   {
-    "ID": "2A017882-450B-4CD5-A23A-9BDA9943B9CD",
-    "Text": "Primaria -   Anzani 2\r\n\r\nFax\r\n39832253\r\n\r\nEmail\r\nquarto-circolo-monza@libero.it\r\n\r\nIndirizzo\r\nVIA CORREGGIO 27 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
     "ID": "2A1FBC75-0916-4D6F-BC3D-8BB06D2C732E",
     "Text": "Collegio Villoresi San Giuseppe\r\n\r\nTelefono\r\n039839041\r\n\r\nEmail\r\nsegreteria@collegiovilloresi.it\r\n\r\nIndirizzo\r\nVIA MONTI E TOGNETTI 10 MONZA\r\n",
     "Button": [
@@ -839,72 +480,12 @@
     ]
   },
   {
-    "ID": "2AA61F2B-BC1D-4DE2-8D50-B01192421A9F",
-    "Text": "Primaria -   Rodari\r\n\r\nIndirizzo\r\nVIA TOSI 5 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
     "ID": "2E30217D-2449-45F4-9084-6F4F5D698E35",
     "Text": "L'ARCOBALENO\r\n\r\nTelefono\r\n039 833532\r\n\r\nEmail\r\nfederica.arosio@live.it\r\n\r\nIndirizzo\r\nVIA NEGRELLI LUIGI  21 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_asilonido"
-      }
-    ]
-  },
-  {
-    "ID": "2F144DE6-8B2F-489E-870C-B3086C0C27F4",
-    "Text": "Primaria - Munari\r\n\r\nIndirizzo\r\nVIA MARCHE 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
-    "ID": "42A45E64-16FB-46CB-9629-744D1AE13EA0",
-    "Text": "I. P. Servizi - Olivetti\r\n\r\nTelefono\r\n39324627\r\n\r\nFax\r\n39323397\r\n\r\nEmail\r\nolivetti.monza@tiscalinet.it\r\n\r\nIndirizzo\r\nVIA LECCO 12 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
-    "ID": "45005E61-85BB-4A3D-9462-43A692FF2120",
-    "Text": "Primaria - Salvo D'Acquisto\r\n\r\nTelefono\r\n39386471\r\n\r\nFax\r\n39386471\r\n\r\nEmail\r\nsegreteriaicdacquisto@hotmail.com\r\n\r\nIndirizzo\r\nVIA NAZARIO PAGANINI 30 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
-    "ID": "46F830A4-11A2-4DFD-BDB1-22EA4086B396",
-    "Text": "Primaria - S. Alessandro\r\n\r\nIndirizzo\r\nVIA S.ALESSANDRO  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
-    "ID": "482DD672-639E-491B-8D30-4016DE420170",
-    "Text": "Secondaria Primo Grado Confalonieri\r\n\r\nIndirizzo\r\nVIA SAN MARTINO  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
       }
     ]
   },
@@ -939,16 +520,6 @@
     ]
   },
   {
-    "ID": "52DCE7F9-7019-42D1-AAA5-D4F82A71D73B",
-    "Text": "L. Musicale - Zucchi\r\n\r\nTelefono\r\n39323434\r\n\r\nFax\r\n39321796\r\n\r\nEmail\r\nliceozucchi@liceozucchi.it\r\n\r\nIndirizzo\r\nPIAZZA TRENTO E TRIESTE 6 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
     "ID": "5755B643-B277-4F5F-B10C-7B353543B19A",
     "Text": "BIMBIINSIEME\r\n\r\nTelefono\r\n039 321533\r\n\r\nFax\r\n039 2316656\r\n\r\nEmail\r\nbimbinsieme@novomillenio.it\r\n\r\nIndirizzo\r\nVIA MAGENTA  4 MONZA\r\n",
     "Button": [
@@ -969,52 +540,12 @@
     ]
   },
   {
-    "ID": "5D47A4E9-1284-49A6-A13F-AB08077753EC",
-    "Text": "I.P.Industria e Artigianato -Monza\r\n\r\nFax\r\n392003475\r\n\r\nEmail\r\nipsia.monza@libero.it\r\n\r\nIndirizzo\r\nVIA MONTEGRAPPA 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
-    "ID": "5F24D3A1-E045-4FAB-9EE7-A1485F4578D3",
-    "Text": "Primaria - Dante\r\n\r\nIndirizzo\r\nVIA PACINOTTI 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
-    "ID": "60972086-F834-41F2-A0CD-09E547557E21",
-    "Text": "Primaria - Volta\r\n\r\nIndirizzo\r\nVIA A. VOLTA  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
     "ID": "61EA2EF1-D76B-4CFA-B1DB-83F218A3088C",
     "Text": "Scuola Materna Cuore Immacolato Di Maria\r\n\r\nTelefono\r\n0392020063\r\n\r\nEmail\r\nmaterna.cristore@libero.it\r\n\r\nIndirizzo\r\nVIA PARMENIDE 3 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_materna"
-      }
-    ]
-  },
-  {
-    "ID": "63EE2565-363C-457D-9D2D-07DFF35B79EE",
-    "Text": "L. Artistico - Monza Via Boccaccio\r\n\r\nFax\r\n39324810\r\n\r\nEmail\r\nisamonza@tin.it\r\n\r\nIndirizzo\r\nVIA BOCCACCIO 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
       }
     ]
   },
@@ -1049,42 +580,12 @@
     ]
   },
   {
-    "ID": "6C0D46BF-8501-4BF6-950C-A2F429C8AD80",
-    "Text": "Primaria -   Raiberti\r\n\r\nFax\r\n39322106\r\n\r\nEmail\r\nmiee00n@istruzione.it\r\n\r\nIndirizzo\r\nVIA RAIBERTI 4 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
-    "ID": "6CF2B0BC-C3A9-4EF4-88A8-04E750221837",
-    "Text": "I.T.Economico e Tecnologico - G. Bianchi (serale)\r\n\r\nIndirizzo\r\nVIA DELLA MINERVA 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
     "ID": "6D1C2CE2-9B46-4D3D-8D46-55DC68B55FC7",
     "Text": "IL BOSCO DELLE MERAVIGLIE MONZA\r\n\r\nTelefono\r\n348 6095569\r\n\r\nIndirizzo\r\nVIA TACCONA  16 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_asilonido"
-      }
-    ]
-  },
-  {
-    "ID": "6E5AA3D7-D225-4067-9C63-E1616621D41F",
-    "Text": "Scuola Media  c/o IstitutoS. Gerardo\r\n\r\nIndirizzo\r\nVIA RAMAZZOTTI  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
       }
     ]
   },
@@ -1105,16 +606,6 @@
       {
         "Text": ":back: Indietro",
         "ID": "monza_asilonido"
-      }
-    ]
-  },
-  {
-    "ID": "70D0E9EE-8954-49DE-B591-826834780C40",
-    "Text": "I.T.Economico e Tecnologico - G. Bianchi\r\n\r\nTelefono\r\n39235941\r\n\r\nFax\r\n39320260\r\n\r\nEmail\r\nscuola@iisbianchi.it\r\n\r\nIndirizzo\r\nVIA DELLA MINERVA 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
       }
     ]
   },
@@ -1149,16 +640,6 @@
     ]
   },
   {
-    "ID": "765C4D6C-15A8-406B-8605-3F0ADA17248D",
-    "Text": "Primaria -   Iqbal Masih\r\n\r\nIndirizzo\r\nVIA L.DELLA ROBBIA 20 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
     "ID": "7A4175B5-FFA6-441D-BE37-81573524AB80",
     "Text": "PICCOLE STELLE\r\n\r\nTelefono\r\n039 735213  349 3805202\r\n\r\nEmail\r\nasspiccolestelle@alice.it\r\n\r\nIndirizzo\r\nVIA DORIA ANDREA  1 MONZA\r\n",
     "Button": [
@@ -1189,16 +670,6 @@
     ]
   },
   {
-    "ID": "7E63302F-E5EC-400B-A8DE-0A4052F0B777",
-    "Text": "L.Linguistico - Porta\r\n\r\nTelefono\r\n392023118\r\n\r\nFax\r\n39835385\r\n\r\nEmail\r\ninfo@carloporta.it\r\n\r\nIndirizzo\r\nVIA DELLA GUERRINA 15 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
     "ID": "7FD5F6DC-5710-404E-8D92-599A660C16CD",
     "Text": "EFFEPI DI EFFEPI SRL\r\n\r\nTelefono\r\n039  835627\r\n\r\nFax\r\n39835627.0\r\n\r\nEmail\r\nasiloeffepi@gmail.com\r\n\r\nIndirizzo\r\nVIA CEDERNA ANTONIO  38 MONZA\r\n",
     "Button": [
@@ -1219,62 +690,12 @@
     ]
   },
   {
-    "ID": "81B1279C-95D6-4D58-9068-50E9B6921398",
-    "Text": "Secondaria Primo Grado - Zucchi\r\n\r\nFax\r\n3920048762007804\r\n\r\nEmail\r\npuechermonza@tiscali.it\r\n\r\nIndirizzo\r\nVIA TOSCANA 10 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
-      }
-    ]
-  },
-  {
-    "ID": "832BD494-1A69-48D1-9C64-820654AB4DDD",
-    "Text": "L. Artistico - di Monza Via Magenta\r\n\r\nIndirizzo\r\nVIA MAGENTA 4 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
-    "ID": "83CBC324-6C61-4877-9357-6FC4CA5C7796",
-    "Text": "Primaria - Zara\r\n\r\nIndirizzo\r\nVIA CARAVAGGIO ANG ZARA  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
-    "ID": "8561039E-5851-43B5-B608-F80254095B67",
-    "Text": "Primaria - Don Lorenzo Milani\r\n\r\nFax\r\n392720792\r\n\r\nEmail\r\nmontebisbino@virgilio.it\r\n\r\nIndirizzo\r\nVIA MONTE BISBINO 12 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
     "ID": "86CDE64F-AC26-4E1E-B610-B3362541C507",
     "Text": "BEE…HAPPY!\r\n\r\nTelefono\r\n333 8225998\r\n\r\nEmail\r\nasilo@email.it\r\n\r\nIndirizzo\r\nVIA EDISON T.A.  17 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_asilonido"
-      }
-    ]
-  },
-  {
-    "ID": "8AB25C7C-9E16-4223-B166-8F76A61F14F8",
-    "Text": "I. T. Economico e tecnologico - Mapelli\r\n\r\nIndirizzo\r\nVIA PARMENIDE 18 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
       }
     ]
   },
@@ -1329,16 +750,6 @@
     ]
   },
   {
-    "ID": "8FB6C518-9DB1-4077-9E26-7ECFEDE96AEC",
-    "Text": "L. Scientifico Frisi\r\n\r\nIndirizzo\r\nVIA MANTEGAZZA 10 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
     "ID": "92A171C8-633C-4F8D-A085-8FD95919E3A8",
     "Text": "Ente Morale Scuola Dell'infanzia 'Umberto I'\r\n\r\nTelefono\r\n03389527264\r\n\r\nEmail\r\ndott.russo@studiopontiratti.it\r\n\r\nIndirizzo\r\nVICOLO SCULE 2 MONZA\r\n",
     "Button": [
@@ -1359,52 +770,12 @@
     ]
   },
   {
-    "ID": "9593D23B-DFAD-437A-954E-DDF3BE0EB8E8",
-    "Text": "L.Linguistico -  Bianchi\r\n\r\nIndirizzo\r\nVIA DELLA MINERVA 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
-    "ID": "967B7F74-57D9-404B-B093-43998229E85E",
-    "Text": "Primaria - S. Alessandro\r\n\r\nIndirizzo\r\nVIA OMERO  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
     "ID": "968D1545-FFEA-43BC-9D22-B15F65427421",
     "Text": "Congregazione Delle Missionarie Dell'immacolata\r\n\r\nTelefono\r\n0248000671\r\n\r\nEmail\r\nmdimieco@pcn.net\r\n\r\nIndirizzo\r\nVIA MANTEGNA 27 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_materna"
-      }
-    ]
-  },
-  {
-    "ID": "97B43B0C-5309-440D-80AB-AE79455B4D8E",
-    "Text": "Secondaria Primo Grado - Sabin\r\n\r\nFax\r\n39745819\r\n\r\nEmail\r\nicsanfruttuoso@icsanfruttuoso.com\r\n\r\nIndirizzo\r\nVIA ISEO 18 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
-      }
-    ]
-  },
-  {
-    "ID": "99DDFFC9-ED0B-4568-B251-6ECE3E45C1D2",
-    "Text": "Primaria - Tacoli\r\n\r\nIndirizzo\r\nVIA V. PISANI  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
       }
     ]
   },
@@ -1419,32 +790,12 @@
     ]
   },
   {
-    "ID": "A02F3BDA-3DF4-437E-9D0E-D13C948DB457",
-    "Text": "I. P. Servizi - Olivetti (serale)\r\n\r\nIndirizzo\r\nVIA LECCO 12 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
     "ID": "A2962E45-6EBA-40F4-A7F8-C983B2E23580",
     "Text": "Fondazione Opere Educative\r\n\r\nTelefono\r\n039740470\r\n\r\nEmail\r\ninfo@guastalla.org\r\n\r\nIndirizzo\r\nVIALE LOMBARDIA 180 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_materna"
-      }
-    ]
-  },
-  {
-    "ID": "A660A6A7-E040-4239-BCB5-073EE4B6E859",
-    "Text": "I.P.Industria e Artigianato -Monza (serale)\r\n\r\nIndirizzo\r\nVIA MONTEGRAPPA 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
       }
     ]
   },
@@ -1469,16 +820,6 @@
     ]
   },
   {
-    "ID": "B05827D0-B3B2-4272-B7EC-C376108D1F97",
-    "Text": "Primaria - Buonarroti\r\n\r\nIndirizzo\r\nVIA PIER DELLA FRANCESCA 11 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
     "ID": "B098C032-8B49-4FA8-8449-CE69FC95D325",
     "Text": "LILO NIDO\r\n\r\nTelefono\r\n039 2910263\r\n\r\nEmail\r\ninfo@lilonido.it\r\n\r\nIndirizzo\r\nVIA BORGAZZI GEROLAMO  143 MONZA\r\n",
     "Button": [
@@ -1499,52 +840,12 @@
     ]
   },
   {
-    "ID": "B5A0A49F-C448-4AF2-BF94-8ABB1A2F5744",
-    "Text": "Secondaria Primo Grado - Confalonieri\r\n\r\nIndirizzo\r\nVIA CORREGGIO  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
-      }
-    ]
-  },
-  {
     "ID": "B6186CFB-48CF-4F39-B4EE-1E9AF6844FCE",
     "Text": "COLLEGIO VILLORESI SAN GIUSEPPE\r\n\r\nTelefono\r\n039 839041\r\n\r\nFax\r\n039 323544\r\n\r\nEmail\r\nsegreteria@collegiovilloresi.it\r\n\r\nIndirizzo\r\nVIA MONTI E TOGNETTI  10 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_asilonido"
-      }
-    ]
-  },
-  {
-    "ID": "BA9CFF88-7977-4357-9739-E765014DB6FB",
-    "Text": "L. Scientifico Mapelli\r\n\r\nTelefono\r\n39833353\r\n\r\nFax\r\n39833649\r\n\r\nEmail\r\nitcgmapelli@libero.it\r\n\r\nIndirizzo\r\nVIA PARMENIDE 18 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
-    "ID": "BC4BAA8F-6B2D-4B3B-8D2B-CE206B72CF28",
-    "Text": "Primaria - Puecher\r\n\r\nIndirizzo\r\nVIA GOLDONI 28 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
-    "ID": "BC882663-3BAB-4AB7-98B0-589D1A992E96",
-    "Text": "I.T. Tecnologico - Hensemberger (serale)\r\n\r\nIndirizzo\r\nVIA BERCHET 2 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
       }
     ]
   },
@@ -1569,42 +870,12 @@
     ]
   },
   {
-    "ID": "C7945DA4-5A65-4C3E-B4C2-C8232F55317D",
-    "Text": "I.T. Tecnologico -  Hensemberger\r\n\r\nIndirizzo\r\nVIA MAGENTA  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
     "ID": "C7E7CCF2-CC2B-4EFA-BBA0-E103AA01E72C",
     "Text": "ASILO NIDO CAZZANIGA\r\n\r\nTelefono\r\n039  387888\r\n\r\nFax\r\n039 2300635\r\n\r\nEmail\r\nnidocazzaniga@comune.monza.it\r\n\r\nIndirizzo\r\nVIA DEBUSSY CLAUDE  10 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_asilonido"
-      }
-    ]
-  },
-  {
-    "ID": "CABEBCF4-A84E-46F0-A49D-D319343B6666",
-    "Text": "I.T. Tecnologico - Monza\r\n\r\nIndirizzo\r\nVIA MONTEGRAPPA 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
-      }
-    ]
-  },
-  {
-    "ID": "CEEEC69D-8B26-43B5-8C7F-55DC9A58DDEE",
-    "Text": "L. Classico - Zucchi\r\n\r\nIndirizzo\r\nPIAZZA TRENTO E TRIESTE 6 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
       }
     ]
   },
@@ -1629,32 +900,12 @@
     ]
   },
   {
-    "ID": "DABBCA14-E453-4B96-B045-198CF796D48C",
-    "Text": "Secondaria Primo Grado ArdigÃ² Bellani\r\n\r\nIndirizzo\r\nVIA UGO FOSCOLO  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_medie"
-      }
-    ]
-  },
-  {
     "ID": "DB09D2CE-F7E3-407C-AABA-971DD8D08104",
     "Text": "Infanzia - J.MirÃ²\r\n\r\nTelefono\r\n0\r\n\r\nEmail\r\nmiic8ae005@istruzione.it\r\n\r\nIndirizzo\r\nVIA MONTE BIANCO MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_materna"
-      }
-    ]
-  },
-  {
-    "ID": "DB7141EA-323A-4BBF-BD12-75A153532A2B",
-    "Text": "Elementare  De Amicis\r\n\r\nIndirizzo\r\nPIAZZA MATTEOTTI 1 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
       }
     ]
   },
@@ -1675,16 +926,6 @@
       {
         "Text": ":back: Indietro",
         "ID": "monza_asilonido"
-      }
-    ]
-  },
-  {
-    "ID": "DFA8228F-40DE-4592-8883-9550DB47E026",
-    "Text": "L. Scientifico - -Frisi\r\n\r\nTelefono\r\n39235981\r\n\r\nFax\r\n39368795\r\n\r\nEmail\r\ninfo@frisimonza.it\r\n\r\nIndirizzo\r\nVIA SEMPIONE 21 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_superiori"
       }
     ]
   },
@@ -1719,42 +960,12 @@
     ]
   },
   {
-    "ID": "E3DCAB01-8885-491C-841E-CE1133427A4F",
-    "Text": "Primaria - C O Istituto Osped. S. Gerardo\r\n\r\nIndirizzo\r\nVIA RAMAZZOTTI  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
     "ID": "E4465697-EAD4-428F-A431-0ADCBCF57254",
     "Text": "ASILO NIDO CEDERNA\r\n\r\nTelefono\r\n039  830312\r\n\r\nFax\r\n039  2028133\r\n\r\nEmail\r\nnidocederna@comune.monza.it\r\n\r\nIndirizzo\r\nVIA POLIZIANO ANGELO  2 MONZA\r\n",
     "Button": [
       {
         "Text": ":back: Indietro",
         "ID": "monza_asilonido"
-      }
-    ]
-  },
-  {
-    "ID": "E7826179-9D4C-40BE-94C8-51E6E31CAD02",
-    "Text": "Primaria - Manzoni\r\n\r\nIndirizzo\r\nVIA MAMELI 18 MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
-      }
-    ]
-  },
-  {
-    "ID": "E852FFBB-66D5-4F1C-B603-41E11B0C5EEE",
-    "Text": "Primaria - Bachelet\r\n\r\nIndirizzo\r\nVIA DELLA BIRONA  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
       }
     ]
   },
@@ -1775,16 +986,6 @@
       {
         "Text": ":back: Indietro",
         "ID": "monza_materna"
-      }
-    ]
-  },
-  {
-    "ID": "F05F926F-C883-4777-B019-72B12E1D3B57",
-    "Text": "Primaria - Citterio\r\n\r\nFax\r\n392026704\r\n\r\nEmail\r\nsettimocircolomonza@libero.it\r\n\r\nIndirizzo\r\nVIA COLLODI  MONZA\r\n",
-    "Button": [
-      {
-        "Text": ":back: Indietro",
-        "ID": "monza_elementare"
       }
     ]
   },
